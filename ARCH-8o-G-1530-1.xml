@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,12 +22,16 @@
           University of Oxford, </publisher>
         <date>2026. </date>
         <availability>
-          <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
-            available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
               Attribution-ShareAlike 4.0 International License</ref>
             <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
-          <licence xml:id="image_files" target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
-            reproduced from the Bodleian Library under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
               Commons Attribution-NonCommercial-ShareAlike 3.0 International
               License</ref> . </licence>
         </availability>
@@ -69,7 +74,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+    <encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -99,7 +104,8 @@
   <text xml:lang="ger" xml:id="ARCH-8o-G-1530-1">
     <front><titlePage>
         <docTitle> 
-          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/f90966b966358ba8b78cbfb4409b2e38127fc0dc/images/arch-8o-g-1530-01/arch-8o-g-1530-01-titlepage.jpg" n="titlepage"/>
+          <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-titlepage.jpg" n="titlepage"/>
+         
           <titlePart type="main">Das XXXVIII vnd XXXIX Capitel Hesechiel vom Zog.
             Verdeudscht durch
             Mart. Luther.
@@ -108,8 +114,8 @@
         <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
     <body>
       <div type="text">
- 
-        <pb facs="raw.githubusercontent.com/huber-emma/Reformation/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2r.jpg" n="a2r"/>
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-titlepage-verso.jpg" n="title page verso"/>
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2r.jpg" n="a2r"/>
         <head type="chapter">
           <lb/>Vorrede Martini Luthers / auff
           <lb/>das XXXVIII vnd XXXIX.
@@ -144,7 +150,7 @@
           <lb/>offenbarung / vnd auch beide / den selbigen Türcken
           <lb/>bedeuten
         
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2v.jpg" n="a2v"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2v.jpg" n="a2v"/>
           <lb/>bedeuten / Das thut er darümb / vns trost zuerzeigen /
           <lb/>das er dem Gog fast feind ist / Gleich wie ein iglicher
           <lb/>mensch / seinen feind mit halbem namen nennet /
@@ -181,7 +187,7 @@
           <lb/>halten sie auch nicht haus / nach der schrifft / ym
           <lb/>hundert
 
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3r.jpg" n="a3r"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3r.jpg" n="a3r"/>
           <lb/>hundert vnd sechs vnd zwentzigsten Psalm / Denn
           <lb/>sie achten der ehe nicht / vnd ist yhrer vnzucht kein
           <lb/>ziel gesteckt / nemen vnd lassen weiber / wie sie wol
@@ -215,7 +221,7 @@
           <lb/>Türcken / nach seinem vaterland Magog / vnd aus
           <lb/>zorn / den Gog.
           
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3v.jpg" n="a3v"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3v.jpg" n="a3v"/>
           <lb/>die Apostel / vnd andere iünger Christi / so aus den
           <lb/>Jüden komen / waren rechte Jsrael / Vnd haben
           <lb/>auch des gantzen volcks Jsrael namen geerbet / wie
@@ -252,7 +258,7 @@
           <lb/>das einige kleinot ynn Jsrael ist / Vnd seine Apostel
           <lb/>vnser
         
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4r.jpg" n="a4r"/>      
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4r.jpg" n="a4r"/>      
           <lb/>vnſere hertzogen / auch rechte Jsrael sind.
         </p>
         
@@ -301,7 +307,7 @@
           <lb/>rael / ynn diesen zweyen Capiteln vernemen / Denn
           <lb/>die
 
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4v.jpg" n="a4v"/>      
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4v.jpg" n="a4v"/>      
           <lb/>hats ym sinn / Gog hat das deudsche blut gekostet /
           <lb/>Er gedenckt sich vol drvnnen zu sauffen / So ist vns
           <lb/>der teuffel feind / er wil vns rein abteren / So sehen
@@ -340,7 +346,7 @@
       </div>
 
       <div type="text">
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1r.jpg" n="b1r"/>      
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1r.jpg" n="b1r"/>      
         <head type="chapter">
           <lb/>Das XXXVIII Capi
           <lb/>tel Hesechiel.
@@ -405,7 +411,7 @@
           <lb/>aus vielen völckern zu samen komen ist / nem
           <lb/>lich /
 
-          <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1v.jpg" n="b1v"/>      
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1v.jpg" n="b1v"/>      
           <lb/>lich / auff die berge Jsrael / welche stets wüste
           <lb/>gewest sind / vnd nu ausgefüret / aus vielen völ
           <lb/>ckern / vnd alle sicher wonen.
@@ -473,7 +479,7 @@
           <lb/>volck Jsrael sicher wonen wird / so wirstu ko
           <lb/>men
 
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2r.jpg" n="b2r"/>      
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2r.jpg" n="b2r"/>      
           <lb/>men aus deinem ort / nemlich / von den enden
           <lb/>gegen mitternacht / du vnd gros volck mit dir /
           <lb/>alle zu rosse / ein grosser hauffe / vnd ein mech
@@ -536,7 +542,7 @@
           nander erwürgen.
         </note>
   
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2v.jpg" n="b2v"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2v.jpg" n="b2v"/>
           <lb/>der den andern sein / Vnd ich wil yhn richten /
           <lb/>mit pestilentz vnd blut / vnd wil regen lassen /
           <lb/>platz regen mit schlossen / feur vnd schwoeffel /
@@ -588,7 +594,7 @@
           <lb/>vnd vber die so ynn den Jnsulen sicher wonen /
           <lb/>vnd
           
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3r.jpg" n="b3r"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3r.jpg" n="b3r"/>
           <lb/>vnd sollens erfaren / das ich Gott bin / Denn
           <lb/>ich wil meinen heiligen namen kund machen
           <lb/>vnter meinem volck Jsrael / vnd wil meinen
@@ -641,7 +647,7 @@
           <lb/>Vnd
         </p>
         
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3v.jpg" n="b3v"/>
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3v.jpg" n="b3v"/>
         <p>
           <lb/>Vnd sie werden leute aussondern / die
           <lb/>stets ym lande vmbher gehen / vnd mit den sel
@@ -696,7 +702,7 @@
           <lb/>mein vrteil / das ich habe gehen lassen / vn mei
           <lb/>ne
 
-        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b4r.jpg" n="b4r"/>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b4r.jpg" n="b4r"/>
           <lb/>ne hand / die ich an sie geleget habe / vn also das haus
           <lb/>Jsrael erfare / das ich der HERR yhr Gott bin / von
           <lb/>dem tage / vnd hinfüroer / Vnd auch alle heiden er
