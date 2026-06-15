@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Das 38. und 39. Kapitel Ezechiels: a digital edition</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/>
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>8 folios.<note>[complete]</note></extent>
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+B+3813</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990127593720107026</idno><!-- Other ids can be given here, for example, a link to a mss description in a Special Collection catalogue -->
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title><!-- guest  reformation treasures mazarinade -->
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[JPEG]</note>
+        <!-- Put the format of the accompanying images (values: "JPEG" (.jpg), "PNG" (.png), "TIFF2" (.tiff), "TIFF" (.tif), or the URI of the manifest for IIIF.)-->
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(1).</p></note><!-- Fill in information indicated by square brackets -->
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Das 38. und 39. Kapitel Ezechiels.</title>. </p> 
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p>
+        </note>
+      </notesStmt>
+      <sourceDesc> <!-- Complete publication information of source text -->
+        <biblFull>
+          <titleStmt>
+            <title>Das 38. und 39. Kapitel Ezechiels.</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>Nickel Schirlentz, </publisher>
+            <pubPlace>Wittenberg:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p><!-- to be filled in by student -->
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language><!-- language must be three letter ISO code, see https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-1">
+    <front><titlePage>
+        <docTitle> 
+          <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-titlepage.jpg" n="titlepage"/>
+          <titlePart type="main">Das XXXVIII vnd XXXIX Capitel Hesechiel vom Zog.
+            Verdeudscht durch
+            Mart. Luther.
+            Wittemberg.
+            MDXXX.</titlePart></docTitle>
+        <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    <body>
+      <div type="text">
+ 
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2r.jpg" n="a2r"/>
+        <head type="chapter">
+          <lb/>Vorrede Martini Luthers / auff
+          <lb/>das XXXVIII vnd XXXIX.
+          <lb/>Capitel Hesechiel vom Gog.
+        </head>
+        <p>
+          <lb/>Weil ynn der Offenbarunge
+          <lb/>Sanct Johannis am zwentzigsten
+          <lb/>Capitel der Gog wird beschrieben /
+          <lb/>wie er mit grossem heer / wie sand am
+          <lb/>meer vnzelich / wider die Christenheit
+          <lb/>streiten / vnd endlich mit feur vom hi
+          <lb/>mel zerstöret werden sol / Welchen wir
+          <lb/>fur den Türcken halten / Habe ich mir / weil ich hie
+          <lb/>so müssig sitze / furgenomen / die zwey Capitel Hese
+          <lb/>chiel / nemlich / das xxxviii vnd xxxix auch zu
+          <lb/>verdeudschen / welche fast gleich mit der offenba
+          <lb/>rung stimmen / vnd sihet / als habes Sanct Johan
+          <lb/>nes aus Hesechiel genomen / vnd weyse vns hiehe
+          <lb/>ynn den Propheten Hesechiel / der ein wenig weiter
+          <lb/>dauon redet / Sonst findet man nirgent ynn der hei
+          <lb/>ligen schrifft von dem namen Gog.
+        </p>
+        <p>
+          <lb/>Vnd mich dunckt / das der heilige geist / dem
+          <lb/>Türcken den namen verkürtzt / vnd nennet yhn nicht
+          <lb/>schlecht Magog / welchs der rechte gantze name ist /
+          <lb/>Genesis am zehenden / Sondern bricht yhm den
+          <lb/>kopff ab / nimpt yhm den ersten buchstaben weg /
+          <lb/>vnd nennet yhn / Gog / wie wol doch beide / Gog vnd
+          <lb/>Magog / ein name ist / an disem ort vnd ynn der
+          <lb/>offenbarung / vnd auch beide / den selbigen Türcken
+          <lb/>bedeuten
+        
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a2v.jpg" n="a2v"/>
+          <lb/>bedeuten / Das thut er darümb / vns trost zuerzeigen /
+          <lb/>das er dem Gog fast feind ist / Gleich wie ein iglicher
+          <lb/>mensch / seinen feind mit halbem namen nennet /
+          <lb/>wenn er seinen zorn odder vnwillen zeigen wil / als
+          <lb/>wenn man einen sonst teglich Johannes heisst / vnd
+          <lb/>aus zorn / Hans / ruffet / Vnd der Prophet Jeremia
+          <lb/>am zwey vnd zwenzigsten / den könig Jechania / sch
+          <lb/>lecht Chania nennet / welchen er doch sonst offt Je
+          <lb/>chania nennet / Also hie der Türcke der mit gantzem
+          <lb/>namen / Magog heisst / mus mit halbem namen
+          <lb/>auch Gog heissen / wie wol solch verkürtzen der na
+          <lb/>men auch offt aus liebe geschicht / als man spricht /
+          <lb/>Lippes / Lehne / Thrine / ia auch wol / du scheletlin /
+          <lb/>du büblin.
+        </p>
+        
+        <p>
+          <lb/>Vnd Gog ist ein name aus dem Ebreischen /
+          <lb/>Gag / das heisst ein dach / Das Gog odder Magog
+          <lb/>so viel heisst / als ein Dachman / oder der vnter dein
+          <lb/>dach wonet / Welchs reymet sich beide mit den Tür
+          <lb/>cken vnd yhren vetern / den Tattern / Es ist beides
+          <lb/>ein wild raubisch volck / das nicht nach heusern fra
+          <lb/>get / sondern / wie das vihe / wonen sie ynn hütten /
+          <lb/>als vnter deckern vnd schawren / zu raub vnd krieg
+          <lb/>ymmer bereit / Vnd sie wollens gerhümet sein / das
+          <lb/>sie / als eitel grosse heiligen / nicht grosse schone heu
+          <lb/>ser bawen / wie bey vns geschicht / Vnd ist auch fein /
+          <lb/>wie die heiligen sind / so ist die heiligkeit auch / Vnd
+          <lb/>solche heiligen sollen solche heiligkeit haben / voller
+          <lb/>geitz / vnzucht / hoffart / mord / Gotts lesterung / vnd
+          <lb/>darnach ein dach fur ein haus erwelen / Gleich wie al
+          <lb/>ter heuchler heiligkeit auch zuthun pfleget / Zu dem /
+          <lb/>halten sie auch nicht haus / nach der schrifft / ym
+          <lb/>hundert
+
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3r.jpg" n="a3r"/>
+          <lb/>hundert vnd sechs vnd zwentzigsten Psalm / Denn
+          <lb/>sie achten der ehe nicht / vnd ist yhrer vnzucht kein
+          <lb/>ziel gesteckt / nemen vnd lassen weiber / wie sie wol
+          <lb/>len / vnd stehet also yhr hütten / hinden vnd fornen /
+          <lb/>vnd zu allen seiten offen / das sie der vnzucht nach
+          <lb/>lauffen / wie das vihe / Das dach aber haben sie zum
+          <lb/>zeugnis / grosser abstinentz vnd messigkeit.
+        </p>
+        
+        <p>
+          <lb/>Es ist aber vorhin gnug angezeigt / wie Gog
+          <lb/>der Türcke sein hertomen hat / aus den Tattern od
+          <lb/>der roten Juden / da der grosse Cam könig ist / wie
+          <lb/>die landferer sagen / welche vrsprünglich den namen
+          <lb/>Magog haben / Gene. am zehenden / Darümb auch
+          <lb/>der Türcke / solchen seines vater landes namen hie er
+          <lb/>ben mus / nach gewonheit der schrifft / da zuweilen
+          <lb/>wol ein eintzele person / eins gantzen landes namen
+          <lb/>füret / gleich wie Sanct Paulus / Genesis am neun
+          <lb/>vnd viertzigsten / vnd ym sieben vnnd sechzigsten
+          <lb/>Psalm / Ben Jamin des gantzen geschlechts na
+          <lb/>men erbet / als were er allein Ben Jamin / Welche
+          <lb/>weise auch wir deudschen habe / wenn wir also sage /
+          <lb/>Sachsen odder Saxonia hielt fest / da man den Kei
+          <lb/>ser welet / Sachsen thet das beste / Die mit meinen
+          <lb/>wir nicht mehr / denn hertzog Fridrichen zu Sach
+          <lb/>sen / die eintzele person / Vnd wenn ein Spaniol mit
+          <lb/>eim Venediger kempffet / spreche man / Nun Hispa
+          <lb/>nia were dich / Hispania siegt / Venedig liegt / vnd
+          <lb/>der gleichen viel / Also heisst hie der heilige geist den
+          <lb/>Türcken / nach seinem vaterland Magog / vnd aus
+          <lb/>zorn / den Gog.
+          
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a3v.jpg" n="a3v"/>
+          <lb/>die Apostel / vnd andere iünger Christi / so aus den
+          <lb/>Jüden komen / waren rechte Jsrael / Vnd haben
+          <lb/>auch des gantzen volcks Jsrael namen geerbet / wie
+          <lb/>Sanct Paulus den namen Ben Jamin / Drümb ist
+          <lb/>der name Jsrael hinfurt bey den Aposteln blieben /
+          <lb/>vnd auff alle yhre iünger geerbet / das nu mehr / die
+          <lb/>heilige Christenheit / vnd wir auch / vnd alle die dem
+          <lb/>wort der Apostel gleuben / vnd yhre iünger sind / Js
+          <lb/>rael heissen. Gleich wie alle lender mussen hie / Gog /
+          <lb/>mit heissen / weil sie vnter dem Türcken sind / vñ yhm
+          <lb/>folgen / ob sie wol der geburt nicht alle Gog sind / son
+          <lb/>dern / Griechen / Moren / Araber vnd der gleichen /
+          <lb/>denn der hauffe wird genennet / nach dem heubt /
+          <lb/>des das panier ist.
+        </p>
+        
+        <p>
+          <lb/>Darümb müssen wir hie durch die berge Jsra
+          <lb/>el / nicht die berge bey Jerusalem verstehen / da Gog
+          <lb/>sol erschlagen werden / Es sind die Christlichen kirch
+          <lb/>en hin vñ wider / Vnter den Christen sol er darnider
+          <lb/>ligen / Aber nicht mit dem schwert / sondern mit bliz /
+          <lb/>donner / hellisch feur vom himel herab / Denn vnser
+          <lb/>fursten / Die lieben Apostel / sind rechte natürliche Js
+          <lb/>rael / so sind wir Christen / vnter yhrem panier / das
+          <lb/>ist / vnter dem Euangelion / darümb heissen wir
+          <lb/>nach yhrem namen / recht vnd redlich Jsrael . Dies
+          <lb/>doch der schelm Julianus die Christen / Galileer /
+          <lb/>darümb / das sie an Jhesum aus Galilea hiengen /
+          <lb/>Vnd mus gantz Asia / Gog vnd Türcken heissen /
+          <lb/>vmb yhrs tyrannen willen / Warümb solten wir ni
+          <lb/>cht auch vmb vnsers herrn Jhesus willen / Jsrael
+          <lb/>heissen? So er doch ein rechter natürlicher Jsrael / ia
+          <lb/>das einige kleinot ynn Jsrael ist / Vnd seine Apostel
+          <lb/>vnser
+        
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4r.jpg" n="a4r"/>      
+          <lb/>vnſere hertzogen / auch rechte Jsrael sind.
+        </p>
+        
+        <p>
+          <lb/>Das sage ich darümb / das man sich an der Jü
+          <lb/>den auslegung nicht kere / Es gehet sie dieser text ni
+          <lb/>chts an / Daniel am neunden Cap. hat yhn angezei
+          <lb/>get yhr ende / das sie keiner versamlung mehr hoffen
+          <lb/>dürffen / Wir sinds / die aus allerley völckern zu samen
+          <lb/>bracht / vnter einen herrn Christum / Vnd sonderlich
+          <lb/>itzt / ynn diesen letzten zeiten / sind wir kaum ein we
+          <lb/>nig durchs Euangelion / aus allen yrrigen glauben
+          <lb/>zu samen bracht / Das merckt der teuffel ym Gog /
+          <lb/>(spricht hie Hesechiel) vnd wil an vns / das er vns
+          <lb/>aufftreibe / Denn weil er sihet / das Bapst / Keiser /
+          <lb/>könige vnd fursten / das Euangelion nicht mügen
+          <lb/>dempffen / denckt ers mit macht durch seinen Gog
+          <lb/>zu vertilgen.
+        </p>
+        
+        <p>
+          <lb/>Denn ich kan die gedancken nicht lassen / kans
+          <lb/>auch den teuffel nicht verwissen / das er mich / vnd
+          <lb/>mein heufflein / nicht fürnemlich solt meinen zu such
+          <lb/>en / Wir müssen yhm auch deudschland heissen / Jst
+          <lb/>vnser Euangelion recht / so feylen mir diese gedan
+          <lb/>cken nicht / Vnd weis / das der teuffel solchs mus
+          <lb/>ym sinn haben / Denn er wil vnd kan vnser Euan
+          <lb/>gelion nicht leiden / Er risse lieber himel vnd erden
+          <lb/>ynn einander / schweige denn / das er nicht solt sei
+          <lb/>nen Gog auffwecken.
+        </p>
+        
+        <p>
+          <lb/>Darümb habe ich destemehr dise zwey Capi
+          <lb/>tel wollen auslassen / die vnsern zu trösten vnd ver
+          <lb/>manen / zur besserung / vnd zu vleissigem ernstlichem
+          <lb/>gebet / auff das wir die verheissen erlösung ynn die
+          <lb/>sem text / vnd das vntergehen des Gogs seliglich
+          <lb/>vnd mit freuden sehen mügen / Er zeucht daher / vnd
+          <lb/>hats
+        </p>
+        
+        <p>
+          <lb/>Nach dieser weise / sol man auch das wort Js
+          <lb/>rael / ynn diesen zweyen Capiteln vernemen / Denn
+          <lb/>die
+
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-a4v.jpg" n="a4v"/>      
+          <lb/>hats ym sinn / Gog hat das deudsche blut gekostet /
+          <lb/>Er gedenckt sich vol drvnnen zu sauffen / So ist vns
+          <lb/>der teuffel feind / er wil vns rein abteren / So sehen
+          <lb/>wir hie am ende des neun vn zwentzigsten Capitels /
+          <lb/>wer den Türcken so gros vnd mechtig gemacht hat /
+          <lb/>wer yhm so viel vn grossen sieg gibt / Nicht fur war /
+          <lb/>seine menge odder macht / sonder vnser sunde / sagt
+          <lb/>der text / die haben Gottes zorn erweckt / vnd sein
+          <lb/>angesicht von vns verborgen / vnd den Gog so grew
+          <lb/>lich lassen wüten.
+        </p>
+        
+        <p>
+          <lb/>So betere sich nu jderman / fürchte Gott / vnd
+          <lb/>ehre sein Euangelion / Last vns vnser sunde beken
+          <lb/>nen vnd nicht leugnen / Darnach mit starckem ge
+          <lb/>bet / vnd hertzlichem seufftzen / vmb hülff vnd gnade
+          <lb/>bitten / Denn vnser vermessenheit / wird den Gog
+          <lb/>nicht schlagen / Gottes zorn sey denn zuuor weg /
+          <lb/>durch vnser busse vnd gebet / wie er hie ym text sagt /
+          <lb/>das mit dem Gog sein zorn erauff zihe / Es sol yhn
+          <lb/>der donner / bliz / vnd hellisch feur erschlahen / gleich
+          <lb/>wie dem Sanherib geschach / das ist sein vrteil vnd
+          <lb/>sein ende / Welch vrteil müssen die Christen mit yh
+          <lb/>rem seufftzen vnd bitten / treiben vnd fodern / Sonst
+          <lb/>wirds niemand thun / denn darümb ist auch das E
+          <lb/>uangelion itzt so helle erschienen / das Christus beide /
+          <lb/>Bapst (wie er angefangen) vnd Türcken / wil hin
+          <lb/>richten vnd abhelffen / vnd vns ein mal gantz / vnd
+          <lb/>gar erlösen / mit seiner herrlichen zukunfft / welch
+          <lb/>er wir teglich warten / Des helff vns seine
+          <lb/>gnade vnd barmhertzigkeit / vestiglich
+          <lb/>zu gleuben / vnd hertzlich zu bit
+          <lb/>ten / Amen.
+        </p>
+      </div>
+
+      <div type="text">
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1r.jpg" n="b1r"/>      
+        <head type="chapter">
+          <lb/>Das XXXVIII Capi
+          <lb/>tel Hesechiel.
+        </head>
+        
+        <p>
+          <lb/>Vnd das Gottes wort
+          <lb/>geschach zu mir / vnd sprach /
+          <lb/>Du menschen kind wende dich
+          <lb/>gegen Gog / der aus dem lande
+          <lb/>Magog ist / vnd ein furst aus den
+          <lb/>herren ynn Mesech vnd Thu
+          <lb/>bal / vnd weissage von yhm vnd
+          <lb/>sprich.
+          <note place="margin" xml:id="n01" n="01">
+            Mesech vnd Thubal sind auch Tattern / vnd des volcks
+            cabynden die man Schuten oder Schotten nennet /
+            wie wol Mesech laut als kommen die Moschoviter
+            von yhn / das ist / die Reussen.
+          </note>
+          
+          <lb/>So spricht Gott der HERR / Sihe /
+          <lb/>ich wil an dich Gog / der du ein furst bist / aus
+          <lb/>den herren ynn Mesech vnd Thubal / sihe / ich
+          <lb/>wil dich herümb lencken / vnd wil einen zaum
+          <lb/>ynn dein maul legen / vnd wil dich eraus kome
+          <lb/>lassen / mit alle deinem heer / ros vnd man / die
+          <lb/>alle wol geputzt sind / ein grossen hauffen mit
+          <lb/>spies vnd schild / vnd alle das schwert füren /
+          <lb/>Denn es sind bey dir Persen / Moren vnd aus
+          <lb/>Lybia / die haben alle schild vnd helmen /
+          <note place="margin" xml:id="n02" n="02">
+            Persen stossen an Reich Arabiæ / darümb wird der
+            Türck auch der etliche haben.
+          </note>
+          
+          <lb/>Dazu
+          <lb/>Gomer vnd sein heer / sampt dem hause Tho
+          <lb/>garma /
+          <note place="margin" xml:id="n03" n="03">
+            Gomer vnd Thogarma sein son /
+            Gene. x. acht ich / seien die Wenden /
+            denn am Türckischen hofe redet
+            man wendisch.
+          </note>
+          
+          <lb/>so gegen mitternacht ligt / mit all sei
+          <lb/>nem heer / Ja es ist ein gros volck bey dir.
+        </p>
+        
+        <p>
+          <lb/>Wolan rüste dich wol / du vnd alle deine
+          <lb/>hauffen / so bey dir sind / vnd sey du yhr hüter /
+          <note place="margin" xml:id="n04" n="04">
+            (hüter)
+            Yhr oberster vnd allein herr.
+          </note>
+          
+          <lb/>Auff das du lange hernach heimsuchest / vnd
+          <lb/>nach viel vergangenen iaren / komest ynn das
+          <lb/>land / das vom schwert wider bracht / vnd
+          <lb/>aus vielen völckern zu samen komen ist / nem
+          <lb/>lich /
+
+          <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b1v.jpg" n="b1v"/>      
+          <lb/>lich / auff die berge Jsrael / welche stets wüste
+          <lb/>gewest sind / vnd nu ausgefüret / aus vielen völ
+          <lb/>ckern / vnd alle sicher wonen.
+        </p>
+        
+        <p>
+          <lb/>Du wirst erauff ziehen / wie ein vngetüm
+          <lb/>wirstu komen / vnd wirst sein / wie eine wolcke /
+          <lb/>die das land bedecket / du vnd dein heer / vnd
+          <lb/>das gros volck mit dir.
+        </p>
+        
+        <p>
+          <lb/>So spricht Gott der HERR / zu der zeit
+          <lb/>wirds dir einfallen / vnd wirsts böse ym sinn
+          <lb/>haben / vnd gedencken / ich wil das vnbewo
+          <lb/>net land vber fallen / vnd vber die komen / so
+          <lb/>sicher vnd on sorge wonen / als die alle on mau
+          <lb/>ren da sitzen / vñ haben wedder rigel noch thor /
+          <lb/>auff das du rauben vnd plündern mügest / vnd
+          <lb/>deine hand lassen gehen vber die verstöre
+          <lb/>ten / so widder bracht sind / vnd vber das volck /
+          <lb/>so aus den Heiden zu samen gerafft ist / vnd
+          <lb/>sich ynn die narung gericht / vnd kaum gesetzt
+          <lb/>hat / vnd mitten ym lande wonet.
+        </p>
+        
+        <note place="margin" n="05">
+          Dedan ist ein stück
+          des reichs Arabia /
+          So ligt der Mohr
+          horet her / ynn reich
+          Arabia begraben /
+          zu Mecha.
+        </note>
+        
+        <p>
+          <lb/>Das Reich Arabia / Dedan vnd die kauff
+          <lb/>leute auff dem meer / vnd alle gewaltigen / die
+          <lb/>da selbst sind / werden zu dir sagen / Ich meine
+          <lb/>ja / du seiest recht komen / zu rauben / vnd hast
+          <lb/>deine hauffen versamlet zu plündern / auff das
+          <lb/>du weg nemest / silber vnd gold / vnd samlest
+          <lb/>vihe vnd güter / vnd grossen raub treibest.
+        </p>
+        
+        <note place="margin" n="06">
+          (Recht komen)
+          Das ist / du thust
+          recht vnd wol / fahr
+          ymmer fort / glück zu.
+        </note>
+        
+        <note place="margin" n="07">
+          (Recht)
+          Das ist / du bist
+          der rechte Keiser
+          vnd herr.
+        </note>
+        
+        <p>
+          <lb/>Darümb so weissage du menschen kind /
+          <lb/>vnd sprich zu Gog / So spricht Got der HERR /
+          <lb/>ists nicht also / das du wirst mercken / wenn mein
+          <lb/>volck Jsrael sicher wonen wird / so wirstu ko
+          <lb/>men
+
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2r.jpg" n="b2r"/>      
+          <lb/>men aus deinem ort / nemlich / von den enden
+          <lb/>gegen mitternacht / du vnd gros volck mit dir /
+          <lb/>alle zu rosse / ein grosser hauffe / vnd ein mech
+          <lb/>tiges heer / vnd wirst erauff ziehen / vber mein
+          <lb/>volck Jsrael / wie eine wolcke / die das land be
+          <lb/>deckt / Du wirst sein ynn den letzten tagen / Ich
+          <lb/>wil dich aber darümb erzubringen / ynn mein
+          <lb/>land / auff das die Heiden mich erkennen / wie
+          <lb/>ich an dir O Gog / geheiliget werde für yhren
+          <lb/>augen.
+        </p>
+        
+        <p>
+          <lb/>So spricht Gott der HERR / du bists /
+          <lb/>von dem ich gesagt habe / ynn den vorigen ta
+          <lb/>gen / durch meine diener / die Propheten ynn
+          <lb/>Jsrael / die zur selbigen zeit weissagten / das ich
+          <lb/>dich vber sie komen lassen wolt.
+        </p>
+        
+        <p>
+          <lb/>Vnd es wird geschehen / zur zeit / wenn
+          <lb/>Gog komen wird / vber das land Jsrael / spricht
+          <lb/>Gott der HERR / wird erauffziehen mein zorn /
+          <lb/>ynn meinem grim / Vnd ich rede solchs ynn
+          <lb/>meinem eyuer / vnd ym feur meines zorns /
+          <lb/>Denn zur selbigen zeit / wird gros zittern sein
+          <lb/>ym lande Jsrael / das für meinem angesicht
+          <lb/>zittern sollen / die fisch ym meer / die vogel vnter
+          <lb/>dem himel / das vihe auff dem felde / vnd alles
+          <lb/>was sich regt vnd wegt auff dem lande / vnd
+          <lb/>alle menschen / so auff der erden sind / vnd sol
+          <lb/>len die berge vmbgekeert / vnd die wende fallen /
+          <lb/>vnd alle mauren zu boden fallen.
+        </p>
+        
+        <note place="margin" n="08">
+          (Mein zorn)
+          Das ist / Gog ist
+          mein zorn vn ru
+          te / vmb meiner
+          Christen sünde
+          willen.
+        </note>
+        
+        <note place="margin" n="09">
+          Das ist des Gogs
+          werck.
+        </note>
+        
+        <p>
+          <lb/>Ich wil aber vber yhn ruffen / dem schwert /
+          <lb/>auff alle meinen bergen / spricht Gott der
+          <lb/>HERR / das eins iglichen schwert / sol wid
+          <lb/>der
+          
+        <note place="margin" n="10">
+          Sie sollen sich sel
+          bist ym heer vna
+          nander erwürgen.
+        </note>
+  
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b2v.jpg" n="b2v"/>
+          <lb/>der den andern sein / Vnd ich wil yhn richten /
+          <lb/>mit pestilentz vnd blut / vnd wil regen lassen /
+          <lb/>platz regen mit schlossen / feur vnd schwoeffel /
+          <lb/>vber yhn vnd sein heer / vnd vber das grosse vol
+          <lb/>ck / das mit yhm ist / Also wil ich denn herrlich /
+          <lb/>heilig vnd bekand werden / fur vielen heiden /
+          <lb/>das sie erfaren sollen / das ich Gott sey.
+        </p>
+        
+      </div>
+      
+      <div type="text">
+        
+        <head>
+          <lb/>Das XXXIX. Capitel.
+        </head>
+        
+        <p>
+          <lb/>Vnd du menschen kind /
+          <lb/>weissage widder Gog / vñ sprich /
+          <lb/>Also spricht Gott der HERR /
+          <lb/>Sihe / ich wil an dich Gog / der du
+          <lb/>ein fürst bist / aus den herrn ynn
+          <lb/>Mesech vnd Thubal / Sihe / ich
+          <lb/>wil dich herümb lencken / vnd lo
+          <lb/>cken / vnd aus den enden von mitternacht brin
+          <lb/>gen / vnd auff die berge Jsrael komen lassen /
+          <lb/>Vnd wil dir den bogen aus deiner lincken hand
+          <lb/>schlahen / vnd deine pfeile / aus deiner rechten
+          <lb/>hand werffen / Auff den bergen Jsrael soltu
+          <lb/>nidder gelegt werden / du mit alle deinem heer /
+          <lb/>vnd mit dem volck das bey dir ist / ich wil dich
+          <lb/>den vogeln / wo her sie fligen / vnd den thieren
+          <lb/>auff dem felde zu fressen geben / du solt auff
+          <lb/>dem felde darnidder ligen / Denn ich Gott der
+          <lb/>HERR / habs gesagt.
+        </p>
+        
+        <note place="margin" n="11">
+          (Sicher wonen)
+          Das ist / ynn Gogs
+          lande / daheymen /
+          sols auch brennen
+          dazu.
+        </note>
+        
+        <p>
+          <lb/>Vnd ich wil feur werffen / vber Magog /
+          <lb/>vnd vber die so ynn den Jnsulen sicher wonen /
+          <lb/>vnd
+          
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3r.jpg" n="b3r"/>
+          <lb/>vnd sollens erfaren / das ich Gott bin / Denn
+          <lb/>ich wil meinen heiligen namen kund machen
+          <lb/>vnter meinem volck Jsrael / vnd wil meinen
+          <lb/>heiligen namen nicht lenger schenden lassen /
+          <lb/>sondern die heiden sollen erfaren / das ich Gott
+          <lb/>bin / der heilige ynn Jsrael / Sihe / es ist schon
+          <lb/>komen vnd geschehen / spricht Got der HER
+          <lb/>RE / Das ist der tag / dauon ich gered habe.
+        </p>
+        
+        <p>
+          <lb/>Vnd die burger ynn stedten Jsrael / wer
+          <lb/>den eraus gehen vnd feur machen / vnd verbren
+          <lb/>nen / die waffen / schild / spies / bogen / pfeil / ste
+          <lb/>cken vnd stangen / vnd werden sieben iar lang /
+          <lb/>feurwerck damit halten / das sie nicht dürffen
+          <lb/>holtz auff dem felde holen / noch ym walde
+          <lb/>hawen / sondern von den waffen / werden sie feur
+          <lb/>halten / vnd sollen rauben / von denen sie berau
+          <lb/>bet sind / vnd plündern / von denen sie geplün
+          <lb/>dert sind / spricht Gott der HERR.
+        </p>
+        
+        <p>
+          <lb/>Vnd sol zu der zeit geschehen / da wil ich
+          <lb/>Gog eine stet geben / zum begräbnis ynn Jsrael /
+          <lb/>nemlich / das thal / da man gehet am meer ge
+          <lb/>gen morgen / also das man daselbst nicht mehr
+          <lb/>gehen wird / weil man daselbst Gog mit seiner
+          <lb/>menge begraben hat / Vnd sol heissen Gogs
+          <lb/>hauffenthal / Es wird sie aber das haus Jsrael
+          <lb/>begraben / sieben monden lang / damit das land
+          <lb/>gereiniget werde / Ja alles volck ym lande wird
+          <lb/>an yhn zu begraben haben / vnd werden rhum
+          <lb/>dauon haben / das ich des tages meine herrlig
+          <lb/>keit erzeiget habe / spricht Gott der HERR.
+        </p>
+        
+        <note place="margin" n="12">
+          (Gogshauffen
+          thal)
+          
+          Das daselbst die
+          grosse menge vnd
+          hauffen Gogs be
+          graben liegen.
+        </note>
+        
+        <p>
+          <lb/>Vnd
+        </p>
+        
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b3v.jpg" n="b3v"/>
+        <p>
+          <lb/>Vnd sie werden leute aussondern / die
+          <lb/>stets ym lande vmbher gehen / vnd mit den sel
+          <lb/>bigen / die todten greber / zu begraben die vbri
+          <lb/>gen auff dem land / auff das es gereiniget wer
+          <lb/>de / Nach sieben monden / werden sie forschen /
+          <lb/>Vnd die so ym lande vmbher gehen / vnd etwa
+          <lb/>eines menschen bein sehen / werden da bey ein
+          <lb/>mal auff richten / bis es die todten greber auch
+          <lb/>ynn Gogshauffenthal begraben / So sol auch
+          <lb/>die stat heissen Hamona / Also werden sie das
+          <lb/>land reinigen.
+        </p>
+        
+        <note place="margin" n="13">
+          (Forschen)
+          Ob sie alle begra
+          ben sind / odder et
+          wa noch yemand
+          lige vnbegraben.
+        </note>
+        
+        <note place="margin" n="14">
+          (Hamona)
+          Menge odder
+          grosser hauffe.
+        </note>
+        
+        <p>
+          <lb/>Nu du menschen kind / So spricht Gott
+          <lb/>der HERR / Sage allen vogeln / wo her sie flie
+          <lb/>gen / vnd allen thieren auff dem felde / Samlet
+          <lb/>euch vnd kompt her / findet euch allenthalben
+          <lb/>zu hauffe / zu meinem schlacht opffer / das ich
+          <lb/>euch schlachte / ein gros schlacht opffer auff
+          <lb/>den bergen Jsrael / vñ fresset fleisch / vnd saufft
+          <lb/>blut / fleisch der starcken solt yhr fressen / vnd
+          <lb/>blut der fursten auff erden / solt yhr sauffen / der
+          <lb/>widder / der hemet / der böcke / der ochsen / die al
+          <lb/>zumal feist vnd wol gemestet sind / Vnd solt das
+          <lb/>fette fressen / das yhr vol werdet / vnd das blut
+          <lb/>sauffen / das yhr truncken werdet / von dem
+          <lb/>schlachtopffer / das ich euch schlachte / Settigt
+          <lb/>euch nu vber meinen tisch / von rossen vnd reu
+          <lb/>tern / von starcken vnd allerley kriegs leuten /
+          <lb/>Spricht Gott der HERR.
+        </p>
+        
+        <p>
+          <lb/>Vnd ich wil meine herrligkeit vnter die
+          <lb/>heiden bringen / das alle heiden sehen sollen /
+          <lb/>mein vrteil / das ich habe gehen lassen / vn mei
+          <lb/>ne
+
+        <pb facs="https://github.com/huber-emma/Reformation/blob/6eedb203c47bee26576e0ed6e6e4f934326ad6f9/images/arch-8o-g-1530-01/arch-8o-g-1530-01-b4r.jpg" n="b4r"/>
+          <lb/>ne hand / die ich an sie geleget habe / vn also das haus
+          <lb/>Jsrael erfare / das ich der HERR yhr Gott bin / von
+          <lb/>dem tage / vnd hinfüroer / Vnd auch alle heiden er
+          <lb/>faren / wie das haus Jsrael vmb seiner missethat
+          <lb/>willen sey weg gefüret / vnd das sie sich an mir ver
+          <lb/>sündiget hatten / Darümb habe ich mein angesicht
+          <lb/>von yhn verborgen / vnd habe sie vbergeben / ynn die
+          <lb/>hende yhrer widersacher / das sie alzumal durchs
+          <lb/>schwerd fallen musten / Jch habe yhn gethan / wie
+          <lb/>yhr sünde vnd vbertretten verdienet haben / vnd also
+          <lb/>mein angesicht von yhn verborgen.
+        </p>
+        
+        <note place="margin" n="15">
+          Da stehets
+          das Gog
+          vmb vnser
+          sünde wil
+          len mechtig sey / vn
+          so viel glück
+          habe.
+        </note>
+        
+        <p>
+          <lb/>Darümb so spricht Gott der HERR / Nu wil
+          <lb/>ich die gefengnis Jacob widder bringen / vnd mich
+          <lb/>des gantzen hauses Jsrael erbarmen / vnd vmb mei
+          <lb/>nen heiligen namen eyuern / Sie aber werden yhre
+          <lb/>schmach vn yhr sünde / damit sie sich an mir versün
+          <lb/>digt habe / gerne tragen / wenn sie nur sicher yn yhrem
+          <lb/>lande wonen mügen / das sie niemand schrecke / Vnd
+          <lb/>ich sie widder aus den völckern bracht / vnd aus den
+          <lb/>landen yhrer feinde versamlet habe / vnd ich ynn yh
+          <lb/>nen geheiliget worden bin / fur den augen vieler hei
+          <lb/>den / Also werden sie erfaren / das ich der HERR
+          <lb/>yhr Gott bin / der ich sie habe lassen / vnter die heiden
+          <lb/>weg füren / vnd widderümb ynn yhr land versam
+          <lb/>len / vnd nicht einen von yhnen dort gelassen habe /
+          <lb/>vnd wil mein angesicht nicht mehr von yhn verber
+          <lb/>gen / Denn ich habe meinen geist / vber das haus
+          <lb/>Jsrael ausgegossen / spricht Gott der
+          <lb/>HERre.
+        </p>
+        
+        <closer>
+          <dateline>Gedruckt zu Wittemberg.</dateline>
+          <signed>durch Nickel Schirlentz.
+             <lb/>M D XXX.
+          </signed>
+        </closer>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
