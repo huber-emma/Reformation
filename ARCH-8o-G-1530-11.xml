@@ -1,0 +1,690 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ein Sermon von christlicher Gerechtigkeit oder Vergebung der Sünden: a digital edition</title> <!-- Title of the DIGITAL edition -->
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/>
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>10 folios.<note>complete</note></extent>
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+L+6263</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990127548080107026</idno>
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title>
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[PNG]</note>
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(11).</p></note>
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Ein Sermon von christlicher Gerechtigkeit oder Vergebung der Sünden.</title>. </p> 
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p>
+        </note>
+      </notesStmt>
+      <sourceDesc> 
+        <biblFull>
+          <titleStmt>
+            <title>Ein Sermon von christlicher Gerechtigkeit oder Vergebung der Sünden</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>Hans Weiß, </publisher>
+            <pubPlace>Wittenberg:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p>
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language>
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-11">
+    <front><titlePage>
+        <docTitle> 
+          
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-titlepage.jpg" n="titlepage"/>
+          
+          <titlePart type="main">
+            <lb/>Ein Sermon von
+            <lb/>Christlicher gerechtig
+            <lb break="no"/>keit / odder verge
+            <lb break="no"/>bung der sün
+            <lb break="no"/>den.
+            <lb/>Gepredigt zu Marpurg
+            <lb/>ynn Hessen. 1529.
+            <lb/>Mart. Luther.
+            <lb/>Wittemberg
+            <lb/>M.D.XXX.
+          </titlePart>
+        </docTitle>
+        <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    <body>
+      <div type="text">
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-titlepage-verso.jpg" n="titlepage verso"/>
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a2r.jpg" n="a2r"/>
+            <head type="chapter"> 
+               <lb/>Ein Sermon Mart. Luth. Vber
+               <lb/>das Euangelion Matth. ix. von dem gichtbrüch<lb break="no"/>tigen / Am. xix. Sontag nach Pfingsten.
+            </head>
+              
+              <p>
+                <lb/><hi rend="init">D</hi>Ie summa dieses Euan<lb break="no"/>gelij ist der grosse hohe Artickel des
+                <lb/>glaubens / der da heisset vergebunge
+                <lb/>der sünden / welcher wo er recht ver<lb break="no"/>standen wird / machet er einen rechtge<lb break="no"/>schaffenen Christen / vnd gibt das ewi<lb break="no"/>ge leben. Darumb auch not ist / das
+                <lb/>man yhn mit allem vleis vnd on vnterlas ynn der
+                <lb/>Christenheit handle / auff das man yhn lerne helle vnd
+                <lb/>klar vnd vnterschiedlich verstehen. Denn das ist die
+                <lb/>einige höchste vnd schwerste kunst der Christen / dar<lb break="no"/>an wir so lang wir hie leben / gnug zu lernen haben /
+                <lb/>das niemand darff etwas newes / höhers oder bessers
+                <lb/>suchen.
+              </p>
+              
+              <p>
+                <lb/>Das mans aber recht verneme / mus man wol vnd
+                <lb/>eigentlich wissen zu vnterscheiden / die zwey regimente
+                <lb/>odder zweyerley frömkeit. Eine / hie auff erden / wel<lb break="no"/>che Gott auch geordnet hat / vnd vnter die zehen ge<lb break="no"/>bot / ynn der ander taffel / gestellet / Vnd heisset eine
+                <lb/>weltliche odder menschliche gerechtigkeit / vnd dienet
+                <lb/>da zu / das man hie auff erden vnternander lebe / vnd
+                <lb/>brauche der güter / die vns Got geben hat. Denn er
+                <lb/>wils haben / das auch dieses leben fein friedlich / stille
+                <lb/>vnd eintrechtiglich regiert vnd zubracht werde / das
+                <lb/>ein iglicher thue was yhm befohlen ist / vnd niemand
+                <lb/>sich vergreiffe an eines andern ampt / güter odder per<lb break="no"/>son. Darumb hat er auch den segen dazu versprochen /
+                <lb/>vnd daran gehenget. Qui faciet ea viuet in eis / das
+
+                <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a2v.jpg" n="a2v"/>
+                
+                <lb/>ist. Wer aufferden vnd fur der welt from ist / solchs
+                <lb/>auch geniessen / das yhm wolgehe vnd lange lebe.
+              </p>
+        
+              <p>            
+                <lb/>Widderumb aber / wo man solchs nicht thuen wil /
+                <lb/>hat er dagegen geordnet / schwert / galgen / rad / feür /
+                <lb/>wasser 2c. damit er heisset weren vnd steuren / denen
+                <lb/>so nicht wollen from sein. Wo aber dasselbige nicht
+                <lb/>geschicht sondern ein gantz land böse vnd verteret
+                <lb/>wird / das der hengter nicht weren kan / schicket er
+                <lb/>pestilentz / teirrung / krieg oder ander greuliche pla<lb break="no"/>ge / damit er das land vntertere / vnd rotte sie aus / wie
+                <lb/>den Juden / Griechen / Römern vnd andern gesche<lb break="no"/>hen ist. Das man sehe / er wölle kurtzum haben / das
+                <lb/>man solche fromkeit halte vnd hand habe / vnd guts
+                <lb/>gnug dazu geben / odder wy nicht / alles widdernemen
+                <lb/>vnd ausrotten.
+              </p>
+        
+              <p>
+                <lb/>Das ist kurtz die meinung vnd gantzes wesens die<lb break="no"/>ser fromkeit auff erden. Da zu gehöret nu weiter / das
+                <lb/>man solchs wol treibe / vnd die leute ermane / das sich
+                <lb/>yderman selbs dazu halte / vnd vleissige mit lust vnd
+                <lb/>liebe zuthuen / das er nicht dürffe dazu getrieben wer<lb break="no"/>den mit zwang vnd straffe. Die vermanung aber ste<lb break="no"/>het darinn / das man furhalte Gottes gebot vnd be<lb break="no"/>fehl / einem iglichen stand auff erden / wie er sie geord<lb break="no"/>net vnd ausgeteilet hat / auffgelegt. Dasselbige sol
+                <lb/>man ansehen vnd gros achten / vnd lust daraus schep<lb break="no"/>ffen / das man von hertzen gerne thue / was einem igli<lb break="no"/>chen ynn seinem stand zustehet. Als wenn er sprichte /
+                <lb/>Du solt vater vnd mutter ehren / solte ein iglich kind /
+                <lb/>knecht / magd / vnterthan 2c. dis wort mit freuden an<lb break="no"/>nemen / vnd keinen schaz auff erden höher achten /
+                <lb/>vnd sich düncken lassen / wenn er solchs thete / er we<lb break="no"/>re halb
+
+              <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a3r.jpg" n="a3r"/>
+                     
+                 <lb break="no"/>re halb / wo nicht gar / ym paradis. Allein darumb /
+                 <lb/>das sein hertz vngezweiuelt schliessen kan / Nu weis
+                 <lb/>ich / das solch werck / leben odder stand recht vnd gut
+                 <lb/>ist / vnd Gott von hertzen wolgefellet / Denn da ha<lb break="no"/>be ich sein wort vnd gebot / als ein gewis zeugnis /
+                 <lb/>das mir nicht liegen noch fehlen kan.
+               </p>
+               
+               <p>
+                 <lb/>Denn las nur das nicht die geringste gnade auff
+                 <lb/>erden sein / wenn man dahin kompt / das solchs yms
+                 <lb/>hertzen beschlossen ist / vnd das gewissen darauff ste<lb break="no"/>hen vnd rugen kan. Vnd man solte dem lieben Euan<lb break="no"/>gelio allein darumb dancken / hold sein vnd ynn allen
+                 <lb/>ehren halten / wenn man gleich kein ander nuz vnd
+                 <lb/>frucht dauon hette / das es vnser gewissen so versta<lb break="no"/>chert vnd gewis machet / wie wir leben vnd mit Gott
+                 <lb/>daran seien. Wie sind wir vorhin gelegen ym yr<lb break="no"/>thumb vnd blindheit / da kein funcklin solcher lere ge<lb break="no"/>leuchtet hat / vnd vns haben vns Teuffels namen las<lb break="no"/>sen füren / wie einem iglichen lügenprediger getrew<lb break="no"/>met hat / souiel werck gesuchet / hyn vnd her gelauffen /
+                 <lb/>vnsern schweiß / geld vnd gut daran gewand vnd hin
+                 <lb/>geschüttet / hie zu Messen vnd Altar / dort zu Closter /
+                 <lb/>vnd bruderschafften gestifftet / vnd yderman darnach
+                 <lb/>getappet / das er doch gewis würde / wie er Gott die<lb break="no"/>nete / vnd ist doch niemand dazu komen / sondern alle
+                 <lb/>ym finsternis blieben / Denn da war kein Gott /
+                 <lb/>der da gesagt hette / das gefellet mir / das habe ich
+                 <lb/>geboten etc. Ja sie haben nichts anders gethan
+                 <lb/>vnsere blindenleiter / denn Gottes wort aus den
+                 <lb/>augen gesetzt / von den rechtschaffenen wercken ge<lb break="no"/>rissen / vnd dafür ynn allen winckeln andere auff<lb break="no"/>geworffen / Da zu die stende / so er gesetzt hat /
+
+               <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a3v.jpg" n="a3v"/>
+        
+                 <lb/>vmbgeſtoſſen vnd verachtet/gerade als wußte ers ni<lb break="no"/>cht beſſer zu ordnen/odder ſo gut zu machen als wir.
+               </p>
+        
+              <p>
+                <lb/>Darumb mus man nicht vnterlaſſen ymerdar ſolch
+                <lb/>Gottes wort ein zu bilden/welchs vns kein ſonderli<lb break="no"/>che groſſe ſchwere werck auffleget/ſondern eben auff
+                <lb/>den ſtand weiſet/darinne wir leben / Das man nicht
+                <lb/>anders ſuche/ſondern mit frolichem gewiſſen darinne
+                <lb/>bleibe/vnd wiſſe/das durch ſolche werck mehr ausge<lb break="no"/>richtet ſey/deñ weñ ymand alle Clöſter geſtiﬀtet/ vnd
+                <lb/>alle orden gehalten hette / Ob es gleich die aller ge<lb break="no"/>ringſte haus erbeit iſt. Denn das hat vns bisher bes<lb break="no"/>trogen/ der treſſliche ſchein vnd gepreng der werck/
+                <lb/>Kappen/blatten/herin hembd/ faſten/ wachen / ſaur
+                <lb/>ſehen/den kopﬀ hengen vnd barfus gehen/ Welches
+                <lb/>iſt vnſere torheit/das wir rechnen nach dem anſehen
+                <lb/>des wercks/vnd weil es nicht gleiſſet/als etwas ſon<lb break="no"/>derlichs/ſol es nicht gelten/vnd ſehen nicht/wir nar<lb break="no"/>ren/das got den teurē ſchatz/nemlich ſein wort/eben
+                <lb/>an ſolch gering werck geheﬀtet vnd drein gebunden
+                <lb/>hat/als er(wie geſagt) den veterlichen gehorſam/
+                <lb/>vnd die werck ſo ynn euſſerlichem heußlichen odder
+                <lb/>burgerlichen weſen gehen/ynn ſein heiſſen vnd befehl
+                <lb/>faſſet/welchs er wil also angenomen haben/als wenn
+                <lb/>er ſelbs von hymel erſchiene: Was wolteſtu thuen/
+                <lb/>wenn Chriſtus ſelbs mit allen Engeln ſichtiglich er<lb break="no"/>ab keme/ vnd hieſſe dich daheim das haus keren od<lb break="no"/>der töpﬀen waſſchen: Wie würdeſtu dich ſo ſelig ach<lb break="no"/>ten/vnd nicht wiſſen / wie du dich fur freuden dazu
+                <lb/>ſtellen ſolteſt. Nicht vmb des wercks willen/ ſondern
+                <lb/>das du yhm damit wußteſt zu dienen / der groſſer iſt
+                <lb/>Denn hymel vnd erde.
+              </p>
+              
+              <p>
+                <lb/>Wenn man nur ſolchs bede/chte vnd durch das
+                <lb/>wort
+
+              <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a4r.jpg" n="a4r"/>
+                
+                <lb/>wort vber ſich füre/vnd anſehe/das nicht ein menſch
+                <lb/>ſondern Gott ym hymel ſey/der ſolchs haben wil vnd
+                <lb/>beſilht/ſund man ynn eitel ſprüngen hinlauffen/vnd
+                <lb/>ſolch geringe werck/wie man ſie achtet/ lieber thuen
+                <lb/>denn kein andere/auffs aller treweſte vnd vloiſſigſte.
+                <lb/>Das aber nicht geſchicht/machet nichts anders/denn
+                <lb/>das man die werck von dem wort ſcheidet/vnd Got<lb break="no"/>tes befehl nicht anſehen noch achten wil/Gehen das
+                <lb/>hin/als blinde ſchleﬀerige leute / meinen es ſey allein
+                <lb/>vmb die werck zuthuen/Vñ weil wir ſie gering achtē
+                <lb/>ſuchen vnd gaﬀen nach andern/werden wir faul vnd
+                <lb/>verdroſſen/thuen nichts mit liebe/trew odder gehor<lb break="no"/>ſam/machen vns auch kein gewiſſen / das wir ſolchs
+                <lb/>ligen laſſen/vnd dem nehiſten vntrew/ ſchaden oder
+                <lb/>verdries thun/damit wir vns auch alle plage / zorn
+                <lb/>vnd vnglück ſamlen.
+              </p>
+              
+              <p>
+                <lb/>Das ſol nu ein ſtück ſein vnſer lere / das man dieſe
+                <lb/>euſſerliche gerechtigkeit treibe / beide mit vermanen
+                <lb/>vnd drewen/vnd nicht geringe achten laſſe / Denn
+                <lb/>wer ſolchs verachtet/der hat Gott vnd ſein wort ver<lb break="no"/>achtet/Darumb ſehe ein iglicher auﬀ ſich ſelbs / was
+                <lb/>er iſt odder zuthuen hat/vnd was Gott von yhm ha<lb break="no"/>ben wil/es ſey zu regier gebieten vnd heiſſen/oder da<lb break="no"/>gegen zu gehorchen/dienen/ erbeiten 2c.Das er vmb
+                <lb/>Gottes willen ſeines ampts warte/mit allen trewen/
+                <lb/>vnd ſey gewis/das Gott höher helt/denn wenn er al<lb break="no"/>ler MÖnche werck vnd heiligkeit hette / welche noch
+                <lb/>nie ſo weit komen ſind/das ſie ſolch euſſerlich gerech<lb break="no"/>tigkeit erlanget hetten/vnd nicht vermogen alle yhr
+                <lb/>weſen vnd wercke/einem iungen kind odder dienſts<lb break="no"/>magd/ſo aus Gottes befehl eines kinds odder magd
+                <lb/>werck thuet/gleich zu rhúmen.O wie ein ſelige welt
+                <lb/>ſolten
+
+              <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-a4v.jpg" n="a4v"/>
+                
+                <lb/>ſolten wir haben/wenn die leute ſolchs gleubten/vnd
+                <lb/>yderman fur ſich ynn ſeinem ampt bliebe/Gottes wil<lb break="no"/>len vnd gebot ymer fur augen hielte / das von hymel
+                <lb/>muſte zuſchneyen mit allerley ſegen vnd gûtern/ das
+                <lb/>fur wir itzt ſoviel plage vnd herzleid müſſen haben/
+                <lb/>wie wir ſuchen vnd verdienen.
+              </p>
+        
+              <p>
+                <lb/>Vber dieſe euſſerliche derived/fromkeit iſt nu ein andere/
+                <lb/>die nicht auſſ erden zu dieſem zeitlichen leben gehöret/
+                <lb/>ſondern allein fur vnd gegen Gott gilt/ vnd vns fü<lb break="no"/>ret vnd erhelt ynn jhenes leben nach dieſem / Denn
+                <lb/>jhene ſtehet ynn wercken/ ſo dis leben foddert vnter
+                <lb/>den leuten zu vben/gegen ober vnd vnter perſonen/
+                <lb/>nachbarn vnd neheſten/vnd hat yhren lohn hie auﬀ
+                <lb/>erden/nimpt auch yhr ende mit dieſem lebē/ vnd wer
+                <lb/>ſie nicht helt/bleibt nicht ynn dieſem leben.Dieſe aber
+                <lb/>feret vnd ſchwebt hoch vnd weit vber alles / was
+                <lb/>auſſ erden iſt/gehet mit keinen wercken vmb / Denn
+                <lb/>wie kan ſie werck haben/weil alles was der leib thun
+                <lb/>kan vnd ein werck heiſſet / bereit ynn der andern ge<lb break="no"/>rechtigkeit gehet:
+              </p>
+        
+              <p>
+                <lb/>Das iſt nu die/ſo man mit namen heiſſet Gottes
+                <lb/>gnade odder vergebung der ſunde / davon Chriſtus
+                <lb/>ynn dieſem vnd allen Euangelien ſagt/ welchs iſt ni<lb break="no"/>cht ein yrdiſche/ſondern himliſche gerechtigkeit/nicht
+                <lb/>vnſers thuens vnd vermogens/ſondern Gottes wer<lb break="no"/>ck vnd geſchencke. Denn jhene menſchliche derived/fromkeit
+                <lb/>mag wol der ſtraﬀe vnd dem henger entgehen/vnd
+                <lb/>zeitlicher gûter genieſſen/ aber dahin kan ſie es nicht
+                <lb/>bringen / das ſie Gottes gnade vnd vergebung der
+                <lb/>ſunde erlange / Darumb ob wir gleich die ſelbige gar
+                <lb/>haben/ müſſen wir noch viel ein höhers haben / das
+                <lb/>fur Gott beſtehe/von ſunde vnd böſem gewiſſen erlö<lb break="no"/>ſe vnd
+
+              <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-b1r.jpg" n="b1r"/>
+                
+                <lb/>ſe/vnd aus dem tod yns ewige leben ſetze. Das iſt auſ<lb break="no"/>ch das einige ſtücke/ o der artikel vnd lere/dauon wir
+                <lb/>Chriſten werdē vnd heiſſen/vnd der vns ſondert vnd
+                <lb/>ſcheidet von allen andern heiligen auﬀ erden/ Denn
+                <lb/>ſie haben alle einē andern grund vnd weſen yhrer hei<lb break="no"/>ligkeit/ſonderliche vbung vnd ſtrenges leben 2c. od<lb break="no"/>der andere ſtende/da ein iglicher ſein eigen ampt vnd
+                <lb/>werck hat(wie geſagt iſt)welche doch viel höher vnd
+                <lb/>beſſer ſind/denn ihene monchiſche/ſelberwelete geiſt<lb break="no"/>ligkeit. Dieſe machen auch ein heiligen ſtand/das
+                <lb/>man ſolche leut from heiſſet/als die da thuen was ſie
+                <lb/>ſollē/vnd yderman loben mus.Aber der keines macht
+                <lb/>ein Chriſten / ſondern allein das er dieſen artikel mit
+                <lb/>dem glauben faſſe/ vnd wiſſe/er ſitze vnter dem reich
+                <lb/>der gnaden/da yhn Chriſtus vnter ſeine flügel geno<lb break="no"/>mē/ vnd on vnterlas vergebung der ſunde ſchencket/
+                <lb/>Wer etwas anders ſuchet / odder mit Gott anders
+                <lb/>handlen wil/der wiſſe das er kein Chriſten/ ſondern
+                <lb/>von Gott verworﬀen vnd verdampt iſt.
+              </p>
+        
+              <p>
+                <lb/>Darumb gehöret kunſt vnd verſtand dazu / das
+                <lb/>man dieſe gerechtigkeit ergreiﬀe vnd halte/vnd wol
+                <lb/>ſcheide ym gewiſſen fur Got/ von ihener euſſerlichen
+                <lb/>gerechtigkeit/Denn das iſt/wie geſagt/der Chriſten
+                <lb/>kunſt vnd weiſheit/aber ſo hoch vnd gros/ das auch
+                <lb/>die lieben Apoſtel alle nicht kónnen gnug ausreden/
+                <lb/>Vnd widderferet yhr doch eben die leidige plage/
+                <lb/>das man keine kunſt ſo bald ausgelernet hat/als dieſe
+                <lb/>ſe/ Es iſt kein hóhere predigt / denn von der gnade
+                <lb/>vnd vergebung der ſunde / noch ſind wir ſo heilloſe
+                <lb/>leute/das wenns jemand ein mal gehöret odder gele<lb break="no"/>ſen hat/ſo kan ers/vnd iſt bald Meiſter vnd Doctor/
+                <lb/>ſuchet darnach etwas hóhers / als hette ers alles
+
+              <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-b1v.jpg" n="b1v"/>
+                
+                <lb/>ausgerichteti/machet newe rotten vnd spaltung. Ich
+                <lb/>habe nu selbs vber funffzehen iar drúber gelernet/
+                <lb/>vnd mit allem vleis getrieben(mehr denn keiner/de<lb break="no"/>re die sich duncken lassen sie kónnens) mit predigen/
+                <lb/>schreiben/ lesen 2c. noch kan ich mich keiner meister<lb break="no"/>schafft rhúmen/vnd mus fro werden/das ich ein schu<lb break="no"/>ler bleibe/mit denen die erst anfahen zu lernen. Dar<lb break="no"/>vmb mus ich vermanen vnd warnen alle die gerne
+                <lb/>wolten Christē sein beide lerer vnd schúler/das sie sich
+                <lb/>húten fur solchem schendlichen wahn/vnd vberdrus/
+                <lb/>vnd wissen das die schwerste hóheste kunst ist/so man
+                <lb/>auff erden finden kan/ Das auch S. Paulus mus be<lb break="no"/>kennen vnd sagen/Es sey ein vnaussprechliche gabe/
+                <lb/>das ist/die man den leuten nicht kan mit worten ein<lb break="no"/>bilden/das sie es so hoch vnd teur achten/als an yhm
+                <lb/>selbs ist.
+              </p>
+        
+              <p>
+                <lb/>Vrsach ist die/das die vernunfft vber yhre eusser<lb break="no"/>liche fromkeit ynn wercken/nicht komen / noch des
+                <lb/>glaubens gerechtigkeit begreiffen kan / sondern yhe
+                <lb/>hóher vnd klúger sie ist/yhe mehr sie an wercken han<lb break="no"/>get vnd sich darauff grúnden wil/ Vnd vermag kein
+                <lb/>mensch zulassen / wenn er ynn anfechtung vnd nóten
+                <lb/>ist/da das gewissen getroffen wird/ das er nicht vmb
+                <lb/>sich greiffe nach wercken/ darauff er mochte rugen
+                <lb/>vnd stehen/ Da suchet vnd zelet man soviel gute wer<lb break="no"/>ck/ die man gerne thun wolt odder gethan haben/
+                <lb/>Vnd weil man keine findet / hebt das hertz an zu za<lb break="no"/>gen vnd zweifeln / Das henget so feste an/das auch
+                <lb/>die /so den glauben haben vnd die gnade oder verge<lb break="no"/>bung der sunde erkennen / mit aller múhe vnd erbeit
+                <lb/>sich nicht eraus wircken kónnen/vnd teglich dawid<lb break="no"/>der fechten mússen/ Kurtz/ es ist gar vber menschen
+
+        
+             <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-b2r.jpg" n="b2r"/>
+             
+               <lb/>ſinn vnd verſtand/kunſt vnd vermögen/das man ſich
+               <lb/>vber die irdiſche gerechtigkeit erhebe vnd eraus trete
+               <lb/>ynn dieſen artikel/ Vnd ob man wol viel dauon höret
+               <lb/>vnd zuſagen weis/ ſo bleibt gleich wol ymer der alte
+               <lb/>wahn vnd angeborne vnflat/ſo ſein eigne werck fur
+               <lb/>Gott wil bringen vnd zum grund der ſeligkeit ſetzen.
+               <lb/>Solchs widerferet/ſage ich/denen die Chriſten ſind/
+               <lb/>vnd dawidderfechten/Die andern klüglinge vnd vn<lb break="no"/>uerſuchte geiſter ſind gar darinn erſoﬀen.
+             </p>
+             
+             <p>
+               <lb/>Darumb ſol dieſe lere gefaſſet werden/das mans
+               <lb/>gentzlich dafur halte / das vnſer derived/fromkeit fur Gott/
+               <lb/>heiſſe vergebung der ſunde/ ſo muſſen wir vns aus
+               <lb/>vns ſelbs wircken vnd vber vernunﬀt erhebē/welche
+               <lb/>mit vns diſputirt vnd furhelt beide ſund vnd gute
+               <lb/>werck/vnd ſo hoch faren/das man widder ſund noch
+               <lb/>gute werck anſehe / ſondern ſich gründe vnd ſencke
+               <lb/>ynn dieſen artikel/vnd nichts weiter ſehe noch wiſſe/
+               <lb/>Alſo das man die gnade oder vergebunge ſetze nicht
+               <lb/>allein widder die ſunde / ſondern auch widder gute
+               <lb/>werck/vnd alle menſchliche gerechtigkeit vnd heilig<lb break="no"/>keit ausſchlieſſe. Alſo iſt der menſch geteilet ynn die<lb break="no"/>ſe zwey regiment/Auſſen ynn dieſem leben/ſol er frum
+               <lb/>ſein/gute werck thuen 2c. Wenn er aber vber dis le<lb break="no"/>ben feret/vnd mit Gott handlen wil / ſol er wiſſen/
+               <lb/>das da widder ſeine ſunde noch derived/fromkeit gelte. Vnd
+               <lb/>ob er gleich ſunde fület/die das gewiſſen drucken wol<lb break="no"/>len/vnd gute werck foddern / das er der keines höre
+               <lb/>noch ſehe/ſondern friſch antworte/ Hab ich ſunde/ſo
+               <lb/>hat Chriſtus vergebung/Ja ich ſitze ynn dem thron/
+               <lb/>dahin die ſunde nicht langen kan.
+             </p>
+        
+             <p>
+               <lb/>Denn wir ſollen Chriſtus reich alſo anſehen/als ein
+
+             <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-b2v.jpg" n="b2v"/>
+               
+               <lb/>ſolch gros gewelb/ia ein groſſen weiten himel/da eitel
+               <lb/>gnade vnd vergebung leuchtet/vnd die welt vnd alle
+               <lb/>ding voll machet/Das alle ſunde dagegen/kawm als
+               <lb/>ein funckle ſeien/gegen dem groſſen weiten meer/vnd
+               <lb/>ob ſie gleich meſſet/dennoch nicht ſchaden kan/ſon<lb break="no"/>dern fur der gnade zu ſtieben vnd zurgehen mus. Wer
+               <lb/>das kúndte/der mocht wol Meiſter heiſſen/Aber wir
+               <lb/>werden vns alle müſſen demútigen vnd nicht ſche<lb break="no"/>men daran zu lernen/ſo lange wir leben/ Denn vnſer
+               <lb/>natur wo ſie eine ſunde weis auﬀzubringen / kan ſie
+               <lb/>eine laſt als der himel ſchwer daraus machen/ſo ble<lb break="no"/>ſet der Teuﬀel zu/ vnd machet aus einem funcklin ein
+               <lb/>feur das himel vnd erden fullet / Hie mus das blat
+               <lb/>vmbgekeret ſein vnd frey geſchloſſen/Wenn die ſunde
+               <lb/>noch ſo gros vnd ſchwer wer/ ſo iſt dieſer artikel viel
+               <lb/>höher/.weiter vnd gröſſer/ welchen nicht aus eigner
+               <lb/>weisheit ein menſch gered odder gegründet hat/ſon<lb break="no"/>dern der himel vnd erden mit dreyen fingern faſſet
+               <lb/>vnd helt (wie der prophet Jſaia ſagt) Meine ſund
+               <lb/>vnd derived/fromkeit/ muſſen hie niddens auﬀ erden bleiben/
+               <lb/>als die dis leben vnd mein thun betreﬀen.Droben aber
+               <lb/>habe ich ein andern ſchatz/gröſſer denn die beide/ da
+               <lb/>Chriſtus ſitzet vnd mich ynn den armen helt/mit ſei<lb break="no"/>nen flügeln decket/vnd mit eitel gnade vberſchattet.
+             </p>
+        
+            <p>
+              <lb/>So ſprichſtu/Wie denn:wenn ich die ſunde teg<lb break="no"/>lich fúle/vnd das gewiſſen mich verdampt/vnd Got<lb break="no"/>tes zorn furhelt. Antwort / Darumb ſage ich / man
+              <lb/>ſolle lernen/das die Chriſtliche gerechtigkeit nichts
+              <lb/>anders ſey/das man nennen oder dencken kan/on al<lb break="no"/>lein vergebung der ſunde/Das iſt/ein ſolch reich oder
+              <lb/>regiment/das nur mit ſunden vmbgehet/vnd ſo vber
+              <lb/>ſchwengliche gnade / die allen zorn weg nimpt.
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c1r.jpg" n="c1r"/>
+              
+              <lb/>Denn darúmb heiſſets vergebung der ſunde/das wir fur
+              <lb/>Gott rechtſchaffene ſunder ſind/ ia eitel ſund ſey/was ynn
+              <lb/>vns iſt/ob wir gleich alle menſchliche gerechtickeit haben/
+              <lb/>Denn wo er von ſunden ſagt/ da müſſen recht vnd groſſe
+              <lb/>ſunde ſein/ gleich wie auch die vergebung nicht ein ſchertz
+              <lb/>ſondern rechter ernſt iſt/Darúmb/ wenn du dieſen Artickel
+              <lb/>anſiheſt/ſo haſtu beides. Súnde nimpt alle deine heiligkeit
+              <lb/>hinweg/wie from du biſt auﬀ erden / Widderúmb verge<lb break="no"/>bung hebt alle ſunde vnd zorn auﬀ/ alſo das dich widder
+              <lb/>ſund ynn die helle ſtoſſen/noch deine frömkeit ynn hymel
+              <lb/>heben kan.
+            </p>
+        
+            <p>
+              <lb/>Darúmb wenn der Teuﬀel auﬀ das gewiſſen treibt/
+              <lb/>das er das hertz verzagt mache / vnd ſpricht/ Haſtu doch
+              <lb/>ſelbs gelert/man ſolle derived/from ſein / So antwort núr getroſt/
+              <lb/>vnd ſprich/ Ja recht/Das ich ein ſunder bin/das weis ich
+              <lb/>vorhin wol/ denn dieſer Artickel hat michs lengeſt gelert/
+              <lb/>der heiſſet vergebung der ſunde / Fur der welt wil ich derived/from
+              <lb/>ſein vnd thun ſoviel ich kan / Aber fur Gott wil ich gerne
+              <lb/>ein ſunder ſein/vnd auch nicht anders heiſſen/auﬀ das die<lb break="no"/>ſer Artickel war bleibe / ſonſt kúnd es nicht vergebung oder
+              <lb/>gnade/ſondern eine kron der gerechtigkeit vnd meines ver<lb break="no"/>dienſts heiſſen / Darúmb ob ich gleich nichts anders fúle/
+              <lb/>denn viel vnd groſſe ſunde / ſo ſind ſie doch nicht mehr
+              <lb/>ſunde/Denn ich habe dagegen ein kôſtlich tyriak vnd Apo<lb break="no"/>teken/ſo der ſunde yhr kraﬀt vnd giﬀt nimpt vnd dazu tôd<lb break="no"/>tet/welchs iſt das wort Vergebung/fur welchem die ſund
+              <lb/>zurgehet/wie die ſtoppeln / wenn das fewer drein kompt/
+              <lb/>ſonſt hülﬀe kein werck/kein leiden odder marter widder die
+              <lb/>aller geringſte ſund. Deñ auſſer der vergebung iſt vñ bleibt
+              <lb/>eitel ſunde die vns verdampt. Darúmb núr den Artickel
+              <lb/>friſch vnd voll bekand vnd beſchloſſen/fúr der welt mag
+              <lb/>ich derived/from ſein vnd alles thun/was ich ſol/fur Gott aber iſts
+              <lb/>nichts denn eitel ſunde vmb dieſes Artickels willen / Das
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c1v.jpg" n="c1v"/>
+              
+              <lb/>rúmb bin ich ein ſunder/ aber ein ſolcher ſunder der eitel ver<lb break="no"/>gebung hat/vnd ynn dem thron ſitzet/da eitel gnade regis<lb break="no"/>giret/wie Pſalm. cxvi. ſagt/Sonſt wer ich ein ſunder wie
+              <lb/>Judas/ welcher alleine ſeine ſunde vnd keine vergebung
+              <lb/>ſahe/Die Chriſten aber wieuiel ſie ſund an yhn ſehen/ſouiel
+              <lb/>höher vnd gröſſer gnade ſehen ſie vber vnd vmb ſich/ynn
+              <lb/>dem wort geſchenckt vnd ausgeſchüttet.
+            </p>
+        
+            <p>
+              <lb/>Alſo lerne nu dieſen Artickel gros machen vnd ausbrei<lb break="no"/>ten / ſo weit als Chriſtus reicht vnd regiret / auﬀ das
+              <lb/>du yhn hoch vnd weit kúndeſt heben/vber alle ding ynn
+              <lb/>hymel vnd erden. Denn wie das wort vber ſolchs alles
+              <lb/>ſchwebet/ſo mus auch der glaub/ſo das wort faſſet im her<lb break="no"/>zen/vnd daran helt/vber ſunde/gewiſſen/ tod vnd Teuﬀel
+              <lb/>faren/ Nu rechne du was ein Chriſten fur ein menſch ſey:
+              <lb/>der ein herr vber Teuﬀel vnd tod heiſſet/vnd fur dem alle
+              <lb/>ſund als ein dúrre blat ſeyen. Vnd hie prúﬀe dich ſelbs/wie
+              <lb/>uiel du dauon kanſt/vnd ob es ſo geringe vnd leichte kunſt
+              <lb/>ſey/als die vnerfarē geiſter meinen/Deñ weñ du es kúndeſt
+              <lb/>vnd gleubteſt / ſo weren alle vnglück / tod vnd Teuﬀel
+              <lb/>nichts. Weil du dich aber noch ſo mit ſunden beiſſeſt/
+              <lb/>ſchreckeſt vnd zageſt/fur tod/helle vnd Gottes gericht / ſo
+              <lb/>demútige dich núr/vnd gib dem wort die ehre/vnd ſprich/
+              <lb/>Du habeſts noch nie verſtanden. Kurtz/greiﬀe núr iglich<lb break="no"/>er ynn ſeinen boſen / ſo wird er einen falſchen Chriſten fin<lb break="no"/>den/der ſichs duncken leſſet/er wiſſe es/ehe er die erſten
+              <lb/>buchſtaben dauon gelernet hat. Es iſt wol bald gehöret/
+              <lb/>geleſen vnd die wort dauon bracht/ aber ynn brauch vnd
+              <lb/>weſen zubringen/das ynn vns lebe vnd das gewiſſen ſich
+              <lb/>drauﬀ grúnde vnd erwege /das iſt nicht menſchen kunſt.
+              <lb/>Darumb ſage ich vnd vermane / die Chriſten wöllen ſein/
+              <lb/>das ſie ymer damit vmbgehen/kewen/ treiben vnd plew<lb break="no"/>en/das wir doch einen ſchmack dauon gewinnē / vnd wie
+              <lb/>Jacob.1. ſagt / Ein anbruch odder erſtling ſeiner creatur
+              <lb/>werden /
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c2r.jpg" n="c2r"/>
+              
+              <lb/>werden/Denn das mans dahin ſolte bringen/ das wir ein
+              <lb/>volkomen verſtand kriegten/da wird nicht aus ynn dieſem
+              <lb/>leben/weil es die lieben Apoſtel/ voll geiſtes vnd glaubēſ/
+              <lb/>nicht höher bracht haben.
+            </p>
+        
+            <p>
+              <lb/>Das ſey fur das erſte geſagt/was die Chriſtliche ges<lb break="no"/>recktigkeit ſey/ vnd worynne ſie ſtehet. Fragſtu nu weit<lb break="no"/>ter/Woher ſie kome / odder wodurch ſie zu wegen bracht
+              <lb/>odder erworben ſey: Antwort. Daher kómpt ſie / das
+              <lb/>Jheſus Chriſtus Gottes ſon/von hymel komen vñ menſch
+              <lb/>worden/fur vnſer ſund gelidden hat vnd geſtorbē iſt. Das
+              <lb/>iſt die vrſache/das mittel / vnd der ſchatz / durch welchen
+              <lb/>vnd vmb welches willen/vns die vergebung der ſunden
+              <lb/>vnd Gottes gnade geſchenckt iſt / Denn ſolcher ſchatz
+              <lb/>kómpt nicht zu vns on mittel odder verdienſt / Aber weil
+              <lb/>wir alle/als ynn ſunden geborn vnd Gottes feinde / nichts
+              <lb/>denn ewigen zorn vnd helle verdient habē/das alles was
+              <lb/>wir ſind vnd vermögen verdampt iſt/vnd kein hülﬀe noch
+              <lb/>rat daraus zukomen/Denn die ſunde iſt zu ſchweer/das ſie
+              <lb/>keine creatur ausleſchen/ vnd der zorn ſo gros / das yhn
+              <lb/>niemand ſtillē noch verſunen kúnde/Darúmb muſt ein an<lb break="no"/>der man an vnſer ſtett tretten / nemlich Jheſus Chriſtus
+              <lb/>Gott vnd menſch / vnd durch ſein leiden vnd tod fur die
+              <lb/>ſund gnugthun vnd bezalen/ Das iſt die koſt /ſo darauﬀ ge<lb break="no"/>legt vnd an vns gewendet iſt/dadurch die ſunde vnd Got<lb break="no"/>tes zorn iſt ausgeleſſchet vnd weggenomen/der vater ver<lb break="no"/>ſúnet vnd vns zu freund gemacht.
+            </p>
+            
+            <p>
+              <lb/>Solchs wiſſen vnd gleuben auch allein die Chriſ<lb break="no"/>ſten/Vnd hie teilen ſie ſich von allen andern glauben vnd
+              <lb/>Gottes dienſt auﬀ erden/Deñ die Júden/Túrcken/falſche
+              <lb/>Chriſten vñ werckheiligen/rhúmen auch das Gott barms<lb break="no"/>herzig ſey/vnd iſt kein menſch auﬀ erden / der nicht wiſſe
+              <lb/>von Gottes gnaden zu ſagen / vnd ſeylen doch alle / das
+              <lb/>ſie keine gnade vnd vergebung der ſunde erlangen/ Das
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c2v.jpg" n="c2v"/>
+              
+              <lb/>macht/ſie wiſſen nicht wie man dazu kome/das iſt/ſie has<lb break="no"/>ben den ſchatz nicht/ynn dem ſie ligt/vnd daher ſie fleuſt/
+              <lb/>faren ynn yhrer blindheit /vnd wöllens mit yhrem thun/
+              <lb/>ſtrengen leben vnd eigner heiligkeit ausrichten / damit ſie
+              <lb/>núr Gottes zorn vnd vngnade ſchwerer machen. Das
+              <lb/>rúmb iſt not/das wir dieſen ſchatz lernen recht treﬀen/ vnd
+              <lb/>die vergebung ſuchen/da ſie zuſuchen iſt/das iſt / das wir
+              <lb/>den Herrn Jheſum Chriſtum wol lernen kennen / ergreiﬀ<lb break="no"/>fen vnd halten. Denn es iſt beſchloſſen das on vnd auſſer
+              <lb/>dem Chriſto niemand fur Gott komen/keine gnade ſindē/
+              <lb/>noch der aller geringſte ſunde vergebung erlangen ſol/Deñ
+              <lb/>weil du ein ſunder biſt/vnd on vnterlas bleibſt / ſo iſt dein
+              <lb/>gewiſſen da vnd verdampt dich/helt dir Gottes zorn vnd
+              <lb/>ſtraﬀe fur/das du keine gnade ſehen kanſt. Das ſie aber dir
+              <lb/>vergeben werden / wirſtu (wie geſagt) nicht ynn deinem
+              <lb/>boſen ſinden/damit du bezaleſt/odder etwas auﬀbringen/
+              <lb/>darúmb dich Gott anſehen vnd das regiſter ausleſchen
+              <lb/>ſolle/Wenn du aber Chriſtū ergreiﬀeſt/als der fur dich das
+              <lb/>hin getretten/deine ſunde auﬀ ſich genomen / vnd ſich dir
+              <lb/>zu eigen geben hat/mit alle ſeinem verdienſt vnd gûtern/
+              <lb/>ſo kan keine ſund etwas widder dich vermögen. Bin ich
+              <lb/>ein ſunder/ſo iſt er heilig/vnd ein herr vber ſund/tod/Teuf<lb break="no"/>fel vnd helle/das keine ſunde mir ſchaden kan / weil er mir/
+              <lb/>als meine gerechtickeit vnd ſeligkeit geſchenckt iſt.
+            </p>
+        
+            <p>
+              <lb/>Alſo haben wir wol eitel gnade vnd vergebung aller
+              <lb/>ſunden / aber nyrgend denn durch vnd ynn dem einigen
+              <lb/>Chriſto/da mus es allein geſucht vñ geholet werden/Wer
+              <lb/>nu mit yrgend einem werck fur Gott kompt / das er ſolle
+              <lb/>anſehen vnd etwas gelten laſſen gnade zuerlangen / der
+              <lb/>wird anlauﬀen/vnd den kopﬀ zuſtoſſen/ia fur gnade eitel
+              <lb/>zorn auﬀ ſich laden/Daher ſiheſtu/das alle andere mittel
+              <lb/>vñ wege verdampt ſind/als teuﬀels lere/dadurch man die
+              <lb/>leut fúret vnd weiſet/auﬀ yhre eigen werck odder anderer
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c3r.jpg" n="c3r"/>
+              
+              <lb/>heiligkeit vnd verdienſt/als da ſind der heiligen Exempel/
+              <lb/>die ſtreng leben vnd orden gefürt /viel gelidden vnd lang
+              <lb/>gebüſſet etc. Als auch die than haben / ſo die leute ynn
+              <lb/>tods nóten getröſtet/ vnd vermanet/den tod willig zu lei<lb break="no"/>den fur yhre ſunde.Denn es heiſſet den Herrn Chriſtum ver<lb break="no"/>leugnet/ia geſchmehet vnd geleſtert/ wer ſich vnterſtehet/
+              <lb/>etwas anders widder die ſund zu ſetzen/vnd ſelbs auch ſun<lb break="no"/>de zu büſſen/als gelte Chriſtus blut nicht ſoviel als vnſere
+              <lb/>buſſe vnd gnugthuen/odder als were ſein blut nicht gnug
+              <lb/>alle ſunde auﬀ erden zuuertilgen. Darúmb wiltu der ſunde
+              <lb/>los werden/ſo las núr anſtehen/werck vnd gnugthuung zu
+              <lb/>ſuchen/vnd fur Gott zu tragen/ſondern kreuch allein vnter
+              <lb/>vnd ynn den Chriſtum/als den der deine ſunde von dir ge<lb break="no"/>nomen vnd auﬀ ſich geladen hat /das du nicht dúrﬀeſt
+              <lb/>dich mit yhn ſchlahen/noch etwas zuſchaﬀen haben/ Deñ
+              <lb/>er iſt das lamb Gottes (ſpricht Johannes) das der welt
+              <lb/>ſunde tregt/ Vñ iſt kein ander name vnter dem hymel (wie
+              <lb/>Petrus Act.4. ſagt.)darinn wir kónnen ſelig werden/ Das
+              <lb/>her heiſſen wir auch Chriſten/das wir yhn haben mit alle
+              <lb/>ſeinem verdienſt vnd gûtern / nicht von vnſerm thun vnd
+              <lb/>wercken/welche wol einen heiligen Cartheuſer/Franciſcer
+              <lb/>odder Auguſtiner Münch / einen gehorſamen vnd faſt<lb break="no"/>ler etc. machen vnd nennen/aber nimermehr einen Chri<lb break="no"/>ſten geben kónnen. Sihe/dis iſt das ander ſtück / ſo zu der
+              <lb/>predigt von dieſem Artikel gehört.
+            </p>
+        
+            <p>
+              <lb/>Das dritte/ Wie odder wodurch wird vns nu ſolche
+              <lb/>gerechtickeit heimgebracht/das wir den ſchatz durch Chri<lb break="no"/>ſtum erworben empfahen : Hie iſt auch auﬀzuſehen/das
+              <lb/>man recht fare vnd nicht dahin gerate / wie verzeiten et<lb break="no"/>liche ketzer vnd noch viel irrige geiſter/furgeben haben/vñ
+              <lb/>gemeinet/Gott ſolte ein ſonderlichs mit yhn machen / vnd
+              <lb/>mit einem iglichen durch ein ſonderlich liecht vnd heym<lb break="no"/>liche oﬀenbarung ynwendig ym hertzen handlen/vnd den
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c3v.jpg" n="c3v"/>
+              
+              <lb/>heiligen geiſt geben/ als dúrﬀce man keines buchſtabens/
+              <lb/>ſchriﬀt/odder euſſerlicher predigt/Darumb ſollen wir wiſ<lb break="no"/>ſen/das Gott ſo geordnet hat/das niemand ſol zur erkent<lb break="no"/>nis Chriſti komen/ noch die vergebung durch yhn erwor<lb break="no"/>ben/oder den heiligen geiſt empfahen/ on euſſerlich oﬀent<lb break="no"/>lich mittel/Sondern hat ſolchen ſchatz ynn das múndliche
+              <lb/>wort odder predigampt gefaſſet/vnd wils nicht ym win<lb break="no"/>ckel odder heimlich ym hertzen ausrichten/ſondern oﬀent<lb break="no"/>lich vnter die leut ausgeſchryen vnd ausgeteilt haben/wie
+              <lb/>Chriſtus beſihlt/Gehet hin ynn alle welt/vnd predigt das
+              <lb/>Euangelion allen creaturn etc.
+            </p>
+        
+            <p>
+              <lb/>Solchs thut er nu darumb/das mans gewis ſey/ wie
+              <lb/>vnd wo man ſolch gnade ſuchen vnd warten múſſe / auﬀ
+              <lb/>das es ynn der Chriſtenheit ynn einerley weiſe vnd ordnūg
+              <lb/>gehe/vnd niemand ein eigens furneme/vnd nach eigen ges<lb break="no"/>dancken fare/damit er ſich vnd andere betriege/ wie ſonſt
+              <lb/>gewiſlich folgen wúrde /Denn die weil wir niemand yns
+              <lb/>hertz ſehen kónnen/wolt ſich yderman des heiligen geiſts
+              <lb/>rhúmen/ vnd ſeine gedancken fur geiſtliche oﬀenbarung/
+              <lb/>auﬀwerﬀen/als von Gott auﬀ ein ſonderliche weiſe gele<lb break="no"/>ret vnd eingegeben/das niemand wúſte welchem odder
+              <lb/>was er gleuben ſolte.
+            </p>
+            
+            <p>
+              <lb/>Alſo gehöret auch dis ſtück/nemlich/das euſſerliche
+              <lb/>wort odder predigt ynn der Chriſtenheit / dazu/ das man
+              <lb/>vergebung der ſunde odder die Chriſtliche gerechtickeit er<lb break="no"/>lange/als ein rohre vnd mittel dadurch Chriſtus vnd ſeine
+              <lb/>gnade vns oﬀenbaret vnd furgetragen/ odder ynn den
+              <lb/>ſchos gelegt wird /on welche niemand des ſchatz ymmer<lb break="no"/>mehr mochte gewar werden/Denn woher kúnd mans wiſ<lb break="no"/>ſen/odder ynn welchs menſchen hertz wúrd es ymermehr
+              <lb/>komen/ das der Chriſtus Gottes ſon vmb vnſern willen
+              <lb/>von hymel komen/fur vns geſtorben vnd vom tod auﬀer<lb break="no"/>ſtanden / vergebung der ſunde vnd ewigs leben erlanget/
+
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c4r.jpg" n="c4r"/>
+              
+              <lb/>vnd vns geſchencket hette/wenn ers nicht oﬀenbarlich ver<lb break="no"/>kúndigen vnd predigen lieſſe/ Vnd ob er gleich durch ſein
+              <lb/>leiden vnd tod vns den ſchatz erworben hat/ſo kúnde doch
+              <lb/>niemand dazu komen noch ſolchs empfahen/ wo ers nicht
+              <lb/>auch lieſſe durchs wort anbieten/ furtragen vnd heimbrin<lb break="no"/>gen/Vnd were alles vmb ſonſt/was er dran gewendet vñ
+              <lb/>gethan hette / vnd nicht anders denn ein tewrer groſſer
+              <lb/>ſchatz ynn der erden vergraben/denn niemand wúſte zu ſu<lb break="no"/>chen noch yhm zu nutz machen / Darumb habe ich ymer
+              <lb/>alſo geleret/das zum erſten vor allen dingē das múndliche
+              <lb/>wort múſſe da ſein / vnd mit den ohren gefaſſet werden/
+              <lb/>wo der heilige geiſt yns hertz komen ſol / welcher mit vnd
+              <lb/>durch das wort das hertz erleuchtet vnd den glauben wir<lb break="no"/>cket. Alſo das der glaube nicht kómpt noch beſtehet on
+              <lb/>durch das hören vnd euſſerliche predigt des Euangelions/
+              <lb/>durch welchs er beide anſehet/vnd zunimpt oder geſterckt
+              <lb/>wird/Derhalben ſol man ſolchs mit nichte verachten/ ſon<lb break="no"/>dern ynn allen ehren halten/gerne damit vmbgehen /vnd
+              <lb/>on vnterlas treiben vnd blewen / als das nymer on frucht
+              <lb/>abgehet / dazu nymer gnugſam kan verſtanden vnd ges<lb break="no"/>lernet werden. Vnd húte ſich núr yderman fur den ſched<lb break="no"/>lichen geiſtern/die es ſo gering achten/als ſey es nicht not
+              <lb/>odder nutz zum glauben/odder die es ſo bald aus gelernet
+              <lb/>haben/vnd vberdrúſſig werden/bis ſie zulezt dauon fallē/
+              <lb/>vnd nichts vom glauben vnd Chriſto behalten.
+            </p>
+        
+            <p>
+              <lb/>Sihe/da haſtu alles/ſo zu dieſem Artikel gehört von
+              <lb/>der Chriſtlichen gerechtickeit/die da ſtehet ynn vergebung
+              <lb/>der ſunden/durch Chriſtum vns geſchencket/vnd mit dem
+              <lb/>glauben durch vnd ynn dem wort empfangen/rein vñ blos
+              <lb/>on alle vnſer werck. Doch nicht alſo / das ein Chriſten
+              <lb/>nicht gute werck thun ſolle vnd múſſe/Sondern das man
+              <lb/>ſie nicht ynn des glaubens lere menge vnd flechte/vnd mit
+              <lb/>dem ſchendlichen wahn behenge/ als die zur gerechtickeit
+        
+            <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-11/arch-8o-g-1530-11-c4v.jpg" n="c4v"/>
+              
+              <lb/>für Gott etwas dienen vnd verdienen / dadurch man beide
+              <lb/>die werck vnd glaubens lere beschmeisset vnd verderbt.
+              <lb/>Denn es ist alles darumb zuthun / das man disen Artickel
+              <lb/>rein vn̄ lautter behalte / von alle vnserm thun abgescheidē.
+              <lb/>Darnach aber / weñ wir diese gerechtigkeit haben / solle die
+              <lb/>werck folgen / vnd hie niden auff erden bleiben / das sie die
+              <lb/>weltliche gerechtigkeit machen vnd erhalten / Vnd also
+              <lb/>beide recht gehen / aber iͤgliche sonderlich / ynn yhrem wesen
+              <lb/>vnd würden / yhene für Gott ym glauben / vber vnd vor
+              <lb/>allen wercken / Diese ynn wercken der liebe / gegen
+              <lb/>dem nehisten / wie wir auch oben gnug
+              <lb/>gesagt / vnd ymerdar geleret
+              <lb/>haben.
+            </p>
+              
+            <trailer>
+                <lb/>Gedruckt zu Wittemberg durch
+                <lb/>Hans Weissen.
+                <lb/>1530.
+            </trailer>
+
+      </div>
+    </body>
+  </text>
+</TEI>

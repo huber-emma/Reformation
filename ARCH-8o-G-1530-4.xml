@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Etliche öffentliche Notbriefe an den Kurfürsten zu Brandenburg: a digital edition</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/>
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>6 folios.<note>complete</note></extent>
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+L+4702</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990127549850107026</idno>
+        
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title>
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[PNG]</note>
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(4).</p></note>
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Etliche öffentliche Notbriefe an den Kurfürsten zu Brandenburg.</title>. </p>
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p>
+        </note>
+      </notesStmt>
+      <sourceDesc> 
+        <biblFull>
+          <titleStmt>
+            <title>Etliche öffentliche Notbriefe an den Kurfürsten zu Brandenburg</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>Nickel Schirlentz, </publisher>
+            <pubPlace>Wittenberg:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p>
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language>
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-4">
+    <front><titlePage>
+      <docTitle> 
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-titlepage.jpg" n="titlepage"/>
+        
+        <titlePart type="main">
+            <lb/>Ettliche offentliche
+            <lb/>not brieffe.
+            <lb/>Martini Luthers
+            <lb/>An den Kurfürsten zu Bran
+            <lb break="no"/>denburg.
+            <lb/>An die Bischöffe zu
+            <lb/>Brandenburg.
+            <lb/>Hauelburg.
+            <lb/>Lebus.
+            <lb/>An die Ritterschafft der Marck.
+            <lb/>An Katherina Hornungs.
+            <lb/>Wittemberg.
+            <lb/>M D XXX.
+        </titlePart>
+      
+      </docTitle>
+      <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    
+    <body>
+      <div type="text">
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-titlepage-verso.jpg" n="titlepage verso"/>
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a2r.jpg" n="a2r"/>
+        
+        <div type="section" n="1">
+        <head type="chapter">
+            <lb/>Dem durchleuchtigsten hochgebor
+            <lb break="no"/>nen Fürsten vnd herrn herrn
+            <lb/>Joachim Marggraue zu Branden
+            <lb break="no"/>burg / Aurfürsten etc. Hertzog
+            <lb/>zu Stettin Pomern etc.
+            <lb/>meinem G. H.
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">G</hi>nad vnd frid ynn Chri
+          <lb break="no"/>sto / Durchleuchtigster hochgebor
+          <lb break="no"/>ner fürst gnediger herr / Ich hab vor
+          <lb/>hin E. K. F. G. offt mals mit heim
+          <lb break="no"/>licher / zu letzt auch mit offenberlicher
+          <lb/>schrifft demütiglich vnd vleissig ge
+          <lb break="no"/>beten für den armen gesellen Wolff
+          <lb/>Hornung / das E. K. F. G. gnediglich wolten be
+          <lb break="no"/>wegen / sein armüt vn̄ elende / seine iugent vnd fahr /
+          <lb/>vnd helffen / als ein landsfürst / der es zu thun für
+          <lb/>Gott vnd der wellt schüldig ist / das yhm sein weib
+          <lb/>vnd kind / Haus vnd güter / widder würden etc. Wel
+          <lb break="no"/>che yhm mit allem vnrecht vnd aller vnbilligkeit
+          <lb/>werden fürgehalten / Darauff mir kein antwort ist
+          <lb/>wurden / wie wol ich lange gnug geharret. Darümb
+          <lb/>nötiget mich abermal mein gewissen / dem armen ge
+          <lb break="no"/>sellen zu dienen / wo mit ich ynner kan / Vnd kome
+          <lb/>aber mal mit dieser offentlichen schrifft / bitte / flehe
+          <lb/>vnd vermane nach mals vmb Gottes vnd alles re
+          <lb break="no"/>chts willen / E. K. F. G. wolten helffen / das dem
+          <lb/>guten gesellen sein weib / kind vnd das seine widder
+          <lb/>werden / Denn es hat nu lange gnug gewehret / er
+          <lb/>kan vn̄ sol nicht lenger so gehen ym elende vnd fahr /
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a2v.jpg" n="a2v"/>
+        
+          <lb/>Vnd ich yhm auch gedencke ynn kurtz / wo es nicht
+          <lb/>anders werden wil / zu scheiden / vnd offentlich von
+          <lb/>seinem weibe los zu sprechen / Des wird denn E. K.
+          <lb/>F. G. auch schuld müssen haben / für Gott vnd der
+          <lb/>welt / weil sie nicht dazu helffen wolten / das er das
+          <lb/>seine erlange.
+        </p>
+        
+        <p>
+          <lb/>Ich habe wol gehört / wie Kathrina sein weib
+          <lb/>habe einen vertrag oder verschreibung / darynn
+          <lb/>Hornung / vmb des willen / das er sie aus ehlichem
+          <lb/>eyner / mit eym stumpffen messer ein wenig gestoch
+          <lb break="no"/>en hette (nicht on vrsache / wie E. K. F. G. wol wis
+          <lb break="no"/>sen) sich yhr gar verzihen / vnd sie nynmer mehr för
+          <lb break="no"/>dern noch zu sich begeren wolte / Vnd auff solchen
+          <lb/>vertrag sie beharre / vnd des E. K. F. G. schutz be
+          <lb break="no"/>geert / vnd erlanget / Ich habe des selbigen vertrags
+          <lb/>abschrifft gesehen / Aber was kan ich dauon reden /
+          <lb/>E. K. F. G. wissen das besser denn ichs sagen kan /
+          <lb/>das solchen vertrag mit einer bratworst versiegelt
+          <lb/>ist / vnd E. K. F. G. schüldig ist / genante fraw auff
+          <lb/>solchen vertrag nicht schützen / sondern sie von sol
+          <lb break="no"/>chem weisen / vnd was des ist / yhrem man helffen
+          <lb/>versünen. Weiter wissen E. K. F. G. das Wolff
+          <lb/>Hornung nicht macht hat / solche verschreibung zu
+          <lb/>thun / Vnd wo ers hette wollen thun / solt E. K. F.
+          <lb/>G. yhn drumb gestrafft haben / als einen buben /
+          <lb/>denn er hat sein weib von sich selber nicht genomen /
+          <lb/>Sondern Gott hat sie yhm zugefügt mit offentlich
+          <lb break="no"/>em recht / wie sich gebürt / darümb kan vnd sol er sich
+          <lb/>auch selbs nicht von yhr scheiden / Gott hats yhm
+          <lb/>verboten da er spricht / Was Gott zu samen fügt / sol
+          <lb/>der mensch nicht scheiden / Dieser spruch Christi /
+          <lb/>lest diese verschreibung Wolff Hornungs nichts
+          <lb/>gelten.
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a3r.jpg" n="a3r"/>
+      
+          <lb break="no"/>gelten / darynn er sich selbs scheidet von seinem wei
+          <lb break="no"/>be / welchs gebürt keinem frumen man / vnd ist wid
+          <lb break="no"/>der Got / Darümb kan sie auch nicht drauff trötzen /
+          <lb/>vnd E. K. F. G. schutz begeren / Viel weniger kan /
+          <lb/>E. K. F. G. solchen schutz thun / Wie auch der arm
+          <lb/>vnschüldige Hornung sey zu solcher nichtigen ver
+          <lb break="no"/>schreibung komen / ist E. K. F. G. wol bewußt / vnd
+          <lb/>schier ym gantzen deudschen lande fast bekand /
+          <lb/>Dem nach bitte ich zum dritten vn̄ zum letzten mal
+          <lb/>ynn diser sachen / E. K. F. G. wolten sich hierynn /
+          <lb/>beyde mit schützen vn̄ andern sachen / anders den̄ bis
+          <lb/>her halten / Vnd Wolff Hornung das seine werden
+          <lb/>lassen / denn der raub ist zu gros / das sie sol auff ein
+          <lb/>mal rauben / sich selbs / sein kind / haus vnd hoff / gut
+          <lb/>vnd ehre / dazu sein sicher wesen für Gott / Solchs
+          <lb/>grossen raubs schutz / hat E. K. F. G. Gott nicht be
+          <lb break="no"/>folhen / sondern verboten.
+        </p>
+         
+        <p>
+            <lb/>Vnd endlich bitte ich auch / das E. K. F. G.
+            <lb/>solche meine schrifft gnediglich / als eine trewe ver
+          <lb break="no"/>manung wolt annemen / welche mich zu schreiben
+            <lb/>vnnmeidliche not vnd sachen dringen / wie E. K. F.
+            <lb/>G. sihet vn̄ höret / Vnd wolten mürs nicht für lester
+          <lb break="no"/>schrifft odder schmach brieff deuten / Denn ich / Got
+            <lb/>lob / vber meine sieben jar komen / schier auch / ja so
+            <lb/>viel können sol / was ein lesterschrifft sey oder nicht /
+            <lb/>das E. K. F. G. mich solchs zu leren / der mühe wol
+            <lb/>sparen mag / Gott gebe / das E. K. F. G. diese mei
+          <lb break="no"/>ne letzte bitte erhöre / Auff das ich widderümb für
+            <lb/>vnd nicht widder E. K. F. G. zu Gott beten müße /
+            <lb/>Amen.
+        </p>
+          
+          <closer>
+            <salute>
+              <lb/>E. K. F. G.
+            </salute>
+            
+            <signed>
+              <lb/>Williger.
+              <lb/>Martinus Luther.
+            </signed>
+          </closer>
+      </div>
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a3v.jpg" n="a3v"/>
+      
+      <div type="section" n="2">
+        <head>
+          <lb/>Den hochwirdigen ynn Gott Ve
+          <lb break="no"/>tern / Fürsten vnd herrn herrn
+          <lb/>B. Bischoffen zu Branden
+          <lb break="no"/>burg / Dauelburg vn̄ Lebus / meinen
+          <lb/>gnedigen herrn / semptlich vnd
+          <lb/>sonderlich.
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">G</hi>nad barmhertzigkeit vn̄
+          <lb/>fride ynn Christo. Hochwirdigen
+          <lb/>ynn Gott Veter gnedige fürsten vnd
+          <lb/>herrn / E. F. G. wissen on zweiffel
+          <lb/>wol / das schendliche ergernis / so zu
+          <lb/>Berlin vber vier jar geweret / Wolff
+          <lb/>Hornungs weibs halben / welche
+          <lb/>durch schein eines nichtigen vertrags / so Wolff
+          <lb/>Hornung mit yhr gemacht / vnd verschreibung von
+          <lb/>sich gegeben / sol haben / sich yhr ewiglich zu verzey
+          <lb break="no"/>hen / vnd sie nymer mehr zu sich zu foddern / schlechtes
+          <lb/>nicht zu yhm wil / vnd trötzt auff ewrs landsfürst
+          <lb break="no"/>en schutz / damit sie dem guten gesellen entwendet /
+          <lb/>zu erst sich selbs / darnach kind / hans / hoff / gut / eh
+          <lb break="no"/>re vnd dazu sicher wesen seiner seelen / Vnd mus al
+          <lb break="no"/>so der arme knecht / ynn grossem iamer vnd elend /
+          <lb/>ynn not vnd armut / ynn fahr vnd sorgen seiner see
+          <lb break="no"/>len ynn der yrre / vnd also on schirr gehen.
+        </p>
+        
+        <p>
+          <lb/>Weil denn nu E. F. G. wissen / das solch grös
+          <lb break="no"/>ste schwere stück vnd schendlich ergernis nicht zu
+          <lb/>dulden / vnd ewrm landsfürsten solchen raub vn̄ sie
+          <lb/>uel des weibs / nicht zu schützen / sondern zu straffen
+          <lb/>gebürt /
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a4r.jpg" n="a4r"/>
+
+          <lb break="no"/>gebürt / hab ich mich lassen des guten gesellen not vn̄
+          <lb/>vnfal / zwingen / E. F. G. mit schrifften zu ersuchen /
+          <lb/>Denn weil E. F. G. ym Bischöfftlichen ampt sitz
+          <lb break="no"/>en / wissen sie wol / wes befelhs ynn solchen stücken /
+          <lb/>sie von Gott haben / nemlich das / wie S. Paulus
+          <lb/>zu Tito sagt / Die da sündigen / die straffe offentlich
+          <lb/>für allen / das die andern eine schew dauon haben /
+          <lb/>Vnd aber mal / Sihe zu / vnd mache dich frembder
+          <lb/>sunden nicht teilhafftig / wie das alles E. F. G. be
+          <lb break="no"/>sser wissen / denn ichs sagen mag.
+        </p>
+        
+        <p>
+          <lb/>Derhalben ist mein demütigs vleissigs bitten /
+          <lb/>das E. F. G. dazu thun wollen / vnd ewr einer / des
+          <lb/>sprengels das weib vnter worffen / sie dazu halten
+          <lb/>mit drewen / vermanen / bitten / wo das nicht helffen
+          <lb/>wil / mit bannen vnd geistlichem vrteil / das sie thu /
+          <lb/>was sie schüldig ist / Vnd alle drey semptlich / ewrn
+          <lb/>landsfürsten / vermanen vnd auch anhalten / das er
+          <lb/>solcher frawen / ynn solchem grossen manichfelti
+          <lb break="no"/>gem raub vnd freuel / keinen schutz erzeige / wie E. F.
+          <lb/>G. denn wol wissen / vnd zu thun sich freilich schül
+          <lb break="no"/>dig erkennen / Denn ich solchs an E. F. G. nicht le
+          <lb break="no"/>rens odder meisterns weise suche / sondern vrsache
+          <lb/>geben wil / ewr Bischöfftlich ampt zu beweysen / vnd
+          <lb/>helffen verhüten / das E. F. G. nicht mit frembden
+          <lb/>sunden sich beschweren müssen / Welchs on zweiffel
+          <lb/>geschicht / wo E. F. G. solche vntugent des weibs /
+          <lb/>vnd solchen schutz ewrs landsfürsten vngestrafft
+          <lb/>vnd vngebessert liessen / Vnd sind doch nicht gerin
+          <lb break="no"/>ge / diese frembde sünden beyder person / wie E. F.
+          <lb/>G. wol bedencken kommen / vnd wird hinfürder alle
+          <lb/>dis ergernis vnd grosse sünde ewr eygen sein / Vnd
+
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a4v.jpg" n="a4v"/>
+
+          <lb break="no"/>Gott nicht anders von euch fodern / denn als hettet
+          <lb/>yhrs alles selbs gethan / wie er spricht / Ezechielis
+          <lb/>am vierden / Christus vnser herr / gebe E. F. G. hier
+          <lb break="no"/>ynn / vnd ynn allen stücken / ein Bischöfftlichen ernst
+          <lb/>vnd mut / sterckte vnd rat / zuthun was yhm wolge
+          <lb break="no"/>fellig / vnd euch heilsam / vnd den leuten besserlich
+          <lb/>ist / Amen.
+        </p>
+        
+        <closer>
+          <salute>
+            <lb/>E. F. G.
+          </salute>
+          
+          <signed>
+            <lb/>Williger.
+            <lb/>Martinus Luther.
+          </signed>
+        </closer>
+      </div>       
+      
+      <div type="section" n="3">
+        <head>
+          <lb/>Den Edlen gestrengen Ernvhesten
+          <lb/>herrn / Grauen / Edlen herrn vnd
+          <lb/>andern der Ritterschafft ym Kurfürsten
+          <lb break="no"/>tumb zu Brandenburg
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">G</hi>nad vnd frid ynn Chri
+          <lb break="no"/>sto / Edlen gestrengen vhesten / gne
+          <lb break="no"/>dige lieben herrn / E. G. vnd G.
+          <lb/>wissen wol den vnrat vnd gros erger
+          <lb break="no"/>nis / so dem gantzen kurfürstentumb
+          <lb/>zu Brandenburg anklebt / das dar
+          <lb break="no"/>ynn geduldet wird / der freuel zu Ber
+          <lb break="no"/>lin / mit namen Katherin Hornungin / welche sich
+          <lb/>selbs von yhrem rechtem Eheman gescheiden vnd
+          <lb/>da selbs ein wesen füret / wie euch bewußt / Vnd auff
+          <lb/>trotz eines nichtigen vertrags vn̄ schutz ewrs lands
+          <lb break="no"/>fürsten / sich selbs yhrem man entzeucht vn̄ fürhelt /
+          <lb/>dazu sein kind / haus vn̄ hoff / gut vnd ehre hennimet /
+
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-b1r.jpg" n="b1r"/>
+          
+          <lb break="no"/>vnd den armen gesellen damit yns elende versägt /
+          <lb/>das er ynn grossem iamer / not vnd armut / dazu ynn
+          <lb/>fahr seiner seelen / als ein iunger gesell / schweben
+          <lb/>mus / on vnterlaß / nu vber das vierde jar.
+          <lb/>Wie wol ich nu weiß / das E. G. vnd G. hie
+          <lb/>zu nichts thetigs thun können noch sollen / weil es
+          <lb/>ewrn Landsfürsten vnd Bischoffen eigentlich ge
+          <lb break="no"/>bürt / Aber doch / wo die selbigen verseumlich odder
+          <lb/>lessig hierynn sein wollen / ists yhe billich / vnd E. G.
+          <lb/>sinds auch schüldig / weil das ergernis dem gantzen
+          <lb/>lande / schande vnd schaden thut / als die trewen
+          <lb/>landsessen / vnd des kurfürstenthumbs gelieder vnd
+          <lb/>verwandten / trewen rat vnd vermanung dazu zu
+          <lb break="no"/>thun. Es ist nicht vnrecht / sondern löblich vnd ge
+          <lb break="no"/>botten / das ein knecht seinen herrn warne vnd ver
+          <lb break="no"/>mane / wo der herr seines eigen hauses vnd gutes /
+          <lb/>schaden nicht merckte / odder seinen frumen verseu
+          <lb break="no"/>men wolt / Wo er aber still dazu schwiege / würde er
+          <lb/>als ein vntrewer knecht / wol für selbschüldig an sol
+          <lb break="no"/>chem schaden / genennet vnd gestrafft werden.
+        </p>
+        
+        <p>
+          <lb/>Dem nach ist mein demütigs vleissigs bitten /
+          <lb/>E. G. vnd G. wolten solch grossen schendlichen
+          <lb/>mutwillen vnd ergernis / dazu des armen Wolff
+          <lb/>Hornungs elend vnd not / mit barmhertzigen augen
+          <lb/>ansehen / vnd bey hoch genanten Ewrn landsfür
+          <lb break="no"/>sten / vnd Bischoffen / mit bitten vnd vermanen ans
+          <lb break="no"/>halten / damit das weib gehalten werde zu thun /
+          <lb/>was sie schüldig / vnd ewr landsfürst / des schutzes
+          <lb/>vber solchen freuel vnd raub des weibs / sich eussere /
+          <lb/>sondern seinem kurfürstlichem ampt nach / sie zum
+          <lb/>rechten / vnd yhre pflicht halte. Denn E. G. vnd G.
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-b1v.jpg" n="b1v"/>
+        
+          <lb break="no"/>zu bedencken haben / wo sie so gar still hie zu schwie
+          <lb break="no"/>gen / das es möcht für Gott ein bewilligung gerech
+          <lb break="no"/>ent / vnd ewr gewissen / also auch mit frembder sün
+          <lb break="no"/>den / etwa beschweret werden.
+        </p>  
+        
+        <p>
+          <lb/>Vnd bitte gar gütlich E. G. vnd G. wolten mir
+          <lb/>diese schrifft zu gut halten / Denn nach dem ich mich
+          <lb/>schüldig erkenne / dem guten gesellen zu raten vnd
+          <lb/>helffen / zwinget mich solche pflicht / allerley weise
+          <lb/>vnd wege zu suchen / da mit ich / entschüldiget / dester
+          <lb/>leichter gewissen habe / das ich meinen vleis an yhm
+          <lb/>nicht gesparet habe. Gott der Vater gebe euch allen
+          <lb/>weisheit vnd synn / zu volbringen seinen guten wil
+          <lb break="no"/>len / Amen.
+        </p>
+        
+        <closer>
+          <salute>
+            <lb/>E. G. vnd G.
+          </salute>
+          
+          <signed>
+            <lb/>Williger
+            <lb/>Martinus Luther
+          </signed>
+        </closer>
+      </div>
+      
+      <div type="section" n="4">
+        <head>
+          <lb/>D. Martinus Luther.
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">G</hi>nad vnd frid ynn Christo.
+          <lb/>Erbar liebe fraw / was ich dir itzt schrei
+          <lb break="no"/>be / soltu gewis dafür halten / das ichs
+          <lb/>thu / aus bitte vnd beger deins mannes
+          <lb/>Wolff Dornung / Dein gewissen kan
+          <lb/>dir wol sagen / wie das du auff den bübischen vnd
+          <lb/>nichtigen vertrag / so Wolff Dornungen (als er
+          <lb/>sagt) ausgezwungen vnd abgedrungen / dir gege
+          <lb break="no"/>ben ist / nicht sicher sein kanst / auch deins landsfür
+          <lb break="no"/>sten schutz darauff nicht suchen / noch gebrauchen /
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-b2r.jpg" n="b2r"/>
+    
+          <lb break="no"/>weil es lästerlich / wider Gotts wort ist / wo sich ehe
+          <lb break="no"/>liche leute selbs scheiden wollten / darümb der meister
+          <lb/>nicht dabeymen gewest ist / der dir solchen vertrag
+          <lb/>gestellet / vnd solchs stücklin drynnen nicht bedacht /
+          <lb/>hat gleich wol den kopff aus der schlingen ziehen / vn̄
+          <lb/>die sache gantz auff Dornung schieben wollen / sie
+          <lb break="no"/>het aber nicht / das er gar mit dem hyndern hynnein
+          <lb/>gefallen ist.
+        </p>
+        
+        <p>
+          <lb/>Weil du denn weißt / das du an deinem ehe
+          <lb break="no"/>man solch grosse grausame vntugent vnd freuel be
+          <lb break="no"/>gehest / so viel raubs treibst / das du dich selbs / sein
+          <lb/>kind / sein haus vnd hoff / sein gut vnd ehre yhm für
+          <lb break="no"/>heltest / dazu yns elend veriagt hast / das er ein armer
+          <lb/>bettler ynn grossem armut vnd not schweben / dazu
+          <lb/>als ein iunger mensch teglich ynn fahr seiner seelen
+          <lb/>stecken mus / nu vber vier jar / Welche sünde alzu mal
+          <lb/>auff deinem kopff vnd hals fallen / vnd dich drücken
+          <lb/>werden. Vber das nu offt gefoddert / ersucht / gebe
+          <lb break="no"/>ten vnd geflehet / dennoch nicht komen bist / So zwin
+          <lb break="no"/>get die not hinfürt / die sachen anders anzugreiffen /
+          <lb/>Vnd füge dir darauff zu wissen / das ich gedencke
+          <lb/>Wolff Dornung von dir / als von einer offentlichen
+          <lb/>ehebrecherin (wo du nicht anders dich schickest)
+          <lb/>los zu sprechen / damit er auch müge ein ander we
+          <lb break="no"/>sen anfahren / dabey er bleiben vnd nicht so ynn der
+          <lb/>yrre ewiglich das elende bawen müsse.
+        </p>
+        
+        <p>
+          <lb/>Dem nach stimme ich dir eine zeit / ob du ynn
+          <lb break="no"/>des / etwas dazu zuthun gesinnet werest / nemlich /
+          <lb/>die nehiste mitfasten / den Sontag Letare / Was du
+          <lb/>handeln wilt / magstu ynn des thun / Nach Letare
+          <lb/>soltu (wils Gott) gewißlich ein ander briefflin le
+          <lb break="no"/>sen /
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-b2v.jpg" n="b2v"/>
+          
+          <lb break="no"/>sen / Ob der arme Wolff Dornung / solchen raub
+          <lb/>leiden mus / Wolan / so hat Gott noch mehr / denn
+          <lb/>er yhe vergab / Wird yhm wol ander / weib / kind /
+          <lb/>haus vnd hoff / gut vnd ehre / schaffen / Darnach
+          <lb/>wisse vnd hab dich zu richten. Gott helffe dir aus
+          <lb/>deinen sünden vnd bringe dich widder zu recht / A
+          <lb break="no"/>men.
+        </p>
+        
+        <closer>
+          
+          <dateline>
+            <lb/>Geben zu Wittemberg / Am ersten des Hor
+            <lb break="no"/>nungs.
+            <lb/>M D XXX.
+          </dateline>
+          
+          <salute>
+            <lb/>Der Erbarn frawen Katherin Dornungin /
+            <lb/>Cöllen an der Sprew.
+          </salute>
+          
+        </closer>
+        
+        <trailer>
+          <lb/>Gedruckt zu Wittemberg /
+          <lb/>Nickel Schirlentz.
+        </trailer>
+        
+      </div>
+        
+      </div>
+    </body>
+  </text>
+</TEI>

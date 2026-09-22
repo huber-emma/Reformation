@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ein Sermon von Kreuz und Leiden: a digital edition</title> 
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/>
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>8 folios.<note>complete</note></extent>
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+L+6257</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990127554790107026</idno> 
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title>
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[PNG]</note>
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(10).</p></note>
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Ein Sermon vom Kreuz und Leiden.</title>. </p> 
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p>
+        </note>
+      </notesStmt>
+      <sourceDesc> 
+        <biblFull>
+          <titleStmt>
+            <title>Ein Sermon vom Kreuz und Leiden</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>Friedrich Peypus, </publisher>
+            <pubPlace>Nürnberg:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p>
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language>
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-10">
+    <front><titlePage>
+        <docTitle>  <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-titlepage.jpg" n="titlepage"/>
+          
+          <titlePart type="main">
+              <lb/>Ein Sermon
+              <lb/>vom Creütz vnd
+              <lb/>leyden / vnd wie man sich
+              <lb/>darein schicken soll.
+              <lb/>D. Mart. Lutth.
+              <lb/>M. D. XXX.
+          </titlePart>
+        </docTitle>
+        <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    <body>
+      <div type="text">
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-titlepage-verso.jpg" n="titlepage verso"/>
+        
+        <head type="chapter"> 
+          <lb/>Ein sermon vom leyden vnd
+          <lb/>Creutz / D. Mart. Lutth.
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">L</hi>ieben freünd / jr wißt / das man dise zeit die Passi
+          <lb break="no"/>on pflegt zu predigen / so zweyfelt mir auch nicht
+          <lb/>daran / jr werdet vil mal gehört haben / was es für
+          <lb/>ein passion vnd leyden gewesen sey / auch wo zu
+          <lb/>es Got der vater verordnet hab / nemlich / das er dadurch
+          <lb/>hat wöllen helffen / mit der person Christi / dann Christus
+          <lb/>bedorfft soliches leydens gar nit / wir aber / vnd das gantz
+          <lb/>menschlich geschlecht / bedorfften solches leidens / vn̄ alle
+          <lb/>glaubigen / Das es also sol sein ein geschenck / das vns hin
+          <lb break="no"/>geben / vnd auß lautter gnad vnnd barmhertzigkeyt ge
+          <lb break="no"/>schencket ist. Von dem leyden wöllen wir yetzt nichts han
+          <lb break="no"/>deln / Dieweil aber vil irriger rotten geyster hin vnd wi
+          <lb break="no"/>der sind / welche das Euangelion nur schenden / vnd vns
+          <lb/>die schuld geben / das wir nichts mehr wissen zu leren vnd
+          <lb/>predigen / dann von glauben / als liessen wir die lere von gü
+          <lb break="no"/>ten wercken / vn̄ dem heyligiten creutz vn̄ leyden aussen / Sa
+          <lb break="no"/>gen auch weiter / sie haben den rechten geyst / der sie solches zu
+          <lb/>lere treib / wölle wir dasselbig stück in kürtz überlauffen / vn̄
+          <lb/>von dem exempel diser passion sagen / ws für ein creutz wir tra
+          <lb break="no"/>gen vn̄ leyden / auch wie wir dasselb tragen vnd leide sollen.
+        </p>
+        
+        <p>
+          <lb/>Vnd zum ersten muß man das mercken / das Christus
+          <lb/>mit seynem leyden nit allein vns geholffen hat / von dem
+          <lb/>teuffel / todt / vnd sünden / sonder auch das sein leyden sey
+          <lb/>ein exempel / welchem wir in vnserm leyden sollen nachuol
+          <lb break="no"/>gen. Vnd wiewol vnser leyden vnd creutz nicht also soll
+          <lb/>auffgeworffen werden / das wir dadurch selig werde / oder
+          <lb/>das geringst damit verdieneten wolte / sollen wir dannoch
+          <lb/>Christo nach leyden / das wir jm gleichförmig werde. Dann
+          <lb/>Gott hat es also beschlossen / das wir nit allein in den creu
+          <lb break="no"/>zigten Christum glauben / sonder auch mit jm gecreutziget
+          <lb/>vnd leyden sollen / wie ers dann klärlich anzeigt an vil Orta
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a2r.jpg" n="a2r"/>      
+
+        <lb/>ten in den Euangelien / Wer sein creutz nicht auff sich nye
+          <lb break="no"/>met / spricht er / vnd mir nach volget / ist mein nit wehrt.
+        <lb/>Item / Weil sie den hausuatter Beelzebub heyssen / wie vil
+        <lb/>mer werden sie es seinen hausgenossen thün? Es muß ein
+        <lb/>yeglicher ein stück vom heyligen creutz tragen / es kan nit
+        <lb/>anderst sein. S. Paulus sagt auch also / Ich erfülle an mey
+          <lb break="no"/>nem fleisch das yhenig / das noch am leyden Christi mang
+          <lb break="no"/>elt. Als wolt er sagen / Sein gantze Christenheyt ist noch
+        <lb/>nit voll Bereitet / wir müssen auch hynach / das nichts an
+        <lb/>dem leyden Christi fehle / noch abgehe / sonder das es alles
+        <lb/>auff einen hauffen kume. Also muß sich ein jeglicher Christ
+        <lb/>diß erwegen / das ya das creutz nicht werd aussen bleyben.
+        </p>
+        
+        <p>
+          <lb/>Es sol aber vnd muß ein solch creutz vnd leyden sein / das
+          <lb/>es einen namen habe / vnd redlich drück / vnd wee thüe / als
+          <lb/>do mag sein / grosse scheltz vnd gůts / leibs vnd lebens. Sol
+          <lb break="no"/>liches leydens empfindet man wol / vnd drücket / dann es
+          <lb/>were sünst kein leyden nit / wenn es nit seer wee thet.
+        </p>
+        
+        <p>
+          <lb/>Vber das sol es auch ein solch leyden seyn / das wir vnns
+          <lb/>nicht selbs erwelet haben / wie dann die rottengeister yhnen
+          <lb/>selbs ein eygens leyden erwelen. Es soll ein solch leyden
+          <lb/>sein / des wir gern / wo es möglich were / überhaben wolten
+          <lb/>sein / welchs vns der teüfel oder die welt zůschickt / Vnd den̄
+          <lb/>ist es not / das man fest halt / vn̄ sich also darein schick / wie
+          <lb/>ich vor gesagt hab / nemlich / dz wir wissen / das wir müssen
+          <lb/>leyde̅ / das wir also Christo gleichförmig werde / das es auch
+          <lb/>nit anders kan vnd mag sein / es muß ein yeglicher seyn
+          <lb/>creutz vnd leiden haben. Wein man das also wayß / so ist es
+          <lb/>dester senffter / vn̄ leidlicher / vnd kan sich einer also trösten.
+          <lb/>Das er sage / Wolan wil ich ein Christ sein / so muß ich die
+          <lb/>hoffarb auch tragen / der lieb Christus gibt kein ander ge
+          <lb break="no"/>wandt auß an seinem hoff / Es muß geliden sein. Diß kün
+          <lb break="no"/>nen die rottengeister nit thun / welche yhn jr eyge creutz er
+          <lb break="no"/>welen / sonder werden vnwillig darüber / vn̄ wehren sich
+          <lb/>mit der faust / Das ist dann ein hübschs vnd löblichs ley
+          <lb break="no"/>den / vnd dannoch dürffen sie vns die schuld geben / als lere
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a2v.jpg" n="a2v"/>      
+        
+          <lb break="no"/>ten wir nit recht vom leyden / vnd sie kündtens allein. Wir
+          <lb/>aber leren also / das jm nyemandt selbs ein creutz oder ley
+          <lb break="no"/>den sol auffsetzen / vnd erwelen / sonder wenn es daher ku
+          <lb break="no"/>met / das wirs gedultiglich tragen / vnd dulden.
+        </p>
+        
+        <p>
+          <lb/>Aber sie jrren nit allein in dem stück / das sie ein erwel
+          <lb break="no"/>tes creutz haben / sonder auch in dem / das sie jr leyden so
+          <lb/>hoch auffwerffen / vnd geben jm einen verdienst / vnd le
+          <lb break="no"/>stern also Got / weil es nit ein recht / sonder ein ffüncklends
+          <lb/>vnd erweltes leiden ist. Wir aber sagen also / das wir mit
+          <lb/>vnserm leyden nichts verdienen / vnd sollens nit also in ein
+          <lb/>schöne Monstrantzen / wie sie jres fassen. Es ist an dem ge
+          <lb break="no"/>nüg / das wir wissen / das es Gott wol gefelt / das wir ley
+          <lb break="no"/>der auff das wir also Christo gleichförmig werden / wie ich
+          <lb/>dann gesagt hab. Also sehen wir / das eben dieselbigen / die
+          <lb/>so vil vom leyden vnd creutz rhüemen / vnd leren / das we
+          <lb break="no"/>nigst weder vom creutz / noch von Christo wissen / weil sie
+          <lb/>jr eygen leyden verdienstlich machen. Lieber es ist nit eyn
+          <lb/>solchs ding darumb / es wirdt auch niemand darzu gedrung
+          <lb break="no"/>en / noch gezwungen / Wilt du nit also vergebens / on ver
+          <lb break="no"/>dienst leyden / so magstu es lassen / vnd Christum also verleü
+          <lb break="no"/>gnen / Der weg steet vor der thür hyn / Allein das müßt du
+          <lb/>wissen / wenn du nit leyden wilt / das du auch nit Christus
+          <lb/>hoffgesind wyrst sein. So magst du nun thün was du wilt
+          <lb/>vnter den zweyen / leyden / oder Christum verleugnen.
+        </p>
+        
+        <p>
+          <lb/>Wilt du leyden / wolan / so ist der schatz vnd trost / der dir
+          <lb/>verheyssen vnd geschenckt würdt / so groß / das du billich
+          <lb/>gern vnd mit freuden soltest leyden / das Christus also gar
+          <lb/>sampt seynem leyden / dir geschenckt / vnd zu eygen geben
+          <lb/>würdt. Wenn du nun das also kanst glauben / so magst du
+          <lb/>frey / auch in der grösten angst vnd kümmernüssen sagen /
+          <lb/>also / Wenn ich gleich lang leyde / wolan was ist es dann
+          <lb/>gegen solchem schatz / welchen mir mein Got zu eygen hat
+          <lb/>geben / dz ich also ewigliche mit jm lebe? Sihe also würdt
+          <lb/>das leyden süß vnd leicht / vn̄ wurde nicht mer eyn ewigs
+          <lb/>leyden / sonder ein modicum seyn / das eint kleine zeyt weret
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a3r.jpg" n="a3r"/>      
+        
+        <lb break="no"/>vn̄ bald wiß vergeeet / wie es dann S. Paulus vn̄ S. Petrus
+        <lb/>auch Christus selbs im euangelio heißt / Dann sie sehen an ds
+        <lb/>groß überschwencklich geschenck / das Christus mit sey
+          <lb break="no"/>nem leyden vnd verdienst gantz vnd gar ist vnser worden.
+        <lb/>So ist nun das leyden Christi so mechtig vnd starck / das
+        <lb/>es füllet hymel vnd erden / vnd zerreyßt des teüfels vnd der
+        <lb/>hellen / todt vnd sünd gewalt vnd macht. Wenn du nun
+        <lb/>solchen schatz zu deiner anfechtung vnd leyden heltest / so
+        <lb/>würde dichs dann ein geringer schaden düncken gegen sol
+          <lb break="no"/>chem gůt / das du ein wenig gůts / ehr / gesundheit / weyb /
+        <lb/>kind / dein eygen leib vnd leben verliest. Wilt du aber sol
+          <lb break="no"/>cher grossen schatz nit achten / vnd nichts darumb leyden /
+        <lb/>wolan / so far hynē hyn / vnd laß es / Wer nit glaubt / dem
+        <lb/>würdt auch nichts von solichen vnaußsprechlichen güt
+          <lb break="no"/>tern vnd gaben.
+        </p>
+        
+        <p>
+          <lb/>Weiter sol sich ein yeglicher Christ also schicken / das er
+          <lb/>gewiß sey / das solichs leyden jm soll kummē zum besten /
+          <lb/>das auch Christus vmb seines worts willen / nit allein soli
+          <lb break="no"/>ches leiden vns wil helffen tragen / sonder auch zum bessern
+          <lb/>keren vnd werden. Dadurch sol vns nun aber mal soliches
+          <lb/>creutz lieblicher vnd leidlicher werden / das vnser lieber got
+          <lb/>vns so vil gewürtz vnd labnüsser wil in vnser leyden ge
+          <lb break="no"/>ben / das wir alle vnsere anfechtung vnd kümmerniß mü
+          <lb break="no"/>ten tragen / wie dann der heylig Paulus sagt i. Corint. 10.
+          <lb/>Got ist getrew / vn̄ lest vns nit mehr anfechten / dann wir er
+          <lb break="no"/>tragen können. Ja er schafft auch mit der anfechtung das
+          <lb/>außkumen / dz wirs ertragē mögen. Das ist aber war / wenn
+          <lb/>das leyden vnd anfechtung am hefftigisten ist / so dünge
+          <lb/>vnd drückt es also / das sich einer läßt düncken / er künn nit
+          <lb/>mehr / er müß vntergeen. Aber kanst du dann an Christum
+          <lb/>dencken / wolan / so würdt der trew got kummen / vn̄ würdt
+          <lb/>dir helffen / wie er dann den seinen geholffen hat von anbe
+          <lb break="no"/>gyn̄ der welt / Dann es ist ya eben derselbig got / der alweg ge
+          <lb break="no"/>wesen ist / So ist auch eben ds die ursach / darümb wir leyden
+          <lb/>da alle heyligen vmb gelitten haben / von anbegyn̄.
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a3v.jpg" n="a3v"/>      
+        
+           <lb break="no"/>gantz welt müß vns ya deß zeügnus geben / das wir nicht
+           <lb/>leyden vmb offendlicher schand oder laster wegen / als da
+           <lb/>sind ehebruch / Dieberey / mörderey / etc. sonder darüb müßten
+           <lb/>wir leyden / das wir bey dem wort Gottes beleyben / dassel
+          <lb break="no"/>big predigen / hören / lernen / vnd treyben. Weyll diß nun
+           <lb/>die vrsach vnseres leydens ist / so laß es ymer geen / wir habe̅
+           <lb/>eben dieselbigen verheissung vnd vrsach zu leyden / welche
+           <lb/>alle heyligen ye vnd ye gehabt haben. So mügen wir vns
+           <lb/>nun wol derselben verheissung auch trösten / vn̄ vns an die
+           <lb/>selben in vnserm leyden vnd trübsal halten / wie es dann
+           <lb/>hoch vonn nöten ist.
+        </p>
+        
+        <p>
+          <lb/>So sollen wir vns nun also inn vnserm leyden halten /
+          <lb/>das wir das gröst vnd meyste auffsehen auff die verheissun
+          <lb break="no"/>gen haben / das vnser creutz vnd anfechtung vns zum be
+          <lb break="no"/>sten gewendt sollen werden / dohin do wirs nymmer mehr
+          <lb/>hetten können wünschen / noch gedencken. Vnd diß ist
+          <lb/>eben das stück / welchs ein vnterscheyd macht zwischen d̄
+          <lb/>Christen vn̄ aller anderer menschē leyden vn̄ anfechtungen.
+          <lb/>Denn ander leüt haben auch jr vnglück vn̄ creutz / wiewol sie
+          <lb/>ein zeit lang im rosen garten sitzen / vnd sich des glücks vn̄
+          <lb/>güts nach allem jrem willen brauchen. Wenn nun dieselbi
+          <lb break="no"/>ge in anfechtung vnd leyden kummern / so können sie sich
+          <lb/>mit nichten trösten / dann sie haben die gewaltigen ver
+          <lb break="no"/>heyssung / vnd züversicht zu Gott nit / die die Christen ha
+          <lb break="no"/>ben / sie können sich nit trösten / das in Got die anfechtung
+          <lb/>wölle helffen tragen / vil weniger können sie sich des zu jm
+          <lb/>versehen / das yhn solich anfechtung vn̄ leyden zum besten
+          <lb/>geratten solte. So geet es dann / wie wir sehen / das sie
+          <lb/>auch in geringen anfechtungen nit können bestehen / Wo es
+          <lb/>aber ist in ernstlichen handeln vnd sachen / da verzweyfeln
+          <lb/>sie gar / bringen sich selbs vmb / oder wöllen sonst auß der
+          <lb/>haut faren / das jn die gantz welt zu eng würde. Also kön
+          <lb break="no"/>nen sie keyn maß weder in glück / noch vnglück halten /
+          <lb/>Gehet es jn wol / so sind sie die frevelichste / trutzigsten vn̄
+          <lb/>hochmüttigsten leüt / die man finden sol / Gehet es jn übel /     
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a4r.jpg" n="a4r"/>         
+        
+          <lb break="no"/>so sind sie gar erschlagen vnd verzagt / mehr dann kein weyb /
+          <lb/>wie man dann sihet / die yetzund also scharren / büchen vnd
+          <lb/>trützen / die warent in der Bäurischen auffrür so verzagt /
+          <lb/>das sie nicht wüsten wo sie solten bleyben. Es muß also
+          <lb/>gehen / wen̄ man die verheyssung vnd Gottes wort nicht
+          <lb/>hat / Aber die Christen haben yhren trost auch im leyden vn̄
+          <lb/>in der anfechtung.
+        </p>
+        
+        <p>
+          <lb/>Das man aber söliches dester baß verstehen müge / will
+          <lb/>ich ein exempel sagen / darin̄ yhr seyn sehen mögt / wie der
+          <lb/>Christen leyde abgemalt vn̄ entworffen ist. Ihr wisset alle
+          <lb/>wol / wie man S. Christoffel malet hin vnd wider / Solt
+          <lb/>aber nit gedencken / das ye ein man gewesen sey / der also
+          <lb/>geheyssen habe / oder leyblich das gethon / das man vom
+          <lb/>Christoffel sagt / sonder der dieselbige legend oder fabel ge
+          <lb break="no"/>macht hat / ist on zweyffel ein feiner vernünfftiger man ge
+          <lb break="no"/>wesen / der hat solches bild dem eynfältigen volck für wöl
+          <lb break="no"/>len malen / das sie hetten ein exempel vnd ebenbild eynes
+          <lb/>Christenlichen lebens / wie dasselbig gericht vnd geschickt
+          <lb/>sein sol / vnd hats also eben fein getroffen vnd abgemalet.
+          <lb/>Dann ein Christ ist wie ein grosser riße / hat grosse starcke
+          <lb/>beyn vnd arm / wie man dann den Christoffel malet / dann er
+          <lb/>tregt auch ein sölichen last / welchen die gantz welt / keyn
+          <lb/>keyser / könig / noch fürst möchte ertragen / Daher heißt auch
+          <lb/>ein yeglicher Christ Christoferus / das ist ein Christträger /
+          <lb/>darumb das er den glauben annymbt. Wie geet es jm aber
+          <lb/>darüber? Also / Wenn man den glauben annymbt / so lest
+          <lb/>sich einer nicht düncken / das es ein schwer hart ding dar
+          <lb break="no"/>umb sey / Es dünckt einen ein kleynes kindlein sein / das
+          <lb/>hübsch vnd wolgestalt ist / vnd leicht zů tragen / wie dem
+          <lb/>Christoffel geschach. Dann das Euangelion lest sich am er
+          <lb break="no"/>sten ansehen / das es ein feyne / liebliche / freundtliche / vnd
+          <lb/>kindische lere sey / Wie wir dann sahen im anfang / da es
+          <lb/>anfieng / platzet yederman darauff / vnd wolt auch Euan
+          <lb break="no"/>gelisch sein / Da ward also ein verlangen vnd durst darnach /
+          <lb/>das kein Backoff so hitzig ist / als die leüte dazumal waren.
+          
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a4v.jpg" n="a4v"/> 
+          
+          <lb break="no"/>Aber wie gieng es? Es gieng eben zů wie mit dē Christoffel
+          <lb/>der erstür nit eher / wie schwer das kindlin war / biß er in das
+          <lb/>wasser kam / da es am tieffsten war. Also auch mitt dem
+          <lb/>Euangelio / da es eynriß / giengen die wellen daher /
+          <lb/>Bäpst / Bischoff / Fürsten / vnd das doll gesind / setzten sich
+          <lb/>dawider / da fület man allererst / wie das kindlin so schwer
+          <lb/>zu tragen wer / Denn es tübt dem gůten Christoffel so nahent
+          <lb/>das er schier doob ersaufft. Wie jr sehet / das es yetzt auch
+          <lb/>steet / das auff yhnere setzten / die dem wort entgegen seyn
+          <lb/>so vil practicken / kindlin / trug / vnd list ist / alles dahin ge
+          <lb break="no"/>richt / das sie vns im wasser ersäuffen möchten / Da ist eyn
+          <lb/>solch drōwen vn̄ schrecken / das wir vns zů todt möchten
+          <lb/>fürchten / wenn wir nit ein andern trost dagegen hetten.
+          <lb/>Wolan wer den Christũ / das liebe kindlin auff sich geladē
+          <lb/>hat / der muß jn eintweder gar hinüber durch das wasser
+          <lb/>hindurch tragen / oder ersauffen / da ist keyn mittel / Ersauf
+          <lb break="no"/>fen ist nit gůt / darumb wöllen wir mit dem Christo durch
+          <lb/>das wasser hindurch / wenn es gleich noch ein mal das an
+          <lb break="no"/>sehen hette / als müßten wir dryn bleyben. Wir haben ya die
+          <lb/>verheissung / wer Christum hat / sich auff yhn verlesse / vnd
+          <lb/>glaubt / das derselb frey mit dem Dauid sage kan / Psal. 27.
+          <lb/>Ob sich wider mich ein heer legt / sol sich doch mein hertz
+          <lb/>nicht förchten / ob sich streyt wider mich erhebe / will ich
+          <lb/>mich darauff verlassen. Laß sie scharren vnd büchen / drōwen
+          <lb/>vnd schrecken / wie sie wöllen / wer das wasser noch so
+          <lb/>tieff / so wöllen wir mit dem Christo hindurch.
+        </p>
+        
+        <p>
+          <lb/>Also gehet es in allen andern stücken / wenn es angehet / so
+          <lb/>wil es zů schwer werden / es sey sünde / teüfel / todt oder hel
+          <lb/>oder auch vnser eygen gewissen. Wolan wie soll man jm
+          <lb/>thun? wo sollen wir hin lauffen / vnd vns schützen? Es lest
+          <lb/>sich bey vns nit anders ansehen / dann wölle es gantz vnd
+          <lb/>gar zů boden gehen / vnd zerfallen / Aber auff jhenem theyl
+          <lb/>sind sie sicher / vnd stolz / meynen sie habens schon. Jch sihe
+          <lb/>es auch wol / das der lieb Christofel sinkt / dennoch kompt
+          <lb/>er herauff / dann er hat einen Bawme / da helt er sich an.Di        
+ 
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b1r.jpg" n="b1r"/>
+        
+          <lb break="no"/>ser Bawme sind die verheissung / das Christus mitt vnserm
+          <lb/>leyden ein sunderlichs wil thun / Jn der welt (spricht er)
+          <lb/>werdet jr zwangk vnd trübsal haben / aber in mir werdet jr
+          <lb/>frid haben. Item S. Paulus / Wir haben einen getrewen
+          <lb/>Got / der vns auß der anfechtung hilfft / das wirs ertragen
+          <lb/>können. Dise sprüch sind stecken / ja bäumen / da sich einer
+          <lb/>an helt / vn̄ lest das wasser brausen vn̄ rauschen wie es wil.
+        </p>
+        
+        <p>
+          <lb/>Also haben sie mit dem Christofel ein exempel vnd bild
+          <lb/>vns für malen wöllen / das sie vns in vnserm leyden sterck
+          <lb break="no"/>ten vnd lereten / das dz zagen vnd schrecken nit so groß sey /
+          <lb/>als der trost vn̄ die verheissung / das wir also wissen sollen /
+          <lb/>das wir nit werden rüchtig sein in disem leben / weil wir Chri
+          <lb break="no"/>stũ tragen / sonder das wir in der anfechtung vnser augen
+          <lb/>von dem gegenwertigen leiden zu dem trost vn̄ den verheis
+          <lb break="no"/>sungen wenden sollen / Denn werden wir erfaren / das es war
+          <lb/>ist / das Christus sagt / Jn mir werdet jr frid haben. Dann das
+          <lb/>ist der Christen kunst / da wir alle an zu lernen haben / das wir
+          <lb/>auff das wort sehen / vnd thün weit auß den augen alle anli
+          <lb break="no"/>gende vnd beschwerende noet vn̄ leyden. Das fleysch aber
+          <lb/>kan solche kunst gar nit / es sihet nit weiter / dann auff das ge
+          <lb break="no"/>genwertig leyden. Dann das ist auch des teüffels art eine / das
+          <lb/>er ds wort weit auß den auge rückt / dz einer nit mehr sihet /
+          <lb/>denn die not die ytzunde ist / Wie er yetzt mit vns auch
+          <lb/>thůt / wolt gern / das wir ds wort gar verleügneten vn̄
+          <lb/>vergässen / vn̄ allein auff die fleyschligkeit / so vns vom Babst
+          <lb/>vn̄ dem Türcken auff dem hals ligt / sähen / Gerädt jm dann
+          <lb/>das spil / so ersäufft er vns in der not / das wir nichts dann
+          <lb/>solches brausen vn̄ saussen sehen / Aber das sol nit sein / Dann
+          <lb/>es gehet also zu / wil einer ein Christ sein / vn̄ nach dē fülen
+          <lb/>sich richten / so verleüret er als bald Christum / Für das ley
+          <lb break="no"/>den vn̄ creutz / als seer du ymmer kanst / auß dem hertzen
+          <lb/>vn̄ syn schlagen / Sonst wenn man jm lang nach denckt /
+          <lb/>so würdt übel erger. Bist du in anfechtung vnd leyden / so
+          <lb/>sprich also / wolan / diß creutz hab ich mir ya nit selbs erwelet
+          <lb/>vn̄ zůgericht / es ist des lieben worts Gottes schulde / das
+
+
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b1v.jpg" n="b1v"/>       
+      
+          <lb break="no"/>jch solches leyde / vnd das ich Christum habe vnd lere. So
+          <lb/>laß es ymer gehen im namen Gottes / jch wils den lassen
+          <lb/>walten vn̄ aufffechten / der mir solches leyde langest zů vor
+          <lb/>gesagt / vn̄ mir sein göttliche gnedige hilff verheyssen hat.
+          <lb/>Wenn du dich also in die schrifft hineyn gibst / so wyrst
+          <lb/>du trost empfinden / vnd würdt all dein sach besser / der du
+          <lb/>sonst mit keinem fürnemen / mittel / noch weyß steuren
+          <lb/>kanst. Kan sich doch ein kauffman also schicken / das er vmb
+          <lb/>gelt vn̄ gůts willen zů gewinnen zeucht von haus vn̄ hofe /
+          <lb/>weib vnd kindt / vnd wagt vmb des schendlichen gewinß
+          <lb/>wegen / sein leib vnd leben / vnd hat doch kein gewisse ver
+          <lb break="no"/>heissung noch zůsagung / das er gesund werde wider heym
+          <lb/>zů weib vn̄ kind komen / dannoch ist er so tollküne vnd ver
+          <lb break="no"/>wegen / vn̄ wagt sich frey dahin in solche ferligkeyt on alle
+          <lb/>verheissung. Kan nun ein solchs ein kauffman thun / vmb
+          <lb/>gelts vn̄ gůtes willen / spiy du dich / dz wir ein geringes creutz
+          <lb/>mit tragen wollen / vn̄ wöllen dannoch Christen sein / vnd
+          <lb/>haben darzů den baume in vnsern feusten / daran wir vns
+          <lb/>wider die wellen halten / nemlich das wort vnnd die star
+          <lb break="no"/>cken seinen verheissung / das wir ya nicht sollen von den
+          <lb/>wasserwogen ersäufft werden.
+        </p>
+        
+        <p>
+          <lb/>Also thůt jm auch ein reüter / der gibt sich dahin in krieg / da
+          <lb/>so vil spieß / helleparten vnd büchsen auff yhn gericht sein /
+          <lb/>hat auch kein verheissung / der er sich trösten kündt / denn
+          <lb/>allein seinen tollen synn / noch gehet ers hynan / So doch
+          <lb/>dasselb gantz leben nichts anders ist / dann ein hartes leben
+          <lb/>vnd leyden. Also thun yhm die Papisten auch / die lassen sich
+          <lb/>keyner mühe noch arbeyt gerewen / nur das sie yhren grewel
+          <lb/>vn̄ abgötterey wider auffrichten. Wie vil haben sie nur / sind
+          <lb/>der zeit do das Euangelion ist angangen / rathschlag fürgenom
+          <lb break="no"/>men / vnd noch heüttigs tags für vnd für einen über den an
+          <lb break="no"/>dern / die alle zů ruck sind gangen / vnd zů al schen worden /
+          <lb/>auch yetzund noch / lassen sie sich düncken / vnd sind gewiß /
+          <lb/>sie wöllens hinaus singen / vnd das wort Gottes vnterdrü
+          <lb break="no"/>cken / gehen also in einer lauttern tollkühnheyt herein.
+        </p>
+      
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b2r.jpg" n="b2r"/> 
+        
+        <p>
+          <lb/>Dürffen nun kempffen / reütter / Papisten / vnd solchs
+          <lb/>gesind ein solchen mut schöpffen / solch fahl / mühe vnd ar
+          <lb break="no"/>beyt auff sich zu laden vnd leyden / solten wir vns ya billich
+          <lb/>schamen / das wir vns des leydes vnd creutz wegerten / So
+          <lb/>wir doch wüsten / zum ersten das es Got also geordnet hat /
+          <lb/>das wir sollen leyden / vnd das es nit anders kan sein. Zum
+          <lb/>andern / so wissen wir vnser verheissung vnd zůsagen auch /
+          <lb/>das / ob wir gleich nit so gůte Christen sind / wie wir woll
+          <lb/>sein solten / vnd blōd vnd schwach / Beide in leben vnd glau
+          <lb break="no"/>ben sind / er dannoch sein wort wil vorteydingen / darumb
+          <lb/>alleint das es sein wort ist / Das wir billich also trotzen vnd
+          <lb/>sagen können / Wenn gleych zehen Bäpst / oder Türckisch
+          <lb/>teüfel werē / so wil ich sehen / ob sie alle zůsamen den man /
+          <lb/>der do Christus heyst / büchen wollen. Das mügen sie wol
+          <lb/>thun / das sie ein spil anrichten / das ob yhrē kopff auß
+          <lb break="no"/>gehet / aber dem wort werden sie nichts abbrechen. Vnnd
+          <lb/>solchs sol vnd wirdt geschehen / ob wir gleich schwach im
+          <lb/>glauben sind.
+        </p>
+        
+        <p>
+          <lb/>Das ist nu die rechte kunst / dz wir also im leydē vn̄ creutz
+          <lb/>auff das wort vn̄ die tröstlichen zůsagung sehen / vn̄ den sel
+          <lb break="no"/>ben glaube geben / wie er dann spricht / Jn mir werdet yhr frid
+          <lb/>haben / aber in der welt trübsal. Als wolt er sagen / Sagt vn̄
+          <lb/>schrecken würdt euch gewiß vnter die augen schlagen /
+          <lb/>wenn yhr euch meins worts an werde nemen. Aber laßt kom
+          <lb break="no"/>men / solchs würdt euch begegnen vnd widerfaren / vmb
+          <lb/>meynet willen / So seit nu getrost / ich wil euch nit lassen /
+          <lb/>jch wil bey euch sein / vnd euch helffen. Es sey nun die an
+          <lb break="no"/>fechtung als groß sie ymer wöll / so würdt sie dir gering vn̄
+          <lb/>leicht werden / wenn du dir solche gedancken kanst auß
+          <lb/>dem wort Gottes schöpffen. Darumb sol sich auch ein ye
+          <lb break="no"/>glicher Christ also rüsten / das er in der anfechtung sich also
+          <lb/>schütze vnd verware / mit den seynen tröstlichen zůsagung
+          <lb break="no"/>en / die vns Christus vnser lieber herr gelassen hat / wenn
+          <lb/>wir vmb seines worts willen leyden. Thůt man es aber nit
+          <lb/>vnd lest die tröstliche sprüch faren / wenn das creutz kompt /
+      
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b2v.jpg" n="b2v"/> 
+        
+           <lb/>so wirdt es vns eben gehen wie der Eua im Paradiss / die
+           <lb/>het Gottes gebot / mit demselben solt sie des teufels eins
+           <lb/>geben vnd anreitzung hinder sich geschlagen haben / Aber
+           <lb/>was thet sie? Sie lest das wort faren / vnd bekümmert sich
+           <lb/>mit den gedancken / wie es so ein feiner apffel sey / Es were
+           <lb/>an dem geringen ding nicht vil gelegen / so gieng sie da
+           <lb break="no"/>hin. Vnd wenn man das wort faren lest / so kan es nit an
+           <lb break="no"/>ders zůgehen. Wenn wir aber bey dem wort bleyben / vnd
+           <lb/>vns an dasselb halten / so werden wir gewiß erfaren / das
+           <lb/>wir sein herauß kummen / vnd obligen werden. Sihe dise
+           <lb/>zwey stück leren wir / wenn wir von dem leyden vnd creutz
+           <lb/>predigen / Vnd wer vns die schuld gibt / als lereten wir gar
+           <lb/>nichts vom creutz / der thůt vns vnrecht. Das aber thůn
+           <lb/>wir nit / das wir vnser leiden vordienstlich gegen Got mach
+           <lb break="no"/>ten / nein / weit weit hinweg / Dasselb hat Christus allein
+           <lb/>gethun / vn̄ sonst nyemand / deß sol auch allein die eer gebüre.
+        </p>
+        
+        <p>
+          <lb/>Zum dritten wollen wir auch sehen / warumb doch vnser
+          <lb/>herr Gott vns solches leyden zůschickt. So ist nun diß die
+          <lb/>erste vrsach / das er vns also seinem lieben son Christo will
+          <lb/>gleichförmig machen / das wir yhm gleich werden hie im
+          <lb/>leyden / vnd dort in yhenem leben in der ehre vnd herrlig
+          <lb break="no"/>keyt / wie er sagt / Mußte nicht des menschen son leyden /
+          <lb/>vnd also gehen zur herrligkeit? Diß aber kan Gott mit vns
+          <lb/>nit würcken / dann durch leyden vnd anfechtung / so er vns
+          <lb/>durch den teüfel / oder sonst böse leüt zůschickt.
+        </p>
+        
+        <p>
+          <lb/>Die ander vrsach ist dise / das ob gleich got vns nit wolt
+          <lb/>angreyffen vnd plagen / so wil es doch der teüfel thun / der
+          <lb/>kan das wort gar nit leyden / Er ist sonst von natur so boß
+          <lb break="no"/>hafft vnd gifftig / das er nichts gůts kan noch mag leyden /
+          <lb/>Es ist yhm leide / das ein apffel auff einem Baume wechst /
+          <lb/>es thůt yhm wehe / vnd verdeust yhn / das du ein gesunden
+          <lb/>finger hast / Vnd wenn ers thun kündt / so zürisse er alles
+          <lb/>was do ist / vnd würffs in einander. Aber keinem ding ist
+          <lb/>er als feindt / als dem lieben wort / vnd das darumb / er kan
+          <lb/>sich vnter allen andern creaturen bergen / allein das wort
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b3r.jpg" n="b3r"/> 
+          
+          <lb/>das deckt yhn auff / das er sich nit bergen kan / vnd weyset
+          <lb/>yederman wie schwartz er ist. Da wehet vnd sperret er sich
+          <lb/>vnd zeucht die Fürsten vnd Bischoffe aneinander / vnnd
+          <lb/>meint sich also wider zů deckten / Aber es geschicht nit / das
+          <lb/>wort zeucht jn dennocht an das liecht / darumb ruget er
+          <lb/>auch nit / vnd weil jn das Euangelion nicht wil leyden / so
+          <lb/>wil ers widerumb nit leyden / da hebt es sich deñ / Vnd wenn
+          <lb/>vns vnser lieber Got nit durch seine Engele schützet / vnd
+          <lb/>wir des teüffels list / anschleg vnnd trug sehen kondten / so
+          <lb/>muste einer von dem anblick allein sterben / also vil Carta
+          <lb break="no"/>nen vnd püchsen hat er auff vns gericht / Aber got weyhet /
+          <lb/>das sie nit treffen sollen. Da kommen die zween helden zů
+          <lb/>samen / ein yeglicher thůt als vil jm müglich ist. Der teüfel
+          <lb/>Beypet jnre ein stuck über das ander / dann er ist ein mech
+          <lb break="no"/>tiger / boßhafftiger / vnd vnruhigter geyst / So ist dann zeyt /
+          <lb/>das vnserm lieben Got sein ehre auch angehe / Dann das
+          <lb/>wort das wir füren / ist ya ein schwach / ellendt wort / vnd
+          <lb/>wir die es haben vn̄ treyben / sind auch schwache vnd ellen
+          <lb break="no"/>de menschen / vnd tragen den schatz in dem yrdischen ge
+          <lb break="no"/>fess / wie Paulus sagt / welchs man leichtlich zů schlagen
+          <lb/>vnd zů brechen kan. Darumb lest sich der böß geist keyner
+          <lb/>mühe verdriessen / vnd schlecht getrost darnach / ob er das
+          <lb/>topffen zůschlagen kondt / Dann es stehet yhm so vnter die
+          <lb/>nasen / das ers nicht kan leyden / da hebet es allererst recht
+          <lb/>an / mit wasser vnd fewr das klein füncklin zů leschen vnd
+          <lb/>dempffen / da sihet nu vnser herr got ein weil zů / vnd stecket
+          <lb/>vns zwischen thür vnd angel / das wir also mit vnser erfa
+          <lb break="no"/>rung lernen / das das klein / schwach / ellende wort stercker
+          <lb/>ist / dann der teüfel vnd die hellischen pforten. Das schloß
+          <lb/>sollen sie stürmen / der teüfel mit seinem anhang / laß sie
+          <lb/>nur stürmen / sie sollen etwas da finden / dz yhn den schweiß
+          <lb/>sol austreyben / vnd dannoch nit gewinnen / dann es ist
+          <lb/>ein fels / wie es Christus nennet / der nit zů gewinnen ist.
+          <lb/>So laßt vns leyden was vns zůkombt / so können wir er
+          <lb break="no"/>faren / das vns Gott beystehen will / vns zů schützen vnd
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b3v.jpg" n="b3v"/> 
+          
+          <lb/>schirmen / wider disen feind vnd allen seinen anhang.
+        </p>
+        
+        <p>
+          <lb/>Zum dritten ist es auch hoch von nötten / das wir leyden
+          <lb/>nit allein darumb / das Got sein ehr / macht / vnd sterck wi
+          <lb break="no"/>der den teüffel beweyse / sonder auch darumb / das vns der
+          <lb/>treffliche schatz / den wir haben / wenn es ausser der not vn̄
+          <lb/>leyden ist / nur schmarchēdt vnd sicher machet / Wie wir
+          <lb/>dann sehen / vnnd leyder all zů gemein ist / das vil yetzund
+          <lb/>des heiligen Euangelions so mißbrauchen / das es sünde
+          <lb/>vnd schand ist / alß weren sie alles dings durch das Euan
+          <lb break="no"/>gelion also gefreyet / das sie nichts mehr thun / geben vnd
+          <lb/>leyden solten. Solche boßheit kan vnser Gott nit steüren /
+          <lb/>dann durch das creutz / Er muß vns also üben vnd treiben /
+          <lb/>das der glaub zůnheme / vnd stercker werde / vnnd wir also
+          <lb/>tieffer in vns den heyland bringen. Dann als wenig wir
+          <lb/>essens vnd trinckens geraten können / als wenig können
+          <lb/>wir anfechtung vnd leydens geraten. Darumb so müssen
+          <lb/>wir nothalben von dem teüffel durch veruolgung / oder sunst
+          <lb/>einem heymlichen pfeil / der vns durch das hertz auß dringet /
+          <lb/>geplagt werden / wie S. Paulus auch klaget. Weil es dann
+          <lb/>nun besser ist / das man ein creutz habe / Dann das man on
+          <lb/>creutz sey / sol nyemandt sich dafür entsetzen / noch erschrec
+          <lb break="no"/>ken. Du hast ya gůte starcke verheissung / der du dich trös
+          <lb break="no"/>sten kanst / So kan auch das Euangelion sonst nit herfür
+          <lb/>kommen / dann durch vnd im leyden vnd creutz.
+        </p>
+        
+        <p>
+          <lb/>Zum letzten ist der Christen leyden deßhalben edeler vn̄
+          <lb/>köstlicher für aller anderer menschen leyden / das dieweil
+          <lb/>sich Christus in das leyden gestecket hat / hat er auch aller
+          <lb/>seiner Christen leyden geheyliget. Sind wir denn nit arme
+          <lb/>tolle leütte / wir sind geloffen gen Rom / Trier / vnd an an
+          <lb break="no"/>dere orter / deß hailigthumbs halben zů besuchen. Warumb
+          <lb/>lassen wir vns auch das creutz vnd leyden nit lieb sein / wel
+          <lb break="no"/>ches Christo vil neher ist gewesen / vnd yhn neher gerüret
+          <lb/>hat / dann nyergendts kein fley? Dees hat yhm nit den leyb
+          <lb/>allein / sunder das hertz gerüret. So ist nun durch das ley
+          <lb break="no"/>den Christi / auch alle seiner Heyligen leyden eytel hey
+          <lb break="no"/>thumb
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b4r.jpg" n="b4r"/>
+
+          <lb/>thumb worden / dann es ist mit dem leyden Christi befesti
+          <lb break="no"/>chen. Derhalbe sollen wir alles leyde nit anders annehmen /
+          <lb/>dann heyltthumb / dann es ist auch warlich heylthumb.
+        </p>
+          
+        <p>
+          <lb/>Weyl wir denn nu wissen / das es Gott so wol gefellet /
+          <lb/>das wir sollen leyden / vn̄ gottes ehe in vnserm leyden sich
+          <lb/>ertzeigt vnd sehen lest besser / dann in keinem andern stück /
+          <lb/>Vnd weyl wir so lest sind / das wir on leyden im wort vnd
+          <lb/>glauben nicht mügen bestehen / vnd haben dennoch dane
+          <lb break="no"/>ben die edlen theüren verheissung / das vnser creutz / das
+          <lb/>vns got zůschickt / nicht ein schlecht ding sey / sonder eytel
+          <lb/>köstlichs vnd edels heylthumb / warumb wöllen wir vns
+          <lb/>denn zů leyden wegern? Wer nit leyden wil / der fare hin /
+          <lb/>vnd sey ein juncker / Wir predigen solchs nur den fromen
+          <lb/>die do wollen Christen sein / die andern sollens doch nicht
+          <lb/>hinauß füren. Haben wir doch so vil trost vnd verheissung
+          <lb/>das er vns nicht wöll im leyden stecken lassen / sonder her
+          <lb break="no"/>auß helffen / wenn gleich alle menschen daran verzweyfel
+          <lb break="no"/>ten. Darumb ob es gleych wehe thůt / wolan / muß du doch
+          <lb/>sonst etwas leiden / es kan vnit allweg gleich zůgehen / Es
+          <lb/>ist eben so gůtt / ya tausent mal besser vmb Christũ willen
+          <lb/>gelitten / der vns trost vnd hilff im leydē hat zůgesagt / dann
+          <lb/>vmb des teüffels willen leyden / vnd on trost vnd hilff ver
+          <lb break="no"/>zagen vnd verderben.
+          <lb/>Vnnd auff die weyse leren wir vom
+          <lb/>creutz / vnd yhr solts auch gewonen / das yhr fleissig vnter
+          <lb break="no"/>scheydet das leyden Christi von allen andern leyden / das
+          <lb/>yhenes ein hymelischs / vnsers ein weltlichs leyden sey /
+          <lb/>das sein leyden alles thue / vnsere nichtes thue / dann das wir
+          <lb/>Christo gleichförmig werden / Das also das leyden Christi
+          <lb/>ein herrn leyden sey / vnsers ein knecht leyden. Vnd welche
+          <lb/>anders dauon leren / die wissen weder was Christi leyden
+          <lb/>ist / noch was vnser leyden ist. Vrsach / die vernunfft kan
+          <lb/>nit anders / sie wolt gern mit yhrem leyden / wie mit allen
+          <lb/>andern wercken hofieren / das es etwas verdienet / derhal
+          <lb break="no"/>ben müssen wirs wol lernen scheiden. Das sey auff diß mal
+          <lb/>genůg geredt von dē exempel der passiō vn̄ von vnserm ley
+          <lb break="no"/>den / Got gebe das wir es recht fassen vnd lernen / Amen.
+        </p>
+      
+      </div>
+    </body>
+  </text>
+</TEI>

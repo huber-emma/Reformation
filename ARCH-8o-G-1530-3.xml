@@ -1,0 +1,545 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ein Brief an den Kardinal Erzbischof zu Mainz: a digital edition</title> 
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/>
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>6 folios.<note>complete</note></extent>
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+L+4130</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990128455740107026</idno>
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title>
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[JPEG]</note>
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(3).</p></note><!-- Fill in information indicated by square brackets -->
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Ein Brief an den Kardinal Erzbischof zu Mainz.</title>. </p> <!--Add title of source book-->
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p>
+        </note>
+      </notesStmt>
+      <sourceDesc> 
+        <biblFull>
+          <titleStmt>
+            <title>Ein Brief an den Kardinal Erzbischof zu Mainz</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>Johann Petreius für Georg Rottmaier, </publisher>
+            <pubPlace>Nürnberg:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p>
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language>
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-3">
+    <front><titlePage>
+        <docTitle> 
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-titlepage.jpg" n="titlepage"/>
+          
+          <titlePart type="main">
+            <lb/>Ein Brieff an den Car
+            <lb break="no"/>dinal Ertzbischoff           
+            <lb/>zu Mentz.
+            <lb/>Martini Luther.
+          </titlePart>
+        </docTitle>
+        <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    <body>
+      <div type="section" n="1">
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-titlepage-verso.jpg" n="titlepage verso"/>
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a2r.jpg" n="a2r"/>         
+     
+        <head type="chapter">
+          <lb/>Dem hochwirdigksten in
+          <lb/>Gott Vater / Durchleuchtig
+          <lb break="no"/>sten hochgebornen Fürsten vnd herrn / herrn Al
+          <lb break="no"/>bert / Tit. S. Grisogens Cardinal priester / Ertzbis
+          <lb break="no"/>schoff zu Mentz vnd Magdeburg / Primaten in Ger
+          <lb break="no"/>manien / vnd Administrator zu Halberstat. etc.
+          <lb/>Marggrauen zu Brandenburg .etc. mei
+          <lb break="no"/>nem gnedigsten herrn.
+        </head>
+        
+        <p>
+          <lb/><hi rend="init">G</hi>nad vnd fride in Christo Jhesu vnserm Herrn /
+          <lb/>hochwirdigster Durchleuchtigster Hochgebo
+          <lb break="no"/>rner Fürst gnedigster Herr / Ich hette wol lieber
+          <lb/>heimlich vnd mit meiner handschrifft disen brieff
+          <lb/>an E. K. F. G. geschrieben / so besorget ich mich / di
+          <lb break="no"/>ser schwinden zeyt / das er möcht etwas verruckt auskomen / vnd
+          <lb/>mir als den sonst vnd so gedeutet werden / vnd villeicht E. K.
+          <lb/>F. G. selbs auch damit in verdacht füren. Darumb hab ich den
+          <lb/>selbigen frey offentlichen durch den druck ans liecht wöllen ge
+          <lb break="no"/>ben / den gifftigen argwenigen deutern / damit vrsachen jhrs deu
+          <lb break="no"/>tens zu verkeren. Bitte vntertheniglich E. K. F. G. wolten
+          <lb/>mir solch schreiben gnediglich zu gut halten.
+        </p>
+        
+        <p>
+          <lb/>Denn die weil E. K. F. G. der fürnemest vn hohest Prelat
+          <lb/>in Deutschen landen ist / derhalben in disen sachen / mehr thun
+          <lb/>mügen denn sonst yemand / hab ich mich lassen meine gedancken
+          <lb/>vbermügen E. K. F. G. in sonderheyt vntertheniglich mit di
+          <lb break="no"/>ser schrifft zu ersuchen / auff das ich ya allenthalben reichlich
+          <lb/>mein thun / vnd mein gewissen gegen Gott vnd der welt bewa
+          <lb break="no"/>re / ob villeicht ein vnglück vnd Gottes zorn folgen würde (als
+          <lb/>ich warlich vbel fürchte) ich hiemit entschuldiget sey / als der ich
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a2v.jpg" n="a2v"/>  
+          
+          <lb/>auff alle wege habe friden helffen suchen vnd angebotten.
+          <lb/>E. K. F. G. haben der vnsern vbergeben bekentnis vnnd
+          <lb/>lere / on zweifel / sambt allen andern vernommen / Vnd versihe
+          <lb/>mich gantz tröstlich / sie sey der gestalt fürgetretten / das sie mit
+          <lb/>frölichem munde sagten thar / mit Christo yrhem herrn / Hab
+          <lb/>ich vbel geredt / so beweise / das es vnrecht sey / Hab ich aber recht geredt / was schlegstu mich? Sie schewet das liecht nicht / vñ
+          <lb/>weis zu singen aus psalm. 118. Ich rede von deinen zeugnissen
+          <lb/>für den Konigen / vnd helffehe nicht mit schanden. Denn wer die
+          <lb/>warheit thut / der kompt ans liecht / das seine werck offenbar
+          <lb/>werden. Denn sie sind in Gott gethon.
+        </p>
+        
+        <p>
+          <lb/>Da gegen kan ich wol achten / das vnser gegentheyl solche
+          <lb/>lere nicht annemen werde / vil weniger dieselbigen zu verlegen
+          <lb/>sich vnterstehen. Habe auch des gar kein hoffnung / das wir /
+          <lb/>der lere solten eins werden / denn yhr ding kan das liecht nicht
+          <lb/>so leiden / Vnd sind zu dem so durch bittert vnd entbrandt / das
+          <lb/>sie lieber inn die hellen ewige glüt füren / wenn sie gleich / da für
+          <lb/>yhnen offen stünde / ehe denn sie vns wichen / vnd yhre weyßheit
+          <lb/>lassen solten. Das müssen wir so lassen gehen vnnd geschehen.
+          <lb/>Wir sind an yhrem blüt vnschuldig.
+        </p>
+        
+        <p>
+          <lb/>Aber die gedancken habe ich / darumb ich auch an E. K.
+          <lb/>F. G. schreibe / weil vnser widdertheyll nicht kan vnser lere tade
+          <lb break="no"/>len / vnd wir mit diser bekentnis klerlich bezeugen vnd bewei
+          <lb break="no"/>sen / daß wir nicht vnrecht noch falsch geleret / Vnd derhalben
+          <lb/>auch nicht verdienet haben / das man vns so schendlich verdam
+          <lb break="no"/>men / so grewlich verfolgen solt / wie bißher vnd noch / geschehe.
+          <lb/>Ob doch so vil zu erlangen were / daß vnser widdertheyll / doch
+          <lb/>fride hielte / vnd nicht so lestert vnnd tödtet die vnschuldigen /
+          <lb/>vmb diser vnstrefflichen lere willen / die sie selbs müssen loben /
+          <lb/>zum aller wenigsten / damit / das sie da gegen erstummen / vnd
+          <lb/>nichts haben da widder zu reden / Denn das sie von vns nicht
+          <lb/>wollen geleret sein / noch vnser lere annemen / müssen wir lassen
+          <lb/>geschehen / wir zwingen niemandt / auch zur warheit nicht / wie
+          <lb/>sie doch zwingen zur lügen.
+        </p>
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a3r.jpg" n="a3r"/>
+        
+        <p>
+          <lb/>Hie bitte ich nu auffs vnterthenigst / weil kein hoffnung
+          <lb/>da ist / daß wir (wie gesagt ist) der lere eins werden / E. K.
+          <lb/>F. G. wolten sampt andern dahin arbeiten / das yhenes teil
+          <lb/>fride halte / vnd glaube / was es wölle / vnd lasse vns auch glau
+          <lb break="no"/>ben / diese warheit / die itzt für jhren augen bekand / vnd vnta
+          <lb break="no"/>delich erfunden ist. Man weis ja wol / das man niemand sol
+          <lb/>noch kan zum glauben zwingen / stehet auch weder ins Keisers
+          <lb/>noch Bapsts gewalt. Denn auch Gott selbs / der vber alle ge
+          <lb break="no"/>walt ist / hat noch nie keinen menschen / mit gewalt zum glau
+          <lb break="no"/>ben wollen dringen. Was vnterstehen sich denn solchs seine elen
+          <lb break="no"/>den armen creaturn / nicht allein zum glauben / sonder auch zu
+          <lb/>dem / das sie selbs für falsche lügen halten müssen / zu zwingen.
+        </p>
+        
+        <p>
+          <lb/>Wo aber solcher fride nicht zu erlangen ist / wolan / so ha
+          <lb break="no"/>ben wir das vorteil bey Gott / vnd den glimpff bey aller welt /
+          <lb/>das wir vnser lere frey offentlich bekant / fride gesucht vnd an
+          <lb break="no"/>gebotten haben / vnd doch nicht erlangen mügen / so man doch
+          <lb/>vns inn der lere nicht schuldig noch strefflich erfunden hat.
+          <lb/>Was Gott vnd vnser nachkomen hie zu sagen werdenn / das
+          <lb/>wird man wol erfaren / Vnd müssen vns trösten des exempels
+          <lb/>der lieben Apostel / Da auch die hohen priester vnd fürsten ym
+          <lb/>volck Jsrael (wie Lucas sagt Act. 3.) nichts kondten widder
+          <lb/>der Apostel that vnd wort auff bringen / hatten auch nichts das
+          <lb/>sie da wider reden mochten. Noch hielten sie nicht friede / Son
+          <lb break="no"/>der vber das / das sie die warheyt nicht annamen / da mit sie vb
+          <lb break="no"/>erzeugt vnd vberwunden waren / steupten vnd verfolgten sie
+          <lb/>die Apostel noch dazu.
+        </p>
+        
+        <p>
+          <lb/>Ja wie ists yhn auch zu lest drüber gangen? Wo sind sie
+          <lb/>nu? Wo ist Jerusalem? Es stund zwar auff vnter yhn Ga
+          <lb break="no"/>maliel / vnd gab yhn auch solchen rath / das sie solten friede hal
+          <lb break="no"/>ten / vnd die Apostel lassen machen / wenn sie es ja nicht wolten
+          <lb/>annemen. Aber es halff nicht. Wolt God / E. K. F. G. kondt /
+          <lb/>oder wer es were / ytzt auch ein Gamaliel seyn / der solchen rath
+          <lb/>des frides den andern fürschlüge / vnd sie beredete / ob villeicht
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a3v.jpg" n="a3v"/>
+          
+          <lb/>Gott gnade verleyhen wolte / das sie von jrem toben abliessen /
+          <lb/>vnd nicht so halsstarrig / wider yhr gewissen vnnd wider Gott
+          <lb/>stritten. Es ist ja der bester rath / den man inn diser sachen ha
+          <lb break="no"/>ben kan / Vnd Lucas solch exempl nicht vmb sonst so vleissig
+          <lb/>hat wollen schreiben. So ists ja gewißlich ein sunde in den hey
+          <lb break="no"/>ligen geyst / Die erkante warheit anfechten. Vnd zwar wir het
+          <lb break="no"/>ten sonst sunde gnug / dürfften nicht noch dazu die sunde in den
+          <lb/>heiligen geyst auch auff vns laden.
+        </p>
+        
+        <p>
+          <lb/>Aber das hören vnd achten sie nicht / Sie wollen faren / da
+          <lb/>die Juden hingefaren sind. Doch ob villeicht ettliche zu errettẽ
+          <lb/>were / das sie nicht mit yhnen führen / sonder den trewen rath Ga
+          <lb break="no"/>malielis annemen vnd folgeten / so thete E. K. F. G. hie mit
+          <lb/>nicht ein geringe Gottes dienst. Lieber Gott / schadet doch sol
+          <lb break="no"/>che lere euch nicht / helt sie doch fride / vñ leret fride / leßt euch blei
+          <lb break="no"/>ben wo yhr seid / leret auch / dz man euch alles lassen vñ nichts ne
+          <lb break="no"/>men solle / dz solt doch alleine gnugsam zum fride zubewegen / obs
+          <lb/>sonst die warheyt an yr selbs nicht thet / ja sie hilfft warlich euch
+          <lb/>alle erhalten / Vnd hats biß her gethan. Sol sie den ja singen /
+          <lb/>Qui retribuebant mihi mala pro bonis / aduersantur mihi / so
+          <lb/>ists nicht kein vnd euch allen nicht güt / das sie es von euch geyst
+          <lb break="no"/>lichen singen vnd vber euch klagen müß.
+        </p>
+        
+        <p>
+          <lb/>Wil aber weder fride / noch einigkkeit folgen / weder Gama
+          <lb break="no"/>lielis rath / noch der Apostel vnd der Juden exempl helffen / so
+          <lb/>laß faren / was nicht bleiben wil / Vnd zürne / wers nicht lassen
+          <lb/>wil. Er wird zorns vn frides / darnach er ringet / vbrig gnug
+          <lb/>finden. Wir wollen die weil mit den lieben Aposteln vnd iun
+          <lb break="no"/>gern singen (dz werden sie vns ja nicht weren / dz weiß ich wol).
+        </p>
+        
+        <p>
+          <lb/>Warumb toben die heyden / vnd die völcker tichten
+          <lb/>vmb sonst? Die könige auff erden lehnen sich auff /
+          <lb/>vnd die fürsten rathschlagen mit einander wider den
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a4r.jpg" n="a4r"/>
+          
+          <lb/>den HERRN vnd seinen gesalbten. Vnd sprechen.
+          <lb/>Laßt vns zu reissen yhre bande / vnd von vns wer
+          <lb break="no"/>ffen yhre seyle.
+        </p>
+        
+        <p>
+          <lb/>Wie könige vnd fürsten ytzt wider den HERRN vnnd
+          <lb/>seine erkandte warheit toben / vnd seine bande wölle zu reissen /
+          <lb/>von yhm vngefangen vnd vngelert sein / das sehet yhr alle selbs.
+          <lb/>Aber das solch toben vergeblich sey / sol man nicht ytzt / sonder
+          <lb/>mit der zeyt sehen. Denn es folget hernach.
+        </p>
+        
+        <p>
+          <lb/>Der im hymel wonet spottet yhr / vn̄ der HERR
+          <lb/>verlachet sie. Als denn wird er mit yhnen reden in sei
+          <lb break="no"/>nem zorn / vnd wird sie schrecken in seinem grimm.
+        </p>
+        
+        <p>
+          <lb/>Solchs sihet vnd gleubt man auch nicht / Man wills aber
+          <lb/>fülen / das sol auch geschehen. So wird sichs denn sehen lassen /
+          <lb/>wie vergeblich jhr toben sey gewest / wie kein sie die bande des
+          <lb/>HERRN zurissen / vn̄ sein wort vnterdruckt haben. Vns
+          <lb/>aber / die wir solchs glauben / vnd gewiß wissen / das geschehen
+          <lb/>muß / ists die weil tröstlich vnd lieblich. Denn wenn Könige vnnd
+          <lb/>Fürsten lang toben vnd tichten / reissen vnd werffen / So wer
+          <lb break="no"/>den sie vnsern König sitzen lassen / wie folget.
+        </p>
+        
+        <p>
+          <lb/>Ich aber hab meinen König gesetzt auff meinen
+          <lb/>heiligen berg Sion. Ich wil vom satz predigen / Der
+          <lb/>HERR hat zu mir gesagt / du bist mein son / heutt
+          <lb/>hab ich dich gezeuget.
+        </p>
+        
+        <p>
+          <lb/>Laß nu hie Könige toben / Babst wüten / Fürsten reissen /
+          <lb/>heyden werffen / Da sitzt der König vnd ist son zu hause / lie
+          <lb break="no"/>ben
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a4v.jpg" n="a4v"/>
+          
+          <lb/>ben zornigen iunckern / laßt yhn doch noch ein weil sitzen. Wen̄
+          <lb/>yhr vns nicht wöllet friden lassen / so bitte ich vmb Gottes wil
+          <lb break="no"/>len / wöllet doch disen König sitzen lassen / vnd nicht so bald her
+          <lb break="no"/>unter reissen / als yhr gedenckt / oder müß er ya herunter / lieber
+          <lb/>so schickt yhm doch zuuor einen veydebrieff / das er ewern grau
+          <lb break="no"/>samen zorn vnd drewen erfare / villeicht wird er sich rüsten mit
+          <lb/>schitz vnd bollwerg / das er für euch bleibe / auffs wenigst so lan
+          <lb break="no"/>ge / biß disser reichstag für vber sey / oder ewr zorn vnd vngna
+          <lb break="no"/>de sich lege.
+        </p>
+        
+        <p>
+          <lb/>Es wil auch dieser vnser König ein pfaff oder priester seyn /
+          <lb/>gibt predigen für von einem newen satz / nemlich / das er Got
+          <lb break="no"/>tes son sey / vn̄ solchs solle man glauben. Aber wen̄ ich als die kö
+          <lb break="no"/>nig vnd fürsten were / so wolten wir yhm das predigen verbie
+          <lb break="no"/>ten / das er vns nicht auß vnser gewehr setzet / vnnd mit seinem
+          <lb/>satz vnser eigen lere vnd alte gewonheyt zu nicht machet. Hui
+          <lb/>an yhn flugs / heißt yhn schweigen als einen ketzer. Aber sehet
+          <lb/>sonst mit zu / das yhr euch an einem priester nicht vergreifft / vnd
+          <lb/>das Si sua dente / gebe euch der donner vn̄ blitz / Denn es ist ein
+          <lb/>grosser Bischoff der yhn geweihet vnd zu predigen befolhenn
+          <lb/>hat / der heißt HERR / vnd hat yhm ein format gegeben /
+          <lb/>das heißt / Noli me tangere / vnd laut also
+        </p>
+        
+        <p>
+          <lb/>Heissche von mir / so wil ich dir die heyden zu erbe
+          <lb/>geben / vnd der welt ende zum eigenthum. Du solt
+          <lb/>sie mit dem eysen zepter zu schlagen / wie ein topffen
+          <lb/>soltu sie zu schmeissen.
+        </p>
+        
+        <p>
+          <lb/>Wer hat sein leben lang yhe ein grössere lügen gehöret? Die
+          <lb/>heyden / sind der zornigen König erbe / vnd die welt / der grimmi
+          <lb break="no"/>gen fürsten eygenthum. Das sihet man ya wol / das sie es da
+          <lb break="no"/>mit machen / wie sie wöllen / als mit dem yhren. Alle yre gedan
+          <lb break="no"/>cken
+
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-b1r.jpg" n="b1r"/>
+          
+          <lb/>cken vnd anschlege / sonderlich wider disen König vnd priester /
+          <lb/>gehen so sein für sich / als hette sie von Krebsen gehen gelernt / od<lb break="no"/>der wolten die Krebs gehen leren / das freylich diser König / nicht
+          <lb/>einen stecken zu eigen hat in aller welt. Aber schimpff lege dich.
+          <lb/>Höre was folget.
+        </p>
+      </div>
+      
+      <div type="section" n="2">
+        <head>
+          <lb/>Vnd nu yhr könige werdet klug / laßt euch züchti
+          <lb break="no"/>gen yhr richter auff erden.
+        </head>
+        
+        <p>
+          <lb/>So sol man König vnd fürsten anreden / Was wil das wer
+          <lb break="no"/>den? Es ist nie auff erden solch schendlich lesterlich ding geredt.
+          <lb/>Sollen König klug werden? Meinstu denn das sie narren sind?
+          <lb/>Sollen richter sich lassen züchtigen? Mein stu denn / das es kin
+          <lb break="no"/>der inn der schülen sind? Key König sind zuuor klug / haben ge
+          <lb break="no"/>setze / landrecht / Juristen vnd Rethe / wissen wol was sie thun
+          <lb/>sollen. Die richter auch also / haben auch / recht / sitten / weise vnd
+          <lb/>maß / brauch vnd gewonheyt / wissen wol was sie richten / vrtey
+          <lb break="no"/>len vn̄ halten sollen. Diser psalm ist gewißlich ein ketzer / schme
+          <lb break="no"/>het die König / lestert die Richter / vnd handelt als ein auffrürer
+          <lb/>wider die oberkeyt / vnd alle yhre rechte vnd gewonheyt / wil sie
+          <lb/>aus der alten gewehr treyben. Da zu spricht sie so verachtlich an /
+          <lb/>Jhr Könige / yhr richter / gleich wie ein herr seinen knecht / Du
+          <lb/>Hans / du Peter / als halte er sie gar vernichts / vn̄ weren gantz
+          <lb/>sein eygen / wie ein kue oder gans.
+        </p>
+        
+        <p>
+          <lb/>Ja lieber geselle / er bekennet / das Könige vnnd richter / wol
+          <lb/>vernunfft / recht / vnd weißheyt haben / denn es kan kein König
+          <lb/>noch richter seyn / der nicht recht vnd gesetz im lande habe / Aber
+          <lb/>er wirfft sie mit disem vers / alle vnter disen König / sampt yhren
+          <lb/>rechten / sitten / vernunfft / vnd was sie haben an weishheyt vnd
+          <lb/>gewalt / vnd spricht / Es sey nicht gnug an dem / das sie haben /
+          <lb/>Es sey wie schon recht oder sitten / es wolle / Sie sollen gegen di
+          <lb break="no"/>sem
+
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-b1v.jpg" n="b1v"/>
+          
+          <lb/>sem König vnd priester / narren vnd kinder werden / yhm zu höre̅
+          <lb/>vnnd sich lernen lassen / sein wort für meyster halten / vber alles
+          <lb/>gehen vnnd herrschen lassen. Weil denn der Bapst / so wol als
+          <lb/>der Keyser vnd König / auch nicht vber disen König sind / sonder
+          <lb/>vnter den richtern auff erden bleiben müssen / so sol sein Decret
+          <lb/>vnd sein lere / auch narr vnd kind seyn gegen dises Königs wort
+          <lb/>vnd lere / vnd sol nicht drüber richten / sonder / sich da durch rich
+          <lb break="no"/>ten vnd leren lassen.
+        </p>
+        
+        <p>
+          <lb/>Aber ytz zu Augsburg / werden sie disen Vers wol anders
+          <lb/>meistern vnd müstern / das er muß also lauten / Vnd nu du kö
+          <lb break="no"/>nig zu Zion werde klug / du richter ym himel laß dich züchtigen /
+          <lb/>Denn du bißt ein narr vnd kind gegen vns / Wir müssen vrtey
+          <lb break="no"/>len vnd setzen / was du für warheyt solt halte̅ oder nicht / Was
+          <lb/>wir nicht setzen / richten oder bevestigen / da sey dir trotz gebotte̅ /
+          <lb/>das du es für warheit haltest / oder müst herunter vnd mit den
+          <lb/>ketzern verbrannt seyn / so wirds gewißlich disem König gehen /
+          <lb/>Denn sie wollen warlich der gewehr vnentsetzt sein / das sie biß
+          <lb/>her vber Gottes wort meister vn̄ richter gewest sind. Was wil
+          <lb/>aber diser König dazu sagen / der auch in dʒ gewehr sitzt / vn̄ wil
+          <lb/>vngemeistert vnd vngerichtet seyn / sonder allein meistern vnnd
+          <lb/>richten? Da lassen sie yhn für sorgen / das wird er auch thun / wie
+          <lb/>folget.
+        </p>
+      </div>
+      
+      <div type="section" n="3">
+        <head>
+          <lb/>Dienet dem HERRN mit forcht / vnnd frewet
+          <lb/>euch mit zittern. Küsset den son / auff das er
+          <lb/>nicht erzürne / vnd yhre auff dem weg vmbko
+          <lb break="no"/>met / Denn sein zorn wird bald angehen. Wol al
+          <lb break="no"/>len die auff yhn trawen.
+        </head>
+        
+        <p>
+          <lb/>Da stehets / Wer Christus wort nicht hören / sonder meistern
+          <lb/>wil / der sol ym zorn vmbkomen / vn̄ dasselbig gar bald. Er wil
+          <lb/>nicht seumen. Man sol yhm dienen / vn̄ nicht seyn wort vnserm
+
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-b2r.jpg" n="b2r"/>
+          
+          <lb/>kopff zu dienen zwingen / Man sol yhn küssen vnd hulden / vnd
+          <lb/>nicht Christum oder sein wort vnserm dunckel vnterwerffen /
+          <lb/>Er wils nicht leyden / das ist kurtz vnd güt.
+        </p>
+        
+        <p>
+          <lb/>Solchs wil ich E. K. F. G. vntertheniglich angezeygt ha
+          <lb break="no"/>ben / ob Got wolt gnad verleyhen / durch ewr ettlichen vleiß vn̄
+          <lb/>arbeit / das der lesterung weniger würde / wo nicht / das doch fri
+          <lb break="no"/>de gestifft würde. Denn das der Babst sich rhümet mit den sei
+          <lb break="no"/>nen / inn einer zedel so gedruckt ist / der Keyser werde yhm alles
+          <lb/>wider restituiern vnd ergentzen / das wird yhm feylen / dz weis
+          <lb/>ich wol / Denn was were das anders / denn das wir solten al
+          <lb break="no"/>les widerrüffen / was wir yhe geleret haben / auch diese ytzige
+          <lb/>vberantwortte bekentnis / die yhr selbst müstet für recht halten.
+          <lb/>Vnd da gegen alle vorigen lügen preysen / der yhr alle selbst vil
+          <lb/>bekennet / Vnd alle das vnschuldig blut / das von ewerm theyl
+          <lb/>vergossen ist / auff vns laden. Ja lieber Babst vnnd Papisten
+          <lb/>gebt vns vor wider / Lenhard Keyser / vnd alle die yhr vnschul
+          <lb break="no"/>diglich erwürgt habt / alle seelen / die yr mit lügen verfüret habe
+          <lb/>alles gelt vnd güt das yhr mit bescheißerey geraubt habt / alle
+          <lb/>die ehre die yhr Gott mit lestern / gestoln habt / So wollen wir
+          <lb/>von der restitution handeln. Es sol ynn eine hystori geschriben
+          <lb/>werden / das der Babst vnd seine Papisten solch lesterlich ding
+          <lb/>thar vnverschampt vnd offentlich begeren / als were eytel klötze
+          <lb/>inn Deudschem lande / vnd auff dem Reichstage eytel affen /
+          <lb/>dazu alle Fürsten die es mit treiben / das sie bey vnsern nachko
+          <lb break="no"/>men ein ewiger stanck seyn solle / dafür man speyen vnd gocken
+          <lb/>müsse.
+        </p>
+        
+        <p>
+          <lb/>Aber der teufel sucht damit ein anders / Wolt Gott dz vn
+          <lb break="no"/>ser Herr alle wol drauf acht hetten. Wir Deudschen hören
+          <lb/>nicht auff dem Bapst vnd seinen Walen zu gläube̅ / biß sie vns
+          <lb/>bringen nicht in ein schweißbad / sonder in ein blüt bad. Wenn
+          <lb/>Deudsche Fürsten ynn ein ander fielen / das möcht den Bapst /
+          <lb/>das Florenzisch früchtlin / frölich machen / das er in die faust la
+          <lb break="no"/>chen
+
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-b2v.jpg" n="b2v"/>
+          
+          <lb break="no"/>chen kundt vnd sagen / Da yhr Deudsche bestien / wolttet mich
+          <lb/>nicht zum Bapst habe / so habt das. O grosse liebe vnd trewe
+          <lb/>hat er zum Keyser / wie er sein beweyset für Pauia / da er wider
+          <lb/>den Keyser zoch. Deudsch land hat er noch lieber / das er den
+          <lb/>Keyser auß Hispanien foddert (denn wer kundte solche practick mercken?)
+          <lb/>vnd darnach on bey sein der deudschen Fürsten /
+          <lb/>krönet / nach laut der Bullen. Ich bin kein prophet / aber ich bit
+          <lb/>te euch Herrn alle / sehet euch wol für / vn̄ laßt euch ia nicht dun
+          <lb break="no"/>cken / das yhr mit menschen handelt / wenn yhr mit Bapst vnnd
+          <lb/>den seinen handelt / sonder mit eitel teuffeln / Denn es sind auch
+          <lb/>eitel teuffels tücke dahinden / das weiß ich / Gott der almechtig
+          <lb/>helffe euch / das zum friden alles gerathe / Amen.
+        </p>
+        
+        <p>
+          <lb/>Hiemit wil ich E. K. F. G. im gottes gnaden befolhen habe /
+          <lb/>Vnd was ich mit beten kan / gar trewlich dienen. Vnd E. K.
+          <lb/>F. G. wolte mir solch schreiben gnediglich zu güt halten. Ich
+          <lb/>kans ia nicht lassen / ich muß auch sorgen für das arm / elend / ver
+          <lb break="no"/>lassen / veracht / verrathen vn̄ verkaufft Deudsch land / dem ich
+          <lb/>ia kein arges / sonder alles gütes gönne / als ich schuldig bin mei
+          <lb break="no"/>nem lieben vatterlande.
+        </p>
+        
+        <closer>
+          <dateline>
+            <lb/>Ex Eremo. Feria. 4. post Visita
+            <lb break="no"/>tionis / anno 1530.
+          </dateline>
+          
+          <salute>
+            <lb/>E. K. F. G.
+          </salute>
+          
+          <signed>
+            <lb/>Vntertheniger
+            <lb/>Martinus Luther.
+          </signed>
+        </closer>    
+      </div>
+      
+      
+    </body>
+  </text>
+</TEI>

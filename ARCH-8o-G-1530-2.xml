@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Auf das Schreien etlicher Papisten: a digital edition</title> <!-- Title of the DIGITAL edition -->
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>Taylor edition</date>
+        </edition>
+        <respStmt>
+          <resp> Edited by </resp>
+          <persName>Yijing Shi<lb/><!-- Editor Name -->
+          </persName>
+          
+        </respStmt>
+      </editionStmt>
+      <extent>4 folios.<note>complete</note></extent>
+      <!-- to be filled in/checked by student. This is the extent of the *digital* edition, not the printed book. The note should indicate whether the whole book has been digitised, (complete) or just a part (partial) -->
+      <publicationStmt>
+        <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+          University of Oxford, </publisher>
+        <date>2026. </date>
+        <availability>
+          <licence xml:id="xml_files"
+            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref
+              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+              Attribution-ShareAlike 4.0 International License</ref>
+            <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+          <licence xml:id="image_files"
+            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref
+              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+              Commons Attribution-NonCommercial-ShareAlike 3.0 International
+              License</ref> . </licence>
+        </availability>
+        
+        
+        <idno type="VD16">http://gateway-bayern.de/VD16+L+3882</idno>
+        <idno type="SOLO">https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/9gb1d2/alma990127553050107026</idno>
+      </publicationStmt>
+      <seriesStmt>
+      	<title xml:id="tayeditions">Taylor Editions: </title>
+        <title xml:id="treasures">Reformation</title><!-- guest  reformation treasures mazarinade -->
+      </seriesStmt>
+      <notesStmt>
+        <note type="images">[JPEG]</note>
+        <!-- Put the format of the accompanying images (values: "JPEG" (.jpg), "PNG" (.png), "TIFF2" (.tiff), "TIFF" (.tif), or the URI of the manifest for IIIF.)-->
+        
+        <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: ARCH.8o.G.1530(2).</p></note><!-- Fill in information indicated by square brackets -->
+        <note type="intro">
+          <p>This is a facsimile and transcription of <title>Auf das Schreien etlicher Papisten.</title>. </p> <!--Add title of source book-->
+          <p>The transcription was encoded in TEI P5 XML by Yijing Shi. </p><!--Add your name-->
+        </note>
+      </notesStmt>
+      <sourceDesc> <!-- Complete publication information of source text -->
+        <biblFull>
+          <titleStmt>
+            <title>Auf das Schreien etlicher Papisten</title>
+            <author>
+              <persName>Luther, Martin, 1483-1546</persName>
+            </author>
+            
+          </titleStmt>
+          
+          <publicationStmt>
+            <publisher>[Georg Wachter], </publisher>
+            <pubPlace>[Nürnberg]:  </pubPlace>
+            <date when="1530">1530</date>
+          </publicationStmt>
+         
+        </biblFull>
+        
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Created by encoding transcription from printed text.
+        </p>
+      </projectDesc>
+      <editorialDecl>
+        <p>***Editiorial Decisions go here***</p><!-- to be filled in by student -->
+      </editorialDecl>
+      
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ger">German</language><!-- language must be three letter ISO code, see https://www.loc.gov/standards/iso639-2/php/code_list.php -->
+        
+      </langUsage>
+      
+    </profileDesc>
+   
+  
+    <revisionDesc>
+      <change resp="#EH">
+        <date>2020-02</date>
+        <label>template created</label></change>
+      
+    </revisionDesc>
+  </teiHeader>
+  
+  <text xml:lang="ger" xml:id="ARCH-8o-G-1530-2">
+    <front><titlePage>
+        <docTitle> 
+          
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-titlepage.jpg" n="titlepage"/>
+          
+          <titlePart type="main"><lb/>Auff das schreyen
+            <lb/>etlicher Papisten / vber die
+            <lb/>sibentzehen Artickel.      
+            <lb/>Antwort Martini
+            <lb/>Luthers.
+            <lb/>Wittemberg.
+            <lb/>Im M.D.XXX. Jar.
+          </titlePart></docTitle>
+        <figure><figDesc>printer's ornament</figDesc></figure></titlePage></front>
+    
+    <body>
+      <div type="text">
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a1v.jpg" n="a1v"/>
+        
+        <div type="section" n="1">
+        <head type="chapter">
+          Dem Christlichen leser Martini Luther.
+        </head>
+        
+        <p>
+          <lb/><hi rend="initial">G</hi>nad vnd fride in Christo. Es sind newlich sibentzehen Artickel vnter
+          <lb/>meynem namen gedruckt außgangen / mit dem Titel / als wolt ich diesel
+          <lb break="no"/>bigen / auff den yetzigen Reychstag einlegen / Dauon ich doch nit kein ge
+          <lb break="no"/>dancken gehabt hab. War ists / das ich solche Artickel hab stellen helffen
+          <lb/>(oder sie sind nit von mir allen gestellet) mit vmb der Papisten willen / noch auff di
+          <lb break="no"/>sen Reychstag ein zulegen / Die wissen aber wol darumb / vmb welcher wi
+          <lb break="no"/>llen sie gestellet sind. Hette mich auch nicht versehen / das sie sollten an tag kummen/
+          <lb/>vil weniger / das sie mit solchem Titel vnter meynem namen sollten außgehen/
+          <lb/>Vnd wers gethan hat / hette mirs lieber gelassen / weyl er wol gewußt / das er
+          <lb/>von mir des keynen befelh noch Bewilligung gehabt hat.
+        </p>
+        
+        <p>
+          <lb/>Nicht das ich das leicht schew / oder solche Artickel nit recht hielte / sie sind
+          <lb/>alle zů gůt vnd vil zů köstlich darzů / das ich mit den Papisten darüber handlen
+          <lb/>sollt / Denn was fragen sie nach solchen schönen göttlichen Artickeln? Es were
+          <lb/>eben / als wer ich mit Sewen von perlen / vnd mit hunden vom heiligthumb han
+          <lb break="no"/>deln wolte / Es gehören artickel von tieffern vnd fleyssen / von knochen vnd bey
+          <lb break="no"/>nen für solche heyligen. Was solt der Sew muscaten? Es weren denn die
+          <lb/>drey Artickel / dieselbigen / halt ich / möchten sie dafür ansehen / als wider sie ge
+          <lb break="no"/>stellet. Dann dieselbigen treffen ein wenig ire trestern vnd knochen / die sie nit
+          <lb/>gerne fressen lassen.
+        </p>
+        
+        <p>
+          <lb/>Oder so man ire trestern vnd knochen nit wolt handlen / hette man auff dem
+          <lb/>heyligen geystlichen rechte wol dafür Opfer gifft vnd kauffes dreck / Als der ey
+          <lb break="no"/>ner ist / der da (Si Papa) heist / darinn steleten / Vnd wen der Babst so ein schent
+          <lb/>lich wesen fürete / das er damit vnselige Seelen zum teuffel täglich in die helle
+          <lb/>fürete / So sol man im dennoch nit darumb straffen noch weren. Das sind die
+          <lb/>rechten knoten vnd Artickel / dafür sie der welt güter fressen / Vnd dennoch al
+          <lb break="no"/>les vngebüsset / verstockt / vnerkant / diemeil morden vnd brennen / da es auch
+          <lb/>jr eygen recht nit zůlesset / Also sollen sie den lon jrs yrthumbs empfangen in
+          <lb/>sich selber / Bis das sie zů grund gehen / Amen.
+        </p>
+        
+        <p>
+          <lb/>Darumb bitte ich abermal die Drucker / das sie nit so zufaren / vnd mit jren
+          <lb/>vnseitigen drucken / mir vnlust / vnd den andern eynen Affenschwang machen.
+          <lb/>Ich hette zwar gern hie stille geschwigen vnd lassen gehen was da gehet / wenn
+          <lb/>das leydige scharren / rhümen / trotzen vnd lestern nicht darauff gefolget hette/
+          <lb/>das die Sew vnd Hunde so genau suchen / das sie auch schier erfahen meyne
+          <lb/>gedancken zů forschen vnd dauon zů schreiben.
+        </p>
+        
+        <p>
+          <lb/>Da last vns yetz auffsehen / das wir mit allem fleiß vnd ernst beten zů Gott
+          <lb/>anrüffen / das er sein gnad wolt geben auff den yetzigen reichstag / vnd dem fru
+          <lb break="no"/>men Keyser Carol / der wie ein vnschuldigs lemlein zwischen vil solchen Sew
+          <lb break="no"/>en vnd Hunden / ja zwischen vil teuffeln ligt / Bey welchen keyn Beten zů Gott/
+          <lb/>sonder eytel trotzen vnd pochen auff eygen weise vnd macht gehet / seinen heyl
+          <lb/>gen geist mit krafft verleihen / frieden vnd gůtes regiment anrichten in Teut
+          <lb break="no"/>schen landen / damit wir alle sampt der ruten entpflihen mügen / die vber vn
+          <lb break="no"/>ser haut schon gepunden ist / vnd vnser nit feylen wird / Gott muß selbs mit sey
+          <lb break="no"/>ner eygen macht auff dem Reichstag guts schaffen / sunst wirdt bey den Keyser
+          <lb/>Fürsten vnd aller reichstende rat vnd kunst nichts seyn / so gar zornig vnd bitter
+          <lb/>ist der teuffel / Vnd ein yeglicher dencke also / das solcher Reychstag im selber
+          <lb/>auffs höchst gelte / das er seyn gar schön geniessen sol / wo Gott da seyn wirdt/
+          <lb/>vnd gar übel entgelten / wo der teuffel da Apt seyn wirdt / wie ers im sinn hat/
+          <lb/>Vnd wol ander Artickel einzulegen gedenckt / die grausam sind auch ernstlichen.
+          <lb/>Gott helff vns Amen.
+        </p>
+       </div>
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a2r.jpg" n="a2r"/>      
+        
+        <div type="section" n="2">
+          <head>Der erst Artikel.</head>
+          <p>
+            <lb/>Das man fest vnd eintrechtiglich lere / das alleit ein einiger war
+            <lb/>hafftiger Got sey schöpffer himels vnd der erden / Also das in
+            <lb/>dem eynigen warhafftigen Göttlichen wesen / drey vnterschydliche
+            <lb/>person sind / Nemlich Got der vatter / Got der sun / Got der heylig
+            <lb/>geyst / Das der sun vom vatter geporn / von ewigkeyt zu ewigkeyt re
+            <lb break="no"/>chter natürlicher Got sey mit dem vatter / vnd der heylig geyst / Beyde
+            <lb/>vom vatter vnd sun ist / auch von ewigkeyt zu ewigkeyt rechter natur
+            <lb break="no"/>licher Got sey / mit dem vatter vñ sun / wie das alles durch die schrifft
+            <lb/>klerlich vnd gewaltiglich mag beweist werden / Als Johannis am
+            <lb/>i. Am anfang war das wort / vnd das wort war bey Got / vnd Got
+            <lb/>war das wort / Alle ding sind durch dasselbige gemacht / etc. Vnd
+            <lb/>Matthei vltimo / Gehet hin / leret alle Heyden / vnd tauffet sie im na
+            <lb/>men des vaters / vnd des suns / vnd des heyligen geysts / Vnd dergley
+            <lb break="no"/>chen sprüch mer / sonderlich im Euangelio Johannis.
+          </p>
+        </div>
+        
+        <div type="section" n="3">
+          <head>Der ander Artikel.</head>
+          <p>
+            <lb/>Das alleyn der sun Gottes sey warhafftiger mensch worden / em
+            <lb break="no"/>pfangen von dem heyligen geyst / von der reynen junckfraw Maria
+            <lb/>geporn / mit leyb vnd seel volkommen / vñ nit der vater oder heylig geyst
+            <lb/>sey mensch worden / wie die ketzer Patripassiani geleeret haben / Auch
+            <lb/>der sun nit allein den leyb on seel angenumen / wie die Phygner geir
+            <lb break="no"/>ret haben / Dann er selbst im Euangelio gar offt von seyner seel redet /
+            <lb/>Als da er spricht / Meyn seel ist Betrübt bis in den todt / etc. Das aber
+            <lb/>Got der sun sey mensch worden / stehet Johannis primo klerlich al
+            <lb break="no"/>so / Vnd das wort ist fleysch worden / etc. Vnd Gala. am iiii. Capi
+            <lb break="no"/>tel / Da die zeyt erfüllet ward / etc.
+          </p>
+        </div>
+        
+        <div type="section" n="4">
+          <head>Der dritt Artikel.</head>
+          <p>
+            <lb/>Das derselbig Gottes sun / warhafftiger Got vnd mensch / Jhesus
+            <lb/>Christus / sey ein eynige vnzertrennliche person / für vns menschen ge
+            <lb break="no"/>liden / gekreutziget / gestorben / begraben / am dritten tag aufferstanden
+            <lb/>von todt / auffgefahren gen hymel / sitzend zur rechten Gottes / herr
+            <lb/>vber alle creatur / Also das man nit glauben oder leren kan oder sol /
+            <lb/>das Jhesus Christus als der mensch oder die menschheyt für vns gelit
+            <lb break="no"/>ten habe / Sonder also / weyl Got vnd mensch / hie nit zwo person /
+            <lb/>sonder ein vnzertrennliche person ist / sol man halten vñ leren / das got
+            <lb/>vnd mensch / oder Gottes sun warhafftig für vns gelitten hat / wie
+            <lb/>Paulus zun Römern am .8. Capitel spricht / Gott hat seynes eygen
+     
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a2v.jpg" n="a2v"/>
+        
+        <lb/>suns nit verschont / sonder für vns alle dahin gegeben / etc. Vnd .i. Co
+        <lb break="no"/>rint. 2. Hetten sie es erkant / etc. vnd dergleichen sprüch mer.
+        </p>
+      </div>
+      
+      <div type="section" n="5">
+        <head>Der viert Artikel.</head>
+        
+        <p>
+          <lb/>Das die Erbsünd ein rechte warhafftige sünd sey / vñ nit allein ein
+          <lb/>feil oder gebrechen / sonder ein solche sünd / die alle menschen / so von
+          <lb/>Adam kumen / verdampt vnd ewigklich von Gott scheydet / wo nit
+          <lb/>Jhesus Christus vns vertretten / vnd solche sünd sampt allen sünden /
+          <lb/>so darauß folgen / auff sich genommen hette / Vnd durch seyn leyden
+          <lb/>gnüg darfür gethan / vnd sie also gantz auffgehaben vnd vertilget in
+          <lb/>sich selbs / Wie denn Psal. 51. vnd Rom. 5. von solcher sünd klerlich
+          <lb/>geschrieben ist.
+        </p>
+      </div>
+      
+      <div type="section" n="6">
+        <head>Der fünffte Artikel.</head>
+        
+        <p>
+          <lb/>Nach dem nu alle menschen sünder sind / der sünden vnd dem tod
+          <lb/>dazu dem teuffel vnterworffen / Jst es vnmüglich / das ein mensch
+          <lb/>sich auß seynen krefften / oder durch seyne gute werck herauß wircke /
+          <lb/>damit er wider gerecht oder frumb werde / Ja kan sich auch nit be
+          <lb break="no"/>reiten oder schicken zu der gerechtigkeyt / Sonder ye mer er fürnympt
+          <lb/>sich selbs herauß zu wircken / ye erger es mit yhm wird / Das ist aber der
+          <lb/>eynige weg zu der gerechtigkeyt / vnd zur erlösung von sünden vnd
+          <lb/>tod / so man on alle verdienst oder werck gläubt an den sun Gottes
+          <lb/>für vns gelitten / etc. wie gesagt / Solcher glaub ist vnser gerechtigkeyt /
+          <lb/>Dann Got wil für gerecht / frumb vnd heylig gerechnet vnd gehalten /
+          <lb/>alle sünd vnd ewiges leben geschencket haben / allen die solchen glau
+          <lb/>ben an seynen sun haben / das sie vmb seynes suns willen sollen zu ge
+          <lb/>naden genommen vnd kinder seyn in seynem reych / etc. Wie das alles
+          <lb/>S. Paul vnd Johannes in seynen Episteln reychlich leren / als Ro
+          <lb/>ma. 10. Mit dem hertzen gläubt man / etc. Johannis. 3. Alle die an den
+          <lb/>sun glauben / sollen nicht verloren werden / sonder das ewig leben ha
+          <lb/>ben / etc.
+        </p>
+      </div>
+      
+      <div type="section" n="7">
+        <head>Der sechst Artikel.</head>
+        
+        <p>
+          <lb/>Das solcher glaube sey nit ein menschlich werck noch auß vnsern
+          <lb/>krefften müglich / Sonder es ist ein Gottes werck vnd gabe / die der
+          <lb/>heylig geyst durch Christum gegeben / in vns wirckt / Vnd solcher
+          <lb/>glaube / dieweil er nit ein loser wahn oder dunckel des hertzen ist / wie
+          <lb/>die falsch gläubigen haben / sonder ein krefftiges / newes / lebendiges
+          <lb/>wesen / bringt er vil frücht / thüt ymmer guts / gegen Gott / mit loben /
+          <lb/>dancken / bitten / predigen / vnd leren / gegen dem nechsten / mit liebe /
+          
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a3r.jpg" n="a3r"/>
+          
+          <lb/>dienen / helffen / rahten / geben vnd leyhen / vnd leyden allerley vbels
+          <lb/>biß inn den todt / etc.
+        </p>
+      </div>
+        
+        <div type="section" n="8">
+          <head>Der sibend Artikel.</head>
+          
+          <p>
+            <lb/>Solchen glauben zu erlangen oder vns menschen zu geben / hat
+            <lb/>Got eingesetzt das predigampt oder müntlich wort / Nemlich das
+            <lb/>Euangelium / durch welches er solchen glauben vnd seyne macht /
+            <lb/>nuß vnd frucht verkündigen lest / vnnd gibt auch durch dasselbig /
+            <lb/>als durch ein mittel / den glauben / mit seynem heyligen geyst / wie vnd
+            <lb/>wo er wil / sunst ist keyn ander mittel noch weyse / weder weg noch
+            <lb/>steg / den glauben zu bekumen / Dann gedancken ausser oder vor dem
+            <lb/>müntlichen wort / wie heylig vnd güt sie scheynen / sind sie doch eitel
+            <lb/>lügen vnd yrthumb.
+          </p>
+        </div>
+        
+        <div type="section" n="9">
+          <head>Der acht Artikel.</head>
+          
+          <p>
+            <lb/>Bey vnd neben solchem müntlichen wort / hat Got auch eingesetzet
+            <lb/>eusserliche zeychen / die man Sacrament nennet / Nemlich die Tauff
+            <lb/>vnd Eucharistian / durch welche Got neben dem wort / auch den ge<lb break="no"/>lauben vnd seynen geist anbeut vnd gibt / vnd sterckt alle die seyn Be<lb break="no"/>geren.
+          </p>
+        </div>
+        
+        <div type="section" n="10">
+          <head>Der neundt Artikel.</head>
+          
+          <p>
+            <lb/>Das die Tauff / das erst zeychen oder Sacrament / steet in zweyen
+            <lb/>stücken / Nemlich im wasser vnd wort Gottes / oder das man mit
+            <lb/>wasser tauffe / vnd Gottes wort spreche / vnd sey nicht allein schlecht
+            <lb/>wasser / oder Begiessen (wie die Taufflesterey zurn vnd leren) Sonder
+            <lb/>weyl Gottes wort dabey ist / vnd sie auff Gottes wort gegründet / so
+            <lb/>ist es ein heylig / lebendig / krefftig ding / Vnd wie Paulus sagt / Titon
+            <lb/>3. Ephesios 5. Ein bad der widergeburt / vnd vernewerung des hey<lb break="no"/>ligen geysts / etc. Vnd das solche Tauff auch den kindlin zu reychen
+            <lb/>vnd mit zuteylen sey / Gottes wort aber / darauff sie stehet / sind dise /
+            <lb/>Gehet hin vnd tauffet im namen des vaters / vnd des suns / vnd des
+            <lb/>heyligen geystes / Matthey vnd Marci am letzten / Wer glaubet / etc.
+            <lb/>Da muß man glawben.
+          </p>
+        </div>
+        
+        <div type="section" n="11">
+          <head>Der zehend Artikel.</head>
+          
+          <p>
+            <lb/>Das Eucharistia oder des altares Sacrament steet auch in zweyen
+            <lb/>stucken / Nemlich das da sey warhafftigklich gegenwertig im brod
+            <lb/>vnd im weyn / der war leyb vñ Blut Christi / nach laut der wort / Das
+            <lb/>ist meyn leyb / das ist meyn Blut / vnd sey nicht alleyn brot vnd wein /
+            <lb/>wie yebzundt das widderteyl fürgibt / Dise wort fördern vnd bringen
+            
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a3v.jpg" n="a3v"/>
+            
+            <lb/>auch den glauben / vnd den selbigen / bey allen denen so solchs
+            <lb/>Sacrament begeren vnd nit darwider handeln / gleich wie die Tauff
+            <lb/>auch den glauben bringt vnd gibt / so man jr begeret.
+          </p>
+        </div>
+        
+        <div type="section" n="12">
+          <head>Der eylfft Artikel.</head>
+          
+          <p>
+            <lb/>Das die heymliche Beycht nicht sol erzwungen werden mit ge
+            <lb break="no"/>setzen / so wenig als die Tauff / Sacrament / Euangelion sollen er
+            <lb break="no"/>zwungen seyn / sondern frey / Doch das man wisse / wie gar tröstlich
+            <lb/>vnd heylsam / nützlich vnd güt sie sey den Betrübten oder yrrigen ge
+            <lb break="no"/>wissen / dieweil darynnen die absolution / das ist / Gottes wort vnd
+            <lb/>vrteyl gesprochen wirdt / dadurch das gewissen loß vnnd zu frieden
+            <lb/>wirt von seynem Bekümmernuß / Sey auch nicht not alle sünd zu er
+            <lb break="no"/>zelen / Man mag aber anzeigen / die so das hertz beyssen vn rürig
+            <lb/>machen / etc.
+          </p>
+        </div>
+        
+        <div type="section" n="13">
+          <head>Der zwölfft Artikel.</head>
+          
+          <p>
+            <lb/>Das keyn zweyffel sey / es sey vnd bleyb auff erden ein heilige Christ
+            <lb break="no"/>liche kirch / biß an der welt ende / wie Christus spricht Matthei vltimo
+            <lb/>Sihe / ich bin bey euch biß an der welt ende. Solche kirche ist nichts
+            <lb/>anders / denn die gläubigen an Christum / welche obgenante Artickel
+            <lb/>vnd stück halten / glauben vnd leren / vnd darüber verfolgt vnd ge
+            <lb break="no"/>martert werden in der welt / Denn wo das Euangelion geprediget
+            <lb/>wirt / vnd die Sacrament rechte gebraucht / da ist die heilige Christlich
+            <lb break="no"/>kirche / Vnd sie ist nicht mit gesetzen vnd eusserlicher pracht / an stett
+            <lb/>vnd zeyt / an person vnd geberde gepunden.
+          </p>
+        </div>
+        
+        <div type="section" n="14">
+          <head>Der dreyzehend Artikel.</head>
+          
+          <p>
+            <lb/>Das vnser herr Jhesus Christus an dem jüngsten tag kummen wird /
+            <lb/>zu richten die lebendigen vnd die todten / vnd seyne gläubige erlösen
+            <lb/>von allem vbel / vnd in das ewige leben bringen / Die vngläubigen
+            <lb/>vnd gotlosen straffen / vnd sampt den teuffeln in der helle verdam
+            <lb break="no"/>men ewigklich / etc.
+          </p>
+        </div>
+        
+        <div type="section" n="15">
+          <head>Der viertzehend Artikel.</head>
+          
+          <p>
+            <lb/>Das in deß / biß der Herr zu gericht kumpt / vnd alle gewalt vnd
+            <lb/>herrschafft auffheben wird / Sol man weltliche Oberkeyt vnd herrschafft
+            <lb/>in ehren haben vnd gehorsam seyn / Als eynen stand von Gott ver
+            <lb break="no"/>ordnet / zu schützen die frummen / vnd zu stewren den Bösen / Das sol
+            <lb/>chen stand ein Christ / wo er darzu ordenlich beruffen wird / on scha
+            <lb break="no"/>den vnd fahr seynes glaubens / vnd seyner seelen seligkeyt / wol führen
+            <lb/>oder darynnen dienen mag.
+          </p>
+        </div>
+        
+        <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-02/arch-8o-g-1530-02-a4r.jpg" n="a4r"/>
+        
+        <div type="section" n="16">
+          <head>Der fünfftzehend Artikel.</head>
+          
+          <p>
+            <lb/>Auf dem allen folget / das die lere / so den Priestern vnd geystlichen
+            <lb/>die Ehe / vnd in gemeyn hin / fleysch vnd speyse verbüt / sampt aller
+            <lb/>ley kloster leben vnd gelübden (weyl man dadurch gnade vnd seelen
+            <lb/>seligkeyt sucht vnd meynet / vnd nicht frey lest) eytel verdampte teü
+            <lb break="no"/>ffels lere sey / Wie es Sanct Paul .i. Timothy. 4. nennet / So doch
+            <lb/>alleyn Christus der eynige weg ist zu der gnaden vnd seelen selig
+            <lb break="no"/>keyt.
+          </p>
+        </div>
+        
+        <div type="section" n="17">
+          <head>Der sechzehend Artikel.</head>
+          
+          <p>
+            <lb/>Das vor allen greweyn / die Messen so biß hyher für ein opffer oder
+            <lb/>güt werck gehalten / damit eyns dem andern gnade erwerben hat wöl
+            <lb break="no"/>len / ab zu thün seyn / Sonder an stat solcher Messe ein Göttliche ord
+            <lb break="no"/>nung gehalten werde / Das heylig Sacrament des leybs vnd Blüts
+            <lb/>Christi / beyder gestalt zu reychen eynem yeglichen auff seynen glau
+            <lb break="no"/>ben / vnd zu seyner eygnen notdurfft.
+          </p>
+        </div>
+        
+        <div type="section" n="18">
+          <head>Der sibentzehend Artikel.</head>
+          
+          <p>
+            <lb/>Das man die Cerimonien der kirchen / welche wider Gottes wort
+            <lb/>streben / auch ab thüe / Die andern aber frey lasse seyn / derselbigen zu
+            <lb/>gebrauchen oder nicht / nach der liebe / Damit man nicht on vrsach
+            <lb/>seychtes fertige ergernus gebe / oder gemeynen friede on not betrübe / etc.
+          </p>
+        </div>
+        
+        
+      </div>
+    </body>
+  </text>
+</TEI>
