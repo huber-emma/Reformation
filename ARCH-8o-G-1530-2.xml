@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,16 +22,12 @@
           University of Oxford, </publisher>
         <date>2026. </date>
         <availability>
-          <licence xml:id="xml_files"
-            target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
-            available for download under a <ref
-              target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+          <licence xml:id="xml_files" target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+            available for download under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
               Attribution-ShareAlike 4.0 International License</ref>
             <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
-          <licence xml:id="image_files"
-            target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
-            reproduced from the Bodleian Library under a <ref
-              target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+          <licence xml:id="image_files" target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+            reproduced from the Bodleian Library under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
               Commons Attribution-NonCommercial-ShareAlike 3.0 International
               License</ref> . </licence>
         </availability>
@@ -75,7 +70,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -125,7 +120,7 @@
         
         <div type="section" n="1">
         <head type="chapter">
-          Dem Christlichen leser Martini Luther.
+          Dem Christlichen leser Martin Luther.
         </head>
         
         <p>
