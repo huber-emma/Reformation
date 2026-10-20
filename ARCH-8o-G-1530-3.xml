@@ -68,7 +68,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -138,8 +138,10 @@
           <lb/>muͤgen den[n] sonst yemand / hab ich mich lassen meine gedancken
           <lb/>vbermügen E. K. F. G. in sonderheyt vntertheniglich mit di#<lb break="no"/>ser schrifft zu ersuchen / auff das ich ya allenthalben reichlich dz<lb/>mein thun / vnd mein gewissen gegen Gott vnd der welt bewa
           <lb break="no"/>re / ob villeicht ein vngluͤck vnd Gottes zorn folgen würde (als
-          <lb/>ich warlich vbel fuͤrchte) ich hiemit entschuldiget sey / als der ich<pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a2v.jpg" n="a2v"/>  
+          <lb/>ich warlich vbel fuͤrchte) ich hiemit entschuldiget sey / als der ich
           <lb/><fw type="catch">auff</fw>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-03/arch-8o-g-1530-03-a2v.jpg" n="a2v"/>  
+      
           
           <lb/>auff alle wege habe friden helffen suchen vnd angebotten.
           <lb/>E. K. F. G. haben der vnsern vbergeben bekentnis vnnd
