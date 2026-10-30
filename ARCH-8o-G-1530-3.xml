@@ -68,7 +68,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -345,11 +345,9 @@
         </head>
         
         <p>
-          <lb/>So sol man König vnd fürsten anreden / Was wil das wer
-          <lb break="no"/>den? Es ist nie auff erden solch schendlich lesterlich ding geredt.
-          <lb/>Sollen König klug werden? Meinstu denn das sie narren sind?
-          <lb/>Sollen richter sich lassen züchtigen? Mein stu denn / das es kin
-          <lb break="no"/>der inn der schülen sind? Key König sind zuuor klug / haben ge
+          <lb/>So sol man konig vnd fürsten anreden / Was wil das wer#<lb break="no"/>den? Es ist nie auff erden solch schendlich lesterlich ding geredt.
+          <lb/>Sollen konig klug werden? Meinstu den[n] das sie narren sind?
+          <lb/>Sollen richter sich lassen zuchtigen? Meinstu denn das es kin#<lb break="no"/>der inn der schülen sind? Key König sind zuuor klug / haben ge
           <lb break="no"/>setze / landrecht / Juristen vnd Rethe / wissen wol was sie thun
           <lb/>sollen. Die richter auch also / haben auch / recht / sitten / weise vnd
           <lb/>maß / brauch vnd gewonheyt / wissen wol was sie richten / vrtey
