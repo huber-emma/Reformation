@@ -68,7 +68,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -251,11 +251,12 @@
           <lb/>Weil denn nu E. F. G. wissen / das solch gro#<lb break="no"/>ste schwere stuͤck vnd schendlich ergernis nicht zu
           <lb/>dulden / vnd ewrm landsfuͤrsten solchen raub vn[d] sie
           <lb/>uel des weibs / nicht zu schuͤtzen / sondern zu straffen
-          <lb/>gebuͤrt /
+        
+           <lb/><fw type="catch">gebuͤrt /</fw>
 
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-04/arch-8o-g-1530-04-a4r.jpg" n="a4r"/>
 
-          <lb break="no"/>gebürt / hab ich mich lassen des guten gesellen not vn̄
+          <lb break="no"/>gebuͤrt / hab ich mich lassen des guten gesellen not vn̄
           <lb/>vnfal / zwingen / E. F. G. mit schrifften zu ersuchen /
           <lb/>Denn weil E. F. G. ym Bischöfftlichen ampt sitz
           <lb break="no"/>en / wissen sie wol / wes befelhs ynn solchen stücken /
