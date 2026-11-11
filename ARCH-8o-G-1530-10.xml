@@ -68,7 +68,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -391,25 +391,31 @@
           <lb/>kanst. Kan sich doch ein kauffman also schicke[n] / das er vmb
           <lb/>gelt vn[d] gůts willen zů gewinnen zeucht von haus vn[d] hofe /
           <lb/>weib vnd kindt / vnd wagt vmb des schendtlichen gewinß
-          <lb/>wegen / sein leib vnd leben / vnd hat doch kein gewise ver#<lb break="no"/>heissung noch zůsagung / das er gesund werde wider heym
+          <lb/>wegen / sein leib vnd leben / vnd hat doch kein gewise ver#
+          <lb break="no"/>heissung noch zůsagung / das er gesund werde wider heym
           <lb/>zů weib vn[d] kind kom[m]en / dannoch ist er so tollkuͤne vnd ver
           <lb break="no"/>wegen / vn[d] wagt sich frey dahin in solche ferligkeyt on alle
           <lb/>verheissung. Kan nun ein sölchs ein kauffman thun / vmb
           <lb/>gelts vn[d] gůtes willen / pfuy dich / dz wir ein gerings creutz
           <lb/>mit tragen wöllen / vn̄ wöllen dannoch Christen sein / vnd
           <lb/>haben darzů den baume in vnsern feusten / daran wir vns
-          <lb/>wider die wellen halten / nemlich das wort vnnd die star#<lb break="no"/>cken feinen verheyssung / das wir ya nicht sollen von den
+          <lb/>wider die wellen halten / nemlich das wort vnnd die star#
+          <lb break="no"/>cken feinen verheyssung / das wir ya nicht sollen von den
           <lb/>wasserwogen ersaufft werden. Also thůt jm auch ein reüt#
-          <lb/>er / der gibt sich dahin in krieg / da??<lb/>so vil spieß / helleparten@<lb/>vnd büchsen auff yhn gericht sein /hat auch kein verheis#
+          <lb/>er / der gibt sich dahin in krieg / da so vil spieß / helleparten
+          <lb/>vnd büchsen auff yhn gericht sein /hat auch kein verheis#
           <lb/>sung / der er sich trösten kuͤndt / denn allein seinen tollen
           <lb/>synn / noch gehet ers hinan / So doch dasselb gantz leben
           <lb/>nichts anders ist / dann ein hartes leben vnd leyden. Also
           <lb/>thun yhm die Papisten auch / die lassen sich keiner muͤhe
-          <lb/>noch arbeyt gerewen / nur das sie yhren grewel vn[d] abgöt#<lb/>terey wider auffrichten. Wie vil haben sie nur / sind der zeit
-          <lb/>do das Euangelion ist angangen / radtschlag fürgenom#<lb break="no"/>men / vnd noch heüttigs tags fuͤr vnd fuͤr einen uͤber den an
+          <lb/>noch arbeyt gerewen / nur das sie yhren grewel vn[d] abgöt#
+          <lb/>terey wider auffrichten. Wie vil haben sie nur / sind der zeit
+          <lb/>do das Euangelion ist angangen / radtschlag fürgenom#
+          <lb break="no"/>men / vnd noch heüttigs tags fuͤr vnd fuͤr einen uͤber den an
           <lb break="no"/>dern / die alle zů ruͤck sind gangen / vnd zů aschen worden /
           <lb/>auch zetzund noch / lassen sie sich duͤncken / vnd sind gewiß /
-          <lb/>sie wöllens hinaus singen / vnd das wort Gottes vnterdruͤ<lb break="no"/>cken / gehen also in einer lauttern tollkuͤhnheyt hereyn.
+          <lb/>sie wöllens hinaus singen / vnd das wort Gottes vnterdruͤ
+          <lb break="no"/>cken / gehen also in einer lauttern tollkuͤhnheyt hereyn.
         </p>
       
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b2r.jpg" n="b2r"/> 
