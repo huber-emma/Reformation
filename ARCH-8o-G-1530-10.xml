@@ -68,7 +68,7 @@
         
       </sourceDesc>
     </fileDesc>
-    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><xenoData/><encodingDesc>
       <projectDesc>
         <p>Created by encoding transcription from printed text.
         </p>
@@ -153,6 +153,7 @@
           <lb/>Got hat es also beschlossen / das wir nit allein in den creu#
           <lb break="no"/>zigten Christum glauben / sonder auch mit jm gecreutzigt
           <lb/>vnd leyden sollen / wie ers dann klaͤrlich anzeigt an vil Ort#
+          <lb/><fw type="catch">ten</fw>
           <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a2r.jpg" n="a2r"/>      
 
         <lb/>ten in den Euangelien / Wer sein creutz nicht auff sich ny#
@@ -196,6 +197,7 @@
           <lb break="no"/>welen / sonder werden vnwillig daruͤber / vn[d] wehren sich
           <lb/>mit der faust / Das ist dann ein huͤbschs vnd loͤblichs ley#
           <lb break="no"/>den / vnd dannoch duͤrffen sie vns die schuld geben / als lere
+          <lb/><fw type="catch">ten</fw>
 
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a2v.jpg" n="a2v"/>      
         
@@ -240,6 +242,7 @@
           <lb/>geben / dz jch also ewigliche[n] mit jm lebe? Sihe also wuͤrdt
           <lb/>das leyden suͤß vnd leicht / vn[d] wurde nicht mer eyn ewigs
           <lb/>leyden / sonder ein modicum seyn / das ein kleine zeyt weret
+          <lb/><fw type="catch">vnd</fw>
         
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a3r.jpg" n="a3r"/>      
         
@@ -280,6 +283,7 @@
           <lb break="no"/>gin[n] der welt / Dan[n] es ist ya eben derselbig got / der alweg ge
           <lb break="no"/>wesen ist / So ist auch ebe[n] ds die ursach / daru[m]b wir leyden
           <lb/>da alle heyligen vmb gelitten haben / von anbeginn. Die
+          <lb/><fw type="catch">gantz</fw>
           <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a3v.jpg" n="a3v"/>      
         
            <lb break="no"/>gantz welt můß vns ya deß zeügnus geben / das wir nicht
@@ -319,7 +323,8 @@
           <lb/>haut faren / das jn die gantz welt zů eng wuͤrdt. Also koͤn#
           <lb break="no"/>nen sie keyn maß weder in gluͤck / noch vngluͤck halten /
           <lb/>Gehet es in wol / so sind sie die freuelichste[n] / trůtzigsten vn[d]
-          <lb/>hochmuͤttigsten leüt / die man finde[n] sol / Gehet es jn uͤbel /     
+          <lb/>hochmuͤttigsten leüt / die man finde[n] sol / Gehet es jn uͤbel /  
+          <lb/><fw type="catch">so sind</fw>   
         
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a4r.jpg" n="a4r"/>         
         
@@ -361,6 +366,7 @@
           <lb/>angieng / platzet yederman darauff / vnd wolt auch Euan#
           <lb break="no"/>gelisch sein / Da ward also ein verlangen vnd durst darnach /
           <lb/>das kein Backoff so hitzig ist / als die leüte dazůmal waren.
+          <lb/><fw type="catch">Aber</fw>
           
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-a4v.jpg" n="a4v"/> 
           
@@ -401,7 +407,9 @@
           <lb/>gar zů boden gehen / vnd zerfallen / Aber auff jhenem theyl
           <lb/>sind sie sicher / vnd stolz / meynen sie habens schon. Jch sihe
           <lb/>es auch wol / das der lieb Christofel sinckt / dennoch kombt
-          <lb/>er herauß / dann er hat einen Baume / da helt er sich an.Di#<pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b1r.jpg" n="b1r"/>
+          <lb/>er herauß / dann er hat einen Baume / da helt er sich an.Di#
+          <lb/><fw type="catch">ser</fw>
+          <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b1r.jpg" n="b1r"/>
         
           <lb break="no"/>ser Baume sind die verheissung / das Christus mitt vnserm
           <lb/>leyden ein sünderlichs wil thun / Jn der welt (spricht er)
@@ -441,7 +449,7 @@
           <lb/>so wuͤrdt uͤbel erger. Bist du in anfechtung vnd leyden / so
           <lb/>sprich also / wolan / diß creutz hab ich mir ya nit selbs erwelt
           <lb/>vn[d] zůgericht / es ist des lieben worts Gottes schulde / das
-
+        <lb/><fw type="catch">jch</fw>
 
         
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b1v.jpg" n="b1v"/>       
@@ -481,6 +489,7 @@
           <lb/>auch zetzund noch / lassen sie sich duͤncken / vnd sind gewiß /
           <lb/>sie wöllens hinaus singen / vnd das wort Gottes vnterdruͤ
           <lb break="no"/>cken / gehen also in einer lauttern tollkuͤhnheyt hereyn.
+          <lb/><fw type="catch">Duͤrffen</fw>
         </p>
       
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b2r.jpg" n="b2r"/> 
@@ -524,6 +533,7 @@
           <lb break="no"/>en / die vns Christus vnser lieber herr gelassen hat / wenn
           <lb/>wir vmb seines worts willen leyden. Thůt man es aber nit
           <lb/>vnd lest die tröstliche spruͤch faren / wen[n] das creutz kompt /
+          <lb/><fw type="catch">so wirdt</fw>
       
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b2v.jpg" n="b2v"/> 
         
@@ -568,6 +578,7 @@
           <lb/>was do ist / vnd wuͤrffs in einander. Aber keinem ding ist
           <lb/>er als feindt / als dem lieben wort / vnd das darumb / er kan
           <lb/>sich vnter allen andern creaturen Bergen / allein das wort
+          <lb/><fw type="catch">das</fw>
 
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b3r.jpg" n="b3r"/> 
           
@@ -606,6 +617,7 @@
           <lb/>ein fels / wie es Christus nennet / der nit zů gewinnen ist.
           <lb/>So last vns leyden was vns zůkombt / so können wir er#
           <lb break="no"/>faren / das vns Gott Beystehen will / vns zů schuͤtzen vnd
+          <lb/><fw type="catch">schir#</fw>
 
         <pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b3v.jpg" n="b3v"/> 
           
@@ -650,6 +662,7 @@
           <lb/>hat / dann nyergendts kein kley: Des hat yhm nit den leyb
           <lb/>allein / sunder das hertz geruͤret. So ist nun durch das ley#
           <lb break="no"/>den Christi / auch aller seiner heyligen leyden eyttel heyl#
+          <lb/><fw type="catch">thůmb</fw>
           <lb break="no"/><pb facs="https://raw.githubusercontent.com/huber-emma/Reformation/refs/heads/main/images/arch-8o-g-1530-10/arch-8o-g-1530-10-b4r.jpg" n="b4r"/>
 
           <lb/>thůmb worden / dann es ist mit dem leyden Christi Bestri#
